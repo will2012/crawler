@@ -1,0 +1,10 @@
+中部西部|陕西|咸阳|http://www.dianping.com/xianyang|帝都酒店|/shop/5445054|秦都区中心城区||高档型&服务好&很干净&交通方便&很安静|￥347|sml-str40
+中部西部|陕西|咸阳|http://www.dianping.com/xianyang|海泉湾温泉世界|/shop/13753657|秦都区中心城区|步行至咸阳湖景区22分钟|高档型&温泉不错&服务好&很干净&交通方便||sml-str40
+中部西部|陕西|咸阳|http://www.dianping.com/xianyang|杨凌国际会展中心酒店|/shop/5172359|杨陵区中心城区|步行至杨凌树木园8分钟|四星级酒店&服务好&位置好&很干净|￥268|sml-str40
+中部西部|陕西|咸阳|http://www.dianping.com/xianyang|红螺湾假日酒店|/shop/13753655|秦都区中心城区|步行至秦隆步行街5分钟|高档型&位置好|￥111|sml-str40
+中部西部|陕西|咸阳|http://www.dianping.com/xianyang|阳光假日酒店|/shop/4116074|秦都区中心城区|步行至中宏时代广场2分钟|舒适型&交通方便&服务好&很安静&很干净|￥228|sml-str30
+中部西部|陕西|咸阳|http://www.dianping.com/xianyang|湖滨国际酒店|/shop/5507470|渭城区|步行至海德堡11分钟|舒适型&位置好&很干净&服务好|￥168|sml-str35
+中部西部|陕西|咸阳|http://www.dianping.com/xianyang|鸿仁酒店|/shop/21703619|兴平市其他||舒适型&服务好|￥180|sml-str35
+中部西部|陕西|咸阳|http://www.dianping.com/xianyang|彬州宾馆|/shop/5261049|彬县其他||经济型||sml-str35
+中部西部|陕西|咸阳|http://www.dianping.com/xianyang|兴化宾馆|/shop/18307984|兴平市中心城区||舒适型|￥188|sml-str30
+中部西部|陕西|咸阳|http://www.dianping.com/xianyang|秦陇恺天酒店|/shop/22504288|长武县其他||舒适型&很干净|￥158|sml-str40

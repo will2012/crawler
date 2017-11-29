@@ -1,0 +1,9 @@
+中部西部|河南|开封|http://www.dianping.com/kaifeng|开封开元名都大酒店|/shop/4126050|金明广场/开元购物广场|步行至黄河大堤7分钟|五星级酒店&风景不错&很干净&服务好&交通方便&位置好&很安静&早餐很棒&房间大&睡眠舒适&家的感觉|￥1500|sml-str50
+中部西部|河南|开封|http://www.dianping.com/kaifeng|开封中州国际饭店|/shop/5188438|小宋城|步行至黄河大堤10分钟|五星级酒店&交通方便&服务好&很干净&早餐很棒&位置好&性价比高&家的感觉&房间大&很安静|￥588|sml-str45
+中部西部|河南|开封|http://www.dianping.com/kaifeng|新东苑大酒店|/shop/21135741|宋门||高档型&很干净&服务好&睡眠舒适|￥216|sml-str40
+中部西部|河南|开封|http://www.dianping.com/kaifeng|开封黄河迎宾馆|/shop/10649890|开封县中心城区||四星级酒店&服务好&很干净|￥342|sml-str45
+中部西部|河南|开封|http://www.dianping.com/kaifeng|金源大酒店|/shop/5169920|鼓楼区|步行至包公祠22分钟|四星级酒店&很干净&服务好|￥289|sml-str35
+中部西部|河南|开封|http://www.dianping.com/kaifeng|新登少林大酒店|/shop/14890341|兰考县中心城区||经济型||sml-str40
+中部西部|河南|开封|http://www.dianping.com/kaifeng|蓝湾假日酒店|/shop/22442443|兰考县其他||舒适型|￥99|sml-str40
+中部西部|河南|开封|http://www.dianping.com/kaifeng|煌极温泉宾馆|/shop/19746636|汴京桥||经济型||sml-str35
+中部西部|河南|开封|http://www.dianping.com/kaifeng|开封古城青年旅舍|/shop/23905586|大梁门||经济型|￥35|sml-str35

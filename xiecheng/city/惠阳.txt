@@ -1,0 +1,9 @@
+华南地区|广东|惠阳|http://www.dianping.com/huiyang|家路国际大酒店|/shop/5151711|淡水||五星级酒店&服务好&交通方便&很干净|￥378|sml-str40
+华南地区|广东|惠阳|http://www.dianping.com/huiyang|丽景国际花园酒店|/shop/5151714|淡水||四星级酒店&很干净&服务好|￥458|sml-str45
+华南地区|广东|惠阳|http://www.dianping.com/huiyang|世纪华园大饭店|/shop/12368306|土湖白云坑||四星级酒店&很干净&交通方便|￥419|sml-str40
+华南地区|广东|惠阳|http://www.dianping.com/huiyang|龙光城戴斯酒店|/shop/12368138|惠阳区其他||高档型&房间大&很安静|￥428|sml-str40
+华南地区|广东|惠阳|http://www.dianping.com/huiyang|惠州碧桂园凤凰酒店|/shop/9006484|淡水||豪华型|￥378|sml-str35
+华南地区|广东|惠阳|http://www.dianping.com/huiyang|大亚湾海湾假日公寓|/shop/3227194|澳头大亚湾|步行至澳头港3分钟|高档型&服务好&很安静|￥420|sml-str40
+华南地区|广东|惠阳|http://www.dianping.com/huiyang|新都会大酒店|/shop/5152278|土湖白云坑||四星级酒店&很干净|￥228|sml-str35
+华南地区|广东|惠阳|http://www.dianping.com/huiyang|一呆公寓·惠州华润小径湾|/shop/32631901|惠阳区其他||高档型|￥243|sml-str35
+华南地区|广东|惠阳|http://www.dianping.com/huiyang|游天下斯凯酒店公寓|/shop/23350024|澳头大亚湾||经济型&家的感觉|￥138|sml-str40

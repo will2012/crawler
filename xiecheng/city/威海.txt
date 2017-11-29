@@ -1,0 +1,16 @@
+华东地区|山东|威海|http://www.dianping.com/weihai|威海百纳中心大酒店|/shop/5168191|华联商厦|步行至小吃一条街3分钟|四星级酒店&风景不错&服务好&很干净&位置好&交通方便&早餐很棒&房间大&性价比高&很安静&家的感觉|￥467|sml-str45
+华东地区|山东|威海|http://www.dianping.com/weihai|铂丽斯国际大酒店|/shop/5795930|经区乐天马特||豪华型&服务好&很干净&早餐很棒&交通方便&房间大&位置好|￥478|sml-str40
+华东地区|山东|威海|http://www.dianping.com/weihai|威海天沐温泉度假村|/shop/5787510|文登市中心城区||豪华型&温泉不错&很干净&服务好|￥573|sml-str40
+华东地区|山东|威海|http://www.dianping.com/weihai|倪氏海泰大酒店|/shop/5795613|文登市中心城区||豪华型&很干净&服务好&交通方便&性价比高&位置好&房间大|￥1268|sml-str40
+华东地区|山东|威海|http://www.dianping.com/weihai|港湾大酒店|/shop/2736733|石岛其他||舒适型&中式古典风&风景不错&很干净&交通方便&位置好&很安静&服务好&房间大&早餐很棒|￥888|sml-str40
+华东地区|山东|威海|http://www.dianping.com/weihai|威海九龙晟大酒店|/shop/20655472|九龙城||高档型&服务好&很干净&位置好|￥394|sml-str40
+华东地区|山东|威海|http://www.dianping.com/weihai|薄荷酒店|/shop/18271821|中信银行||经济型&很干净&服务好&交通方便&位置好|￥109|sml-str40
+华东地区|山东|威海|http://www.dianping.com/weihai|威海国际海景城酒店|/shop/5409172|海水浴场||高档型&海景赞&位置好&很干净&服务好&交通方便&房间大|￥666|sml-str35
+华东地区|山东|威海|http://www.dianping.com/weihai|格林豪泰商务酒店|/shop/17167184|文登市中心城区||经济型&性价比高&服务好&很干净|￥109|sml-str40
+华东地区|山东|威海|http://www.dianping.com/weihai|国际商务大酒店|/shop/4224889|大润发||高档型&位置好&服务好||sml-str40
+华东地区|山东|威海|http://www.dianping.com/weihai|东山宾馆|/shop/5747952|环翠区||舒适型||sml-str40
+华东地区|山东|威海|http://www.dianping.com/weihai|福如东海书画院客房|/shop/19368049|乳山市中心城区||舒适型&中式古典风&位置好&很安静&服务好||sml-str35
+华东地区|山东|威海|http://www.dianping.com/weihai|博霞新馆|/shop/5380566|其他地区|步行至神雕山野生动物园11分钟|三星级酒店&很干净&位置好&交通方便||sml-str35
+华东地区|山东|威海|http://www.dianping.com/weihai|威海锦湖韩亚高尔夫俱乐部|/shop/5412072|远遥||豪华型||sml-str35
+华东地区|山东|威海|http://www.dianping.com/weihai|金俪雅商务酒店|/shop/5168118|利群商厦|步行至中央电视台威海影视基地16分钟|三星级酒店||sml-str30
+华东地区|山东|威海|http://www.dianping.com/weihai|国际金融大酒店|/shop/13756117|抱海||高档型|￥99|sml-str35

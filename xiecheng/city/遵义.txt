@@ -1,0 +1,7 @@
+中部西部|贵州|遵义|http://www.dianping.com/zunyi|丽都酒店|/shop/5173297|汇川区|步行至洞天寺14分钟|四星级酒店&交通方便|￥219|sml-str40
+中部西部|贵州|遵义|http://www.dianping.com/zunyi|皇室假期酒店|/shop/5571218|香港路|步行至洞天寺3分钟|舒适型|￥128|sml-str35
+中部西部|贵州|遵义|http://www.dianping.com/zunyi|金黔嘉华大酒店|/shop/5572080|遵义县中心城区||四星级酒店&很干净|￥338|sml-str40
+中部西部|贵州|遵义|http://www.dianping.com/zunyi|同盛浙旅大酒店|/shop/22363842|赤水市中心城区||豪华型|￥411|sml-str45
+中部西部|贵州|遵义|http://www.dianping.com/zunyi|湄潭大酒店|/shop/5570725|湄潭县其他|步行至湄潭文庙7分钟|经济型|￥158|sml-str40
+中部西部|贵州|遵义|http://www.dianping.com/zunyi|华洋温泉酒店|/shop/14900182|海尔大道||舒适型||sml-str30
+中部西部|贵州|遵义|http://www.dianping.com/zunyi|海洋方舟主题酒店|/shop/13762208|外环路|步行至毛泽东张间王稼祥住址16分钟|舒适型||sml-str30

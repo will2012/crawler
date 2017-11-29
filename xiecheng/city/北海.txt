@@ -1,0 +1,16 @@
+华南地区|广西|北海|http://www.dianping.com/beihai|北海金昌开元名都大酒店|/shop/5502886|桥港|步行至侨港海滩12分钟|豪华型&风景不错&别墅&游泳池赞&服务好&位置好&很干净&早餐很棒&交通方便&房间大&睡眠舒适&性价比高|￥508|sml-str45
+华南地区|广西|北海|http://www.dianping.com/beihai|北海香格里拉大酒店|/shop/2621791|海城区|步行至普度震宫6分钟|五星级酒店&海景赞&游泳池赞&风景不错&服务好&很干净&早餐很棒&交通方便&位置好|￥606|sml-str40
+华南地区|广西|北海|http://www.dianping.com/beihai|一号海景地标度假公寓酒店|/shop/19274419|海城区|步行至普度震宫20分钟|经济型&位置好&家的感觉|￥148|sml-str40
+华南地区|广西|北海|http://www.dianping.com/beihai|北部湾一号茉莉花度假酒店公寓|/shop/18586341|海城区|步行至普度震宫23分钟|高档型&风景不错&很干净|￥148|sml-str40
+华南地区|广西|北海|http://www.dianping.com/beihai|北海辰茂海滩酒店|/shop/3592894|银海区|步行至银滩旅游区11分钟|四星级酒店&位置好&很干净&房间大|￥560|sml-str35
+华南地区|广西|北海|http://www.dianping.com/beihai|喜莱逢海景大酒店|/shop/14199344|银海区|步行至侨港海滩12分钟|高档型&风景不错&位置好&很干净&房间大|￥295|sml-str35
+华南地区|广西|北海|http://www.dianping.com/beihai|银帆酒店|/shop/8047215|海城区|步行至北部湾广场20分钟|舒适型&交通方便&很干净&位置好&很安静|￥248|sml-str40
+华南地区|广西|北海|http://www.dianping.com/beihai|奶牛酒店|/shop/14889853|北部湾广场|步行至北部湾广场2分钟|经济型|￥90|sml-str40
+华南地区|广西|北海|http://www.dianping.com/beihai|北海巴伐利亚酒店|/shop/13901961|海城区|步行至昇平街19分钟|高档型&很干净&很安静&服务好|￥347|sml-str40
+华南地区|广西|北海|http://www.dianping.com/beihai|莱丽酒店|/shop/23625861|海城区||高档型|￥345|sml-str40
+华南地区|广西|北海|http://www.dianping.com/beihai|北海银滩太重兴业度假村|/shop/8026966|银海区|步行至金海湾红树林22分钟|经济型&别墅&位置好|￥118|sml-str35
+华南地区|广西|北海|http://www.dianping.com/beihai|北海银滩昆仑海游多多客栈|/shop/13733587|银海区|步行至银滩旅游区22分钟|经济型|￥108|sml-str40
+华南地区|广西|北海|http://www.dianping.com/beihai|美途旅居-北部湾1号海景度假公寓|/shop/18269746|海城区|步行至普度震宫8分钟|经济型||sml-str35
+华南地区|广西|北海|http://www.dianping.com/beihai|涠洲岛灏源盛世驿站|/shop/13771460|涠洲岛风景区|步行至三婆庙17分钟|舒适型||sml-str30
+华南地区|广西|北海|http://www.dianping.com/beihai|途愉一线海景酒店公寓|/shop/22283572|海城区||经济型|￥118|sml-str35
+华南地区|广西|北海|http://www.dianping.com/beihai|北海银谷湾大酒店|/shop/5155438|银滩|步行至银滩旅游区15分钟|经济型|￥128|sml-str20

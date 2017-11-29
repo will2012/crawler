@@ -1,0 +1,5 @@
+中部西部|湖南|永州|http://www.dianping.com/yongzhou|维也纳酒店|/shop/13763357|远志·新外滩||舒适型&位置好&房间大|￥227|sml-str50
+中部西部|湖南|永州|http://www.dianping.com/yongzhou|南华大酒店|/shop/5160707|冷水滩区||四星级酒店&服务好&早餐很棒&交通方便&很安静|￥238|sml-str45
+中部西部|湖南|永州|http://www.dianping.com/yongzhou|豪廷国际大酒店|/shop/5379052|远志·新外滩||舒适型&位置好&房间大&交通方便&很干净|￥309|sml-str45
+中部西部|湖南|永州|http://www.dianping.com/yongzhou|尚客优快捷酒店|/shop/13902562|东安县其他||经济型|￥119|sml-str35
+中部西部|湖南|永州|http://www.dianping.com/yongzhou|红太阳大酒店|/shop/8897009|零陵区|步行至愚溪1分钟|高档型&位置好&很干净|￥187|sml-str35

@@ -1,0 +1,2 @@
+中部西部|陕西|彬县|http://www.dianping.com/binxianshi|彬州宾馆|/shop/5261049|彬县其他||经济型||sml-str35|Error: getaddrinfo ENOTFOUND www.dianping.com www.dianping.com:443
+中部西部|陕西|彬县|http://www.dianping.com/binxianshi|彬州宾馆|/shop/5261049|彬县其他||经济型||sml-str35|地址：西大街41号|029-34928888

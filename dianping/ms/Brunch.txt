@@ -1,0 +1,658 @@
+Brunch|W+S CAFE by NAPOLEON|sml-str45|2715|￥158|音乐学院|淮海中路1298号1楼|8.0|9.0|8.5|http://www.dianping.com/shop/18487457|http://www.dianping.com/search/category/1/10/g34015
+Brunch|da Ivo 意大利魔镜餐厅|sml-str50|1576|￥806|外滩|金陵东路1号23楼|8.9|9.2|9.1|http://www.dianping.com/shop/63168657|http://www.dianping.com/search/category/1/10/g34015
+Brunch|THE NEST|sml-str50|2244|￥480|外滩|北京东路130号中实大厦6楼|9.0|9.2|9.0|http://www.dianping.com/shop/21584102|http://www.dianping.com/search/category/1/10/g34015
+Brunch|尚9·一滴水(Sun Studio)|sml-str50|4055|￥506|北外滩|东大名路500号三楼|8.5|9.2|9.0|http://www.dianping.com/shop/21742003|http://www.dianping.com/search/category/1/10/g34015
+Brunch|The Cheesecake Factory 芝乐坊餐厅(迪士尼小镇店)|sml-str50|3965|￥193|迪士尼|迪士尼小镇（百老汇广场）申迪西路255弄720号|9.1|9.0|8.9|http://www.dianping.com/shop/66862539|http://www.dianping.com/search/category/1/10/g34015
+Brunch|弦月窗.LUNETTE BY AMANDA(露台洋房店)|sml-str50|1274|￥498|淮海路|复兴中路532号|8.8|9.1|9.1|http://www.dianping.com/shop/67330730|http://www.dianping.com/search/category/1/10/g34015
+Brunch|金色三麦主题餐厅(上海静安店)|sml-str45|3778|￥174|静安寺|愚园路96号愚园108美食广场2楼二号线静安寺三号口|8.8|9.0|8.8|http://www.dianping.com/shop/24078657|http://www.dianping.com/search/category/1/10/g34015
+Brunch|BORAGE生活馆|sml-str50|254|￥176|龙华|东安路562号绿地缤纷城5层501|9.0|9.2|8.8|http://www.dianping.com/shop/76998819|http://www.dianping.com/search/category/1/10/g34015
+Brunch|夏朵花园|sml-str50|1591|￥258|复兴西路/丁香花园|复兴西路268号|8.9|9.2|9.0|http://www.dianping.com/shop/1926859|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Jean-Georges|sml-str50|3910|￥1081|外滩|中山东一路3号外滩三号4楼|8.5|9.1|9.0|http://www.dianping.com/shop/503113|http://www.dianping.com/search/category/1/10/g34015
+Brunch|AFTER SEVEN - 今7|sml-str50|245|￥361|打浦桥|丽园路1017号|9.0|9.1|9.1|http://www.dianping.com/shop/72476515|http://www.dianping.com/search/category/1/10/g34015
+Brunch|VANILLA(洛克外滩源店)|sml-str45|595|￥287|外滩|北京东路130号虎丘路路口中实大楼1层|8.6|9.2|9.0|http://www.dianping.com/shop/90967143|http://www.dianping.com/search/category/1/10/g34015
+Brunch|高跟73小时(巨鹿路店)|sml-str45|3513|￥120|南京西路|巨鹿路502号|8.0|9.1|9.0|http://www.dianping.com/shop/21909188|http://www.dianping.com/search/category/1/10/g34015
+Brunch|西悦·驿站 C Market 自助餐厅|sml-str50|176|￥198|虹桥枢纽|申虹路333号G层上海虹桥康得思酒店|8.8|9.2|9.0|http://www.dianping.com/shop/92023244|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Jstone.Italian KITCHEN&Bar(襄阳公园店)|sml-str50|1448|￥257|淮海路|襄阳北路100号襄阳坊2楼|8.9|9.1|9.1|http://www.dianping.com/shop/37942497|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Highline|sml-str45|1332|￥313|淮海路|淮海中路282号香港广场北座雅诗阁酒店6层|8.3|9.1|8.3|http://www.dianping.com/shop/69202191|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Brownstone Tapas & Lounge布朗石西班牙餐厅酒吧(陆家嘴店)|sml-str45|341|￥204|陆家嘴|富城路28号|8.8|9.0|8.9|http://www.dianping.com/shop/77218611|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Rhythm美式餐厅|sml-str50|340|￥116|七宝|漕宝路3299号七宝宝龙城市广场东区1层|9.0|9.1|9.0|http://www.dianping.com/shop/79420355|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Brownstone Tapas & Lounge布朗石西班牙餐厅酒吧(永嘉庭店)|sml-str50|2758|￥233|衡山路|永嘉路570号永嘉庭311单元|8.8|9.0|9.1|http://www.dianping.com/shop/4599475|http://www.dianping.com/search/category/1/10/g34015
+Brunch|罗斯福色戒餐厅|sml-str45|2957|￥785|外滩|中山东一路27号罗斯福8楼|7.9|9.2|8.7|http://www.dianping.com/shop/4208943|http://www.dianping.com/search/category/1/10/g34015
+Brunch|秀|sml-str50|97|￥372|南京西路|北京西路1008号上海静安瑞吉酒店一层|8.8|9.1|9.0|http://www.dianping.com/shop/92748914|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Green&Safe(新天地店)|sml-str45|2962|￥190|新天地|太仓路181弄上海新天地北里22号1层|8.4|8.8|8.1|http://www.dianping.com/shop/67519205|http://www.dianping.com/search/category/1/10/g34015
+Brunch|WIN HOUSE(月星环球港店)|sml-str45|1202|￥129|月星环球港|中山北路3300号L1023-L1026|8.7|9.1|8.9|http://www.dianping.com/shop/69664731|http://www.dianping.com/search/category/1/10/g34015
+Brunch|POP美式餐厅与酒吧|sml-str45|3281|￥327|外滩|中山东一路3号外滩三号7楼|7.8|9.2|8.2|http://www.dianping.com/shop/22200756|http://www.dianping.com/search/category/1/10/g34015
+Brunch|夏朵餐厅(天山店)|sml-str45|937|￥144|天山|天山路341号缤谷文化休闲广场东区4层|8.8|9.2|8.9|http://www.dianping.com/shop/65615698|http://www.dianping.com/search/category/1/10/g34015
+Brunch|The Plump Oyster bar|sml-str50|1139|￥649|打浦桥|建国中路169弄3楼|9.1|9.0|8.6|http://www.dianping.com/shop/5638819|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wanna feel Restaurant &Bar至觉|sml-str45|520|￥157|徐家汇|宛平南路104号永丰国际广场1楼|8.8|8.8|8.9|http://www.dianping.com/shop/73398005|http://www.dianping.com/search/category/1/10/g34015
+Brunch|food place|sml-str50|673|￥94|嘉定镇|金沙路8号|9.0|9.0|9.1|http://www.dianping.com/shop/57411148|http://www.dianping.com/search/category/1/10/g34015
+Brunch|意味轩 SCENA(浦东丽思卡尔顿酒店)|sml-str50|1995|￥714|陆家嘴|世纪大道8号国金中心52楼丽思卡尔顿酒店|8.3|9.3|9.1|http://www.dianping.com/shop/4091239|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Magnet磁石(静安寺店)|sml-str45|5057|￥166|静安寺|南京西路1818号（1788广场1楼06单元）近华山路|8.3|8.9|8.7|http://www.dianping.com/shop/14192855|http://www.dianping.com/search/category/1/10/g34015
+Brunch|艾利爵士顶层餐厅|sml-str45|1202|￥1106|外滩|中山东一路32号半岛酒店13楼|8.2|9.2|8.7|http://www.dianping.com/shop/3513403|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Sunflour(安福路店)|sml-str45|8984|￥67|复兴西路/丁香花园|安福路308号104室|8.8|8.5|8.2|http://www.dianping.com/shop/5278796|http://www.dianping.com/search/category/1/10/g34015
+Brunch|husk restaurant|sml-str45|1579|￥237|南京西路|奉贤路218号|8.7|9.0|9.0|http://www.dianping.com/shop/20877970|http://www.dianping.com/search/category/1/10/g34015
+Brunch|外滩源壹号|sml-str45|731|￥315|外滩|中山东一路33号|8.3|9.2|8.8|http://www.dianping.com/shop/58931227|http://www.dianping.com/search/category/1/10/g34015
+Brunch|8 1/2 Otto e Mezzo BOMBANA|sml-str45|1183|￥1947|外滩|圆明园路169号协进大楼6-7楼|8.5|9.1|9.0|http://www.dianping.com/shop/5573597|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Light & Salt On The Bund|sml-str45|2315|￥348|外滩|圆明园路133号女青年会大楼6楼|8.2|9.1|9.0|http://www.dianping.com/shop/15096387|http://www.dianping.com/search/category/1/10/g34015
+Brunch|fine cafe&canteen|sml-str45|1274|￥88|复兴西路/丁香花园|乌鲁木齐中路192号|8.5|8.4|8.8|http://www.dianping.com/shop/90098841|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Light & Salt Daily(陕西北路店)|sml-str45|1479|￥286|南京西路|陕西北路407号|8.2|9.1|9.0|http://www.dianping.com/shop/22743778|http://www.dianping.com/search/category/1/10/g34015
+Brunch|The Bull & Claw 鳌足汇|sml-str50|147|￥305|音乐学院|汾阳路110号|8.9|9.1|8.5|http://www.dianping.com/shop/91607397|http://www.dianping.com/search/category/1/10/g34015
+Brunch|OH Cafe欧巧西餐酒吧|sml-str50|203|￥164|静安寺|南京西路久光百货二楼珠宝区S207-208|9.0|9.2|9.2|http://www.dianping.com/shop/79282973|http://www.dianping.com/search/category/1/10/g34015
+Brunch|SVEA 现代北欧餐厅(瑞虹月亮湾店)|sml-str45|768|￥260|临平路/和平公园|瑞虹路188号瑞虹天地月亮湾L1-21b|8.6|9.1|9.0|http://www.dianping.com/shop/70445375|http://www.dianping.com/search/category/1/10/g34015
+Brunch|THE CANNERY|sml-str45|947|￥371|中山公园|愚园路1107号|8.4|9.0|8.4|http://www.dianping.com/shop/66886490|http://www.dianping.com/search/category/1/10/g34015
+Brunch|蝶舍·MAISON PAPILLON|sml-str45|3503|￥437|静安寺|胶州路149弄2号-2层|8.6|9.0|9.1|http://www.dianping.com/shop/67672216|http://www.dianping.com/search/category/1/10/g34015
+Brunch|非常时髦餐厅|sml-str45|2995|￥584|北外滩|黄浦路199号上海外滩茂悦大酒店西楼30楼|7.6|9.1|7.8|http://www.dianping.com/shop/2458900|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Nico's Oyster法式创意海鲜餐厅|sml-str50|217|￥443|复兴西路/丁香花园|湖南路287弄甲1号|8.8|8.9|8.9|http://www.dianping.com/shop/66508455|http://www.dianping.com/search/category/1/10/g34015
+Brunch|WINHOUSE(正大广场店)|sml-str45|5369|￥130|陆家嘴|陆家嘴西路168号正大广场1层|8.4|8.5|8.5|http://www.dianping.com/shop/22466925|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Liquid Laundry|sml-str45|3011|￥175|音乐学院|淮海中路1028号嘉华坊2楼|8.4|8.9|8.1|http://www.dianping.com/shop/18102801|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Maya玛雅墨西哥餐厅(四方新城店)|sml-str45|1395|￥236|静安寺|巨鹿路568弄四方新城俱乐部2楼|8.6|9.0|9.0|http://www.dianping.com/shop/2713810|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Mayita小玛雅墨西哥餐厅|sml-str50|482|￥201|新天地|寿宁路98号6楼辉盛庭国际公寓|8.9|9.1|9.1|http://www.dianping.com/shop/18021257|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Charlie's Burger|sml-str45|2406|￥84|静安寺|常熟路89号|8.5|8.5|8.1|http://www.dianping.com/shop/4523627|http://www.dianping.com/search/category/1/10/g34015
+Brunch|莫尔顿牛排坊(浦东ifc店)|sml-str45|6155|￥819|陆家嘴|世纪大道8号国金中心商场4层|8.4|9.0|8.5|http://www.dianping.com/shop/4088803|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Odelice!欧膳(永新坊店)|sml-str45|650|￥153|徐家汇|天钥桥路133号永新坊1层13-15号店|8.6|8.9|8.9|http://www.dianping.com/shop/67849927|http://www.dianping.com/search/category/1/10/g34015
+Brunch|食索SALE&PEPE(800show)|sml-str45|2420|￥201|同乐坊|常德路800号A2-1F|8.6|9.1|9.1|http://www.dianping.com/shop/24972421|http://www.dianping.com/search/category/1/10/g34015
+Brunch|恰餐厅酒吧|sml-str45|1267|￥784|外滩|中山东二路585号外滩英迪格酒店顶层|8.3|9.2|8.4|http://www.dianping.com/shop/4736136|http://www.dianping.com/search/category/1/10/g34015
+Brunch|义面屋(久金广场店)|sml-str50|2503|￥83|金桥|张杨路与中环路交口久金广场1层|8.9|9.1|9.1|http://www.dianping.com/shop/59400195|http://www.dianping.com/search/category/1/10/g34015
+Brunch|见个面·上海|sml-str50|206|￥56|虹梅路|华光路280号|9.1|9.0|9.3|http://www.dianping.com/shop/63236083|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Atto Primo|sml-str45|1013|￥394|外滩|外滩5号广东路20号2楼|8.4|9.1|8.7|http://www.dianping.com/shop/22679794|http://www.dianping.com/search/category/1/10/g34015
+Brunch|摩食 MO'S|sml-str50|683|￥257|衡山路|岳阳路1号戊|8.6|9.1|9.1|http://www.dianping.com/shop/65721417|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Shake|sml-str45|309|￥292|淮海路|茂名南路46号3楼|8.6|9.0|8.8|http://www.dianping.com/shop/67681229|http://www.dianping.com/search/category/1/10/g34015
+Brunch|fat cow|sml-str45|1078|￥134|静安寺|延平路135号1F103室|8.7|8.8|8.2|http://www.dianping.com/shop/65801209|http://www.dianping.com/search/category/1/10/g34015
+Brunch|WIN HOUSE(静安店)|sml-str45|10317|￥133|静安寺|愚园路68号晶品中心6楼6-12m|8.4|8.8|8.6|http://www.dianping.com/shop/19291525|http://www.dianping.com/search/category/1/10/g34015
+Brunch|The Caxton|sml-str50|117|￥115|南京西路|大沽路374号|8.8|9.1|9.1|http://www.dianping.com/shop/76676515|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Las Tapas(思南公馆店)|sml-str45|5342|￥233|淮海路|思南路45号32幢1-2楼|8.6|9.0|8.4|http://www.dianping.com/shop/8866928|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Azul Tapas & Lounge(武康路店)|sml-str45|457|￥223|复兴西路/丁香花园|武康路378号8楼|8.5|9.1|8.6|http://www.dianping.com/shop/5995444|http://www.dianping.com/search/category/1/10/g34015
+Brunch|JR Recipe 共禾食谱(丁香店)|sml-str45|155|￥118|浦东新区|丁香路880弄丁香国际商业广场LG101-2号|8.5|9.1|8.6|http://www.dianping.com/shop/92090049|http://www.dianping.com/search/category/1/10/g34015
+Brunch|JR Recipe 共禾食谱(南京西路店)|sml-str45|2395|￥136|南京西路|泰兴路84弄1号1楼b单元|8.4|8.7|8.7|http://www.dianping.com/shop/67369061|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Phénix eatery & bar|sml-str45|363|￥587|静安寺|常德路1号璞丽酒店2楼|8.6|9.2|9.1|http://www.dianping.com/shop/58746038|http://www.dianping.com/search/category/1/10/g34015
+Brunch|THE CUT Steak&Fries(环贸iapm商场店)|sml-str45|3616|￥274|音乐学院|淮海中路999号环贸iapm商场6层|8.3|9.0|9.0|http://www.dianping.com/shop/13785587|http://www.dianping.com/search/category/1/10/g34015
+Brunch|蔚景阁(外滩华尔道夫酒店)|sml-str45|708|￥440|外滩|中山东一路2号华尔道夫酒店5楼|8.2|9.2|8.8|http://www.dianping.com/shop/5198343|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Paris Rouge Restaurant Traditionnel巴黎红|sml-str45|2395|￥595|外滩|圆明园路133号洛克·外滩源女青年会大楼1楼102铺|8.2|9.0|9.0|http://www.dianping.com/shop/15875621|http://www.dianping.com/search/category/1/10/g34015
+Brunch|CHEF PAPA(万科海上传奇店)|sml-str50|1012|￥153|北蔡|御桥路1949号万科2049海上传奇L402室|9.0|9.1|9.0|http://www.dianping.com/shop/23967372|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Johnny Moo(晶品店)|sml-str45|2442|￥112|静安寺|愚园路68号晶品4层|8.6|9.0|9.0|http://www.dianping.com/shop/23218537|http://www.dianping.com/search/category/1/10/g34015
+Brunch|The Commune Social|sml-str45|1463|￥278|南京西路|江宁路511号|8.6|8.9|8.1|http://www.dianping.com/shop/9025811|http://www.dianping.com/search/category/1/10/g34015
+Brunch|食索SALE&PEPE(日月光)|sml-str45|5369|￥180|打浦桥|徐家汇路618号日月光中心广场徐家汇区2层05号|8.3|8.8|8.8|http://www.dianping.com/shop/23874511|http://www.dianping.com/search/category/1/10/g34015
+Brunch|THE ISLES 小岛鱼薯 FISH & CHIPS(淮海中路店)|sml-str45|962|￥118|人民广场|淮海中路1号H1美食不夜城底商|8.8|9.1|9.1|http://www.dianping.com/shop/67658739|http://www.dianping.com/search/category/1/10/g34015
+Brunch|OUTBACK 澳拜客(soho复兴广场店)|sml-str45|3882|￥198|新天地|复兴中路soho复兴广场1层|8.5|9.0|8.9|http://www.dianping.com/shop/22730400|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Chez Maurice|sml-str45|415|￥416|上海影城/新华路|泰安路50号2、3、4层|8.9|8.9|9.0|http://www.dianping.com/shop/52348739|http://www.dianping.com/search/category/1/10/g34015
+Brunch|CASANOVA意大利餐厅(外滩店)|sml-str40|3343|￥331|外滩|中山东一路6号4楼|7.8|9.0|8.4|http://www.dianping.com/shop/11559364|http://www.dianping.com/search/category/1/10/g34015
+Brunch|JR Recipe 共禾食谱(淮海店)|sml-str45|3816|￥144|音乐学院|汾阳路3号2号楼一楼|8.3|9.0|8.4|http://www.dianping.com/shop/23099769|http://www.dianping.com/search/category/1/10/g34015
+Brunch|PRIMO1(无限极荟购物广场店)|sml-str45|255|￥525|新天地|湖滨路168号无限极荟购物广场3层|8.6|9.1|9.0|http://www.dianping.com/shop/82878164|http://www.dianping.com/search/category/1/10/g34015
+Brunch|BOOM BOOM BAGELS|sml-str45|1242|￥77|复兴西路/丁香花园|安福路39号|8.8|8.3|8.2|http://www.dianping.com/shop/22701693|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Mr & Mrs Bund|sml-str45|2109|￥908|外滩|中山东一路18号外滩18号6层|8.2|8.9|8.5|http://www.dianping.com/shop/3100177|http://www.dianping.com/search/category/1/10/g34015
+Brunch|宝莱纳餐厅(陆家嘴店)|sml-str40|6710|￥220|陆家嘴|浦东滨江大道滨江风光亭|7.8|8.4|7.5|http://www.dianping.com/shop/501556|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Green&Safe(东平路店)|sml-str45|4515|￥131|衡山路|东平路6号|8.3|8.6|7.8|http://www.dianping.com/shop/6182504|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Hungry Lung'sKitchen饿龙(晶品店)|sml-str45|2482|￥133|静安寺|愚园路68号晶品5层|8.3|8.9|8.6|http://www.dianping.com/shop/66079795|http://www.dianping.com/search/category/1/10/g34015
+Brunch|衡山99 Francis|sml-str45|281|￥283|衡山路|衡山路99号|8.5|9.1|9.1|http://www.dianping.com/shop/72556891|http://www.dianping.com/search/category/1/10/g34015
+Brunch|浦东嘉里大酒店The COOK∙厨餐厅|sml-str45|1901|￥289|世纪公园|花木路1388号浦东嘉里大酒店1楼|8.4|9.0|8.4|http://www.dianping.com/shop/4684764|http://www.dianping.com/search/category/1/10/g34015
+Brunch|OSTRA贝龙湾|sml-str50|363|￥665|静安寺|铜仁路68号|8.9|9.1|9.0|http://www.dianping.com/shop/74620823|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Alma餐厅|sml-str45|1979|￥198|大悦城|西藏北路198号大悦城北座9楼910店铺|8.2|9.0|8.9|http://www.dianping.com/shop/58725800|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Las Tapas(金桥店)|sml-str45|5039|￥192|金桥|金桥红枫路259号|8.7|9.0|8.4|http://www.dianping.com/shop/2297992|http://www.dianping.com/search/category/1/10/g34015
+Brunch|grinder（绞肉机）burger|sml-str45|1678|￥85|静安寺|武定路1097号|8.6|7.9|8.3|http://www.dianping.com/shop/58203180|http://www.dianping.com/search/category/1/10/g34015
+Brunch|W+S CAFE by NAPOLEON|sml-str45|2715|￥158|音乐学院|淮海中路1298号1楼|8.0|9.0|8.5|http://www.dianping.com/shop/18487457|http://www.dianping.com/search/category/1/10/g34015
+Brunch|WHITE 白餐厅(创智天地大学路店)|sml-str45|887|￥146|五角场/大学区|智星路93-95-97号|8.4|9.1|8.6|http://www.dianping.com/shop/38070900|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Babbo|sml-str50|1165|￥217|曹家渡|康定路1023号|9.0|8.9|9.1|http://www.dianping.com/shop/9071330|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Pelham's法餐厅(外滩华尔道夫酒店)|sml-str45|902|￥776|外滩|中山东一路2号华尔道夫会所一层|8.2|9.1|9.1|http://www.dianping.com/shop/4511837|http://www.dianping.com/search/category/1/10/g34015
+Brunch|鹅岛精酿啤酒餐厅GOOSE ISLAND BREWHOUSE|sml-str45|954|￥206|南京西路|茂名北路209号|8.2|9.0|8.4|http://www.dianping.com/shop/76998781|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Raw Plus源+轻食|sml-str45|2090|￥104|淮海路|陕西南路35号-2|8.5|8.7|8.6|http://www.dianping.com/shop/23429998|http://www.dianping.com/search/category/1/10/g34015
+Brunch|看得到风景的天台|sml-str40|1479|￥77|静安寺|华山路2号高和大厦7楼初创空间|7.7|8.8|7.9|http://www.dianping.com/shop/56574034|http://www.dianping.com/search/category/1/10/g34015
+Brunch|補時 Cafe & Lounge|sml-str45|970|￥97|同乐坊|常德路888号地下室|8.3|8.8|8.5|http://www.dianping.com/shop/68207266|http://www.dianping.com/search/category/1/10/g34015
+Brunch|h2|sml-str45|3135|￥50|衡山路|永嘉路595号|8.8|7.6|7.6|http://www.dianping.com/shop/4703887|http://www.dianping.com/search/category/1/10/g34015
+Brunch|拉亚汉堡经典餐厅(商城路店)|sml-str45|17802|￥102|八佰伴|浦东商城路889号B3栋|8.6|8.8|8.3|http://www.dianping.com/shop/5205627|http://www.dianping.com/search/category/1/10/g34015
+Brunch|OPPOSITE by Jenson&Hu|sml-str45|328|￥477|徐家汇|建国西路222号|8.8|9.0|9.1|http://www.dianping.com/shop/67398601|http://www.dianping.com/search/category/1/10/g34015
+Brunch|THE PRESS|sml-str45|1911|￥120|南京东路|汉口路309号申报馆1楼A1-03|8.1|9.1|8.4|http://www.dianping.com/shop/21718853|http://www.dianping.com/search/category/1/10/g34015
+Brunch|云意Yun Italia|sml-str45|408|￥343|静安寺|南京西路1399号|8.4|9.1|9.0|http://www.dianping.com/shop/77539388|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Bistro 321 villa Le Bec|sml-str40|1295|￥684|上海影城/新华路|新华路321号|8.6|9.0|8.1|http://www.dianping.com/shop/17648024|http://www.dianping.com/search/category/1/10/g34015
+Brunch|The Felicity 费斯缇地中海餐厅(绿地正大乐城店)|sml-str45|1930|￥128|顾村公园|陆翔路111号绿地正大乐城1层|8.7|9.0|8.8|http://www.dianping.com/shop/23402964|http://www.dianping.com/search/category/1/10/g34015
+Brunch|PINTXOS(静安嘉里中心店)|sml-str40|7129|￥142|静安寺|南京西路1515号静安嘉里中心南区B1层|8.5|8.2|8.1|http://www.dianping.com/shop/14911084|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Hongdae Bear Cafe 弘大熊咖啡|sml-str45|524|￥62|新天地|自忠路349号|8.8|8.8|9.0|http://www.dianping.com/shop/58873297|http://www.dianping.com/search/category/1/10/g34015
+Brunch|夏朵餐厅(丁香店)|sml-str45|8668|￥180|复兴西路/丁香花园|华山路855号|7.4|8.5|7.6|http://www.dianping.com/shop/503746|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Blackbird|sml-str45|2717|￥158|衡山路|乌鲁木齐南路甲1号3楼|8.0|9.0|8.4|http://www.dianping.com/shop/45259500|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Hungry Lung's Kitchen饿龙(上海K11艺术中心店)|sml-str40|2923|￥130|淮海路|淮海中路300号上海K11购物艺术中心4层|8.3|8.4|8.2|http://www.dianping.com/shop/27033860|http://www.dianping.com/search/category/1/10/g34015
+Brunch|El Luchador(新天地店)|sml-str45|957|￥166|新天地|兴业路123弄5号107单元新天地新里|8.5|8.7|8.4|http://www.dianping.com/shop/45347925|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Sabor by Diego Guerrero|sml-str45|675|￥532|外滩|四川中路33号创业大楼1楼|8.5|8.8|8.9|http://www.dianping.com/shop/66589749|http://www.dianping.com/search/category/1/10/g34015
+Brunch|悦·6|sml-str40|2281|￥425|外滩|中山东一路6号外滩6号3楼B座|7.9|8.9|8.0|http://www.dianping.com/shop/26972773|http://www.dianping.com/search/category/1/10/g34015
+Brunch|馆子House198|sml-str45|2957|￥113|淮海路|进贤路198号|8.2|8.8|8.5|http://www.dianping.com/shop/17623634|http://www.dianping.com/search/category/1/10/g34015
+Brunch|HowFun Paella Bar好饭食堂(上海商城南京西路店)|sml-str45|4230|￥148|南京西路|南京西路1376号上海商城2层|8.1|8.7|8.7|http://www.dianping.com/shop/20768157|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Acqua Pazza|sml-str45|1656|￥187|打浦桥|建国中路6号|8.6|8.5|8.7|http://www.dianping.com/shop/4179666|http://www.dianping.com/search/category/1/10/g34015
+Brunch|C-UP Coffee|sml-str50|378|￥92|三林镇|御桥路270弄21号|9.1|9.1|9.0|http://www.dianping.com/shop/15094438|http://www.dianping.com/search/category/1/10/g34015
+Brunch|January Cafe & Restaurant一月花园|sml-str45|1417|￥145|肇嘉浜路沿线|高安路101号漪霏庭D区|8.3|9.1|9.0|http://www.dianping.com/shop/9284696|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Settebello|sml-str45|972|￥153|复兴西路/丁香花园|安福路193号|8.7|9.0|9.0|http://www.dianping.com/shop/5113348|http://www.dianping.com/search/category/1/10/g34015
+Brunch|PIER39(静安嘉里中心店)|sml-str45|4629|￥93|静安寺|南京西路1515号静安嘉里中心东区1层|8.7|7.8|7.8|http://www.dianping.com/shop/13715753|http://www.dianping.com/search/category/1/10/g34015
+Brunch|上海世茂皇家艾美酒店Favola法沃莱意大利餐厅|sml-str45|468|￥364|人民广场|南京东路789号世茂皇家艾美酒店8楼|8.2|9.0|8.7|http://www.dianping.com/shop/57842782|http://www.dianping.com/search/category/1/10/g34015
+Brunch|浦东四季酒店Camelia|sml-str45|1100|￥417|陆家嘴|世纪大道210号上海浦东四季酒店1楼|7.9|9.1|8.7|http://www.dianping.com/shop/6182580|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Odelice!欧膳(新乐路店)|sml-str45|903|￥103|音乐学院|新乐路208号|8.7|8.4|8.6|http://www.dianping.com/shop/13932333|http://www.dianping.com/search/category/1/10/g34015
+Brunch|浦东香格里拉怡咖啡|sml-str40|8234|￥315|陆家嘴|富城路33号浦东香格里拉大酒店紫金楼2楼|7.9|8.6|8.2|http://www.dianping.com/shop/506785|http://www.dianping.com/search/category/1/10/g34015
+Brunch|CHICKEN&EGG葡式霹雳烤鸡|sml-str45|1124|￥102|静安寺|长乐路街道富民路291号悟锦世纪大楼|8.6|8.4|8.4|http://www.dianping.com/shop/58288115|http://www.dianping.com/search/category/1/10/g34015
+Brunch|浦东嘉里大酒店∙The MEAT扒餐厅|sml-str45|774|￥716|世纪公园|花木路1388号浦东嘉里大酒店2楼|8.6|9.1|8.7|http://www.dianping.com/shop/4684767|http://www.dianping.com/search/category/1/10/g34015
+Brunch|夏朵餐厅(中原店)|sml-str45|2170|￥134|中原地区|国和路709号中原城市广场1座2楼|8.6|9.2|8.8|http://www.dianping.com/shop/6440653|http://www.dianping.com/search/category/1/10/g34015
+Brunch|58° 扒房|sml-str45|947|￥511|陆家嘴|浦东南路111号文华东方酒店行政公寓大堂1层|8.5|9.1|9.0|http://www.dianping.com/shop/8876725|http://www.dianping.com/search/category/1/10/g34015
+Brunch|星期五餐厅(富都店)|sml-str45|4289|￥164|陆家嘴|富城路16号|8.5|8.8|8.4|http://www.dianping.com/shop/8929854|http://www.dianping.com/search/category/1/10/g34015
+Brunch|DO RESTAURANT & LIVE MUSIC(DO COFFEE)|sml-str45|1497|￥117|五角场/大学区|政学路80号|8.2|9.1|8.5|http://www.dianping.com/shop/24821699|http://www.dianping.com/search/category/1/10/g34015
+Brunch|bluefrog蓝蛙(五角场万达店)|sml-str45|566|￥136|五角场/大学区|淞沪路77号万达广场B区1层D-22、23、25-1号|8.3|8.7|8.7|http://www.dianping.com/shop/76998277|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新天地朗廷酒店凯旋餐厅|sml-str40|2856|￥338|淮海路|马当路99号新天地朗廷酒店1楼|7.9|8.9|8.6|http://www.dianping.com/shop/4549515|http://www.dianping.com/search/category/1/10/g34015
+Brunch|RAW EATERY AND WOOD GRILL|sml-str45|292|￥358|静安寺|延平路98创意园6号铺|8.8|8.8|9.0|http://www.dianping.com/shop/58753905|http://www.dianping.com/search/category/1/10/g34015
+Brunch|La Bambina|sml-str45|971|￥194|复兴西路/丁香花园|巨鹿路907号|8.5|8.6|9.0|http://www.dianping.com/shop/21213567|http://www.dianping.com/search/category/1/10/g34015
+Brunch|LAZIE|sml-str45|2254|￥166|上海影城/新华路|番禺路381号|8.5|9.1|8.5|http://www.dianping.com/shop/24319651|http://www.dianping.com/search/category/1/10/g34015
+Brunch|WIN HOUSE(龙湖天街店)|sml-str45|501|￥138|虹桥枢纽|申长路869号龙湖虹桥天街A馆1层28a|8.7|9.0|8.8|http://www.dianping.com/shop/74628329|http://www.dianping.com/search/category/1/10/g34015
+Brunch|ALBALUZ|sml-str45|1100|￥196|徐家汇|天平路320弄20号|8.6|8.7|8.5|http://www.dianping.com/shop/19296119|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Le Bordelais Bund(外滩店)|sml-str45|581|￥210|外滩|北京东路99号益丰外滩源107室|8.3|9.0|8.6|http://www.dianping.com/shop/48008913|http://www.dianping.com/search/category/1/10/g34015
+Brunch|THE GREEN BISTRO 绿食集|sml-str40|879|￥144|大悦城|西藏北路198号大悦城二期北区9层902室|8.0|9.0|8.6|http://www.dianping.com/shop/76066928|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Little Huia(大沽路店)|sml-str45|384|￥162|南京西路|大沽路403号|8.6|8.4|8.6|http://www.dianping.com/shop/4232719|http://www.dianping.com/search/category/1/10/g34015
+Brunch|宝莱纳餐厅(世博店)|sml-str45|2225|￥202|临沂/南码头|世博大道555号1-2楼|8.1|8.9|8.2|http://www.dianping.com/shop/4099621|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Tock's|sml-str45|1118|￥94|南京东路|河南中路221号|8.6|8.5|8.6|http://www.dianping.com/shop/9027604|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Shook! Restaurant & Roof Terrace|sml-str40|3469|￥409|外滩|南京东路23号5-6楼|7.6|9.0|8.2|http://www.dianping.com/shop/4497864|http://www.dianping.com/search/category/1/10/g34015
+Brunch|彼德西餐(碧云店)|sml-str50|2101|￥130|碧云社区|碧云路633号碧云体育休闲中心B23-24号|8.9|9.0|8.9|http://www.dianping.com/shop/8685655|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Dr.Beer(静安店)|sml-str45|2355|￥144|南京西路|富民路83号|8.3|8.6|7.8|http://www.dianping.com/shop/5447088|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Mr Nice好好先生餐厅(静安寺店)|sml-str40|13157|￥104|静安寺|愚园路280号一二层|8.1|8.1|7.9|http://www.dianping.com/shop/8903730|http://www.dianping.com/search/category/1/10/g34015
+Brunch|COLCA 秘鲁西班牙餐厅(衡山路店)|sml-str45|265|￥266|衡山路|衡山路199号永平里|8.4|9.0|8.5|http://www.dianping.com/shop/73610906|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Epices & Foie Gras|sml-str45|772|￥406|外滩|汉口路309号A1-05号|8.5|8.9|8.7|http://www.dianping.com/shop/20651014|http://www.dianping.com/search/category/1/10/g34015
+Brunch|bluefrog蓝蛙(正大店)|sml-str45|2623|￥154|陆家嘴|富城路12-14号|8.0|8.3|8.1|http://www.dianping.com/shop/15089712|http://www.dianping.com/search/category/1/10/g34015
+Brunch|威斯汀舞台餐厅|sml-str40|4055|￥306|南京东路|河南中路88号上海威斯汀大饭店1楼|7.4|8.3|7.7|http://www.dianping.com/shop/502523|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Blue Tree 蓝之树(淮海路店)|sml-str45|672|￥73|淮海路|淮海中路191号|8.2|9.0|7.9|http://www.dianping.com/shop/67392157|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Lingo西餐厅(仙乐斯广场店)|sml-str40|9824|￥161|人民广场|南京西路388号仙乐斯广场1层|7.6|8.3|8.3|http://www.dianping.com/shop/2785468|http://www.dianping.com/search/category/1/10/g34015
+Brunch|BREAD etc|sml-str40|1228|￥90|肇嘉浜路沿线|襄阳南路500号|8.2|8.5|8.1|http://www.dianping.com/shop/68239325|http://www.dianping.com/search/category/1/10/g34015
+Brunch|PINK BEAR 粉熊餐吧|sml-str45|154|￥90|嘉定区|胜竹路2050号2楼|8.9|8.9|8.8|http://www.dianping.com/shop/91928037|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Porcellino小猪意大利餐厅|sml-str45|777|￥169|中山公园|愚园路753号B幢1楼|8.5|9.0|8.8|http://www.dianping.com/shop/18393390|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Patsy's前街纽约披萨餐厅|sml-str45|2257|￥124|徐家汇|天平路320弄24-25号衡山坊内|8.3|8.7|8.5|http://www.dianping.com/shop/19132290|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Shanghai Brewery(东湖店)|sml-str45|795|￥125|音乐学院|东湖路20号|8.6|8.6|8.0|http://www.dianping.com/shop/23637303|http://www.dianping.com/search/category/1/10/g34015
+Brunch|食在56 – 意庐|sml-str45|1343|￥419|陆家嘴|世纪大道88号金茂君悦大酒店56楼|7.6|9.1|8.2|http://www.dianping.com/shop/500765|http://www.dianping.com/search/category/1/10/g34015
+Brunch|拉亚汉堡经典餐厅(金虹桥国际中心店)|sml-str45|3484|￥98|天山|茅台路179号金虹桥国际中心1层|8.5|8.9|8.5|http://www.dianping.com/shop/27490186|http://www.dianping.com/search/category/1/10/g34015
+Brunch|秘密花园(法华镇路店)|sml-str45|3534|￥131|上海影城/新华路|法华镇路525号创意树林入口处|7.7|8.7|7.9|http://www.dianping.com/shop/3330310|http://www.dianping.com/search/category/1/10/g34015
+Brunch|尚牛社会 Beef & Liberty(上海商城南京西路店)|sml-str45|2027|￥126|南京西路|南京西路1376号上海商城1层|8.2|8.4|8.2|http://www.dianping.com/shop/3302503|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Brut Cake Cafe|sml-str45|317|￥74|长宁区|愚园路698号|8.5|8.8|8.8|http://www.dianping.com/shop/79287446|http://www.dianping.com/search/category/1/10/g34015
+Brunch|THEISLES小岛鱼薯FISH&CHIPS(来福士广场长宁店)|sml-str45|502|￥144|中山公园|长宁路凯旋路交叉口来福士广场东区1层教堂旁|8.3|9.0|8.8|http://www.dianping.com/shop/90931063|http://www.dianping.com/search/category/1/10/g34015
+Brunch|WIN HOUSE(浦东丁香店)|sml-str45|838|￥122|世纪公园|丁香路858号丁香国际商业中心西塔1层L1-12|8.4|8.8|8.8|http://www.dianping.com/shop/38113746|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Calypso地中海餐厅|sml-str40|2710|￥354|静安寺|铜仁路近安义路，静安嘉里中心南区广场|7.8|9.1|8.1|http://www.dianping.com/shop/15878313|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Yasmine's 茉莉西餐厅(襄阳店)|sml-str45|536|￥181|音乐学院|襄阳北路93-94号|8.3|9.1|8.8|http://www.dianping.com/shop/27525052|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Odelice!欧膳(虹梅路店)|sml-str45|472|￥103|虹梅路|虹梅路3219号|8.8|8.4|9.0|http://www.dianping.com/shop/5503317|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Mr. Glasses(虹桥天地店)|sml-str45|885|￥162|虹桥枢纽|虹桥天地•新天地B座L3-01|8.8|9.0|8.5|http://www.dianping.com/shop/46457708|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Pret A Manger(静安嘉里中心店)|sml-str45|965|￥56|静安寺|南京西路1515号静安嘉里中心北区B1层|8.3|8.7|8.5|http://www.dianping.com/shop/66362325|http://www.dianping.com/search/category/1/10/g34015
+Brunch|bluefrog蓝蛙(上海广场店)|sml-str45|1834|￥144|淮海路|淮海中路138号上海广场商场118室|8.4|8.7|8.3|http://www.dianping.com/shop/17227527|http://www.dianping.com/search/category/1/10/g34015
+Brunch|NAPA(纳帕红酒主题法餐厅)|sml-str45|949|￥586|外滩|中山东二路外滩22号2楼|8.1|9.0|8.9|http://www.dianping.com/shop/2356825|http://www.dianping.com/search/category/1/10/g34015
+Brunch|bluefrog蓝蛙(百盛莘庄店)|sml-str45|1337|￥141|莘庄|莘庄都市路5001号百盛购物中心底商1层|8.3|8.7|8.5|http://www.dianping.com/shop/21731435|http://www.dianping.com/search/category/1/10/g34015
+Brunch|HOOKED(158坊店)|sml-str40|436|￥197|淮海路|巨鹿路158号158坊B1层|8.2|8.3|8.2|http://www.dianping.com/shop/79272467|http://www.dianping.com/search/category/1/10/g34015
+Brunch|拉亚汉堡经典餐厅(宜山路店)|sml-str45|17937|￥94|光启城|中山西路2006号|8.5|8.6|8.3|http://www.dianping.com/shop/6073901|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Casa Bizzar|sml-str50|118|￥85|五角场/大学区|政民路411-2号|8.7|8.9|9.0|http://www.dianping.com/shop/79233655|http://www.dianping.com/search/category/1/10/g34015
+Brunch|海蓝意大利餐厅|sml-str45|499|￥293|陆家嘴|陆家嘴环路1288号上海凯宾斯基大酒店2楼|8.2|9.1|9.1|http://www.dianping.com/shop/4049593|http://www.dianping.com/search/category/1/10/g34015
+Brunch|SIDEWAY|sml-str45|492|￥233|复兴西路/丁香花园|安福路160号|8.5|8.8|9.0|http://www.dianping.com/shop/15107597|http://www.dianping.com/search/category/1/10/g34015
+Brunch|音昱听堂Thought for Food by The Living Room|sml-str40|432|￥274|肇嘉浜路沿线|建国西路357号|7.9|9.1|8.5|http://www.dianping.com/shop/21340089|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Black Pepper黑辣椒土耳其餐厅|sml-str45|972|￥218|南京西路|泰兴路99号2楼|8.3|9.2|8.8|http://www.dianping.com/shop/17160385|http://www.dianping.com/search/category/1/10/g34015
+Brunch|ELEFANTE大象西班牙餐厅|sml-str45|2200|￥312|音乐学院|东湖路20号|8.0|8.7|8.0|http://www.dianping.com/shop/2481415|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Bella Napoli(长乐路店)|sml-str45|1787|￥182|静安寺|长乐路946弄4号|8.4|8.6|7.8|http://www.dianping.com/shop/4077178|http://www.dianping.com/search/category/1/10/g34015
+Brunch|芭芭露莎|sml-str40|5105|￥183|人民广场|南京西路231号人民公园内人工湖|7.5|8.7|7.5|http://www.dianping.com/shop/505573|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wolfgang Puck Bar & Grill(新天地店)|sml-str40|1671|￥229|新天地|太仓路181弄上海新天地北里1层|8.0|8.6|8.1|http://www.dianping.com/shop/24497217|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Calix|sml-str45|980|￥238|新天地|太仓路181弄上海新天地北里10-12号1层|8.4|8.7|8.3|http://www.dianping.com/shop/57833194|http://www.dianping.com/search/category/1/10/g34015
+Brunch|haxnbauer海森堡™现代德国餐厅(金鹰店)|sml-str45|1505|￥182|南京西路|陕西北路288号一楼|8.5|8.7|8.4|http://www.dianping.com/shop/9375650|http://www.dianping.com/search/category/1/10/g34015
+Brunch|KABB西餐酒吧(环贸店)|sml-str45|2030|￥162|音乐学院|淮海中路999号环贸iapm商场LG1-142|8.3|8.8|8.2|http://www.dianping.com/shop/10666017|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Sasha’s萨莎|sml-str40|2330|￥200|衡山路|东平路11号|7.7|8.8|7.7|http://www.dianping.com/shop/500001|http://www.dianping.com/search/category/1/10/g34015
+Brunch|bluefrog蓝蛙(缤谷店)|sml-str45|765|￥148|天山|天山路341号缤谷文化休闲广场东区1层|8.3|8.9|8.6|http://www.dianping.com/shop/27307285|http://www.dianping.com/search/category/1/10/g34015
+Brunch|CRAFTED By bistro burger|sml-str45|243|￥181|衡山路|衡山路199号101永平里|8.6|9.0|8.5|http://www.dianping.com/shop/91620087|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Cathay Room华懋阁|sml-str45|709|￥681|外滩|南京东路20号和平饭店9楼|8.2|9.2|8.9|http://www.dianping.com/shop/4118323|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新元素餐厅(瑞虹新城店)|sml-str45|151|￥131|临平路/和平公园|瑞虹路188号瑞虹天地月亮湾1层122A室|8.3|8.8|8.7|http://www.dianping.com/shop/91891994|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Paras Coffee(P家-陕西南路店)|sml-str40|3893|￥88|淮海路|陕西南路55号|7.8|8.5|8.3|http://www.dianping.com/shop/17872839|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Hungry Lung's Kitchen饿龙(来福士广场店)|sml-str40|579|￥128|中山公园|长宁路与凯旋路交叉口来福士广场东区1层|8.1|8.4|8.1|http://www.dianping.com/shop/80611441|http://www.dianping.com/search/category/1/10/g34015
+Brunch|PRISME 878|sml-str45|131|￥97|上海影城/新华路|江苏路878号|8.2|9.2|9.0|http://www.dianping.com/shop/92151858|http://www.dianping.com/search/category/1/10/g34015
+Brunch|La Creperie法餐厅(桃江路店)|sml-str45|1693|￥150|音乐学院|桃江路1号|8.1|8.1|7.9|http://www.dianping.com/shop/2199244|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Yasmine's  茉莉西餐厅(闵行店)|sml-str45|793|￥186|华漕|运乐路569弄丰尚国际广场156—157号|8.7|9.2|8.7|http://www.dianping.com/shop/18264824|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Mingo秘阁花园餐厅酒吧|sml-str45|401|￥241|衡山路|淮海中路1690号|8.3|9.1|9.0|http://www.dianping.com/shop/48106700|http://www.dianping.com/search/category/1/10/g34015
+Brunch|滨江壹号|sml-str45|1020|￥401|陆家嘴|滨江大道富城路拾步街由隆花园|7.4|9.1|8.5|http://www.dianping.com/shop/1923271|http://www.dianping.com/search/category/1/10/g34015
+Brunch|KABB西餐酒吧(新天地店)|sml-str45|2986|￥173|淮海路|太仓路181弄上海新天地北里5号楼1层|8.2|8.2|7.8|http://www.dianping.com/shop/500322|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Bistro Burger|sml-str45|1525|￥104|静安寺|富民路291号悟锦世纪大厦1楼|8.4|8.3|8.1|http://www.dianping.com/shop/3463129|http://www.dianping.com/search/category/1/10/g34015
+Brunch|逃牛岭Runaway Cow Bistro|sml-str40|554|￥141|中山公园|长宁路890号玫瑰坊1楼2号中山公园西侧|7.7|9.1|8.2|http://www.dianping.com/shop/69523124|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Vapiano 新意尚|sml-str45|1016|￥128|陆家嘴|富城路24号-26号|8.3|9.0|8.2|http://www.dianping.com/shop/21761208|http://www.dianping.com/search/category/1/10/g34015
+Brunch|UD Burger&Grill新美式餐厅(大悦城店)|sml-str40|1361|￥139|大悦城|西藏北路166号大悦城北区9层903号|8.0|8.6|8.1|http://www.dianping.com/shop/59180247|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Morganfield’s摩根菲(日月光中心广场店)|sml-str45|3329|￥156|打浦桥|徐家汇路618号日月光中心广场徐家汇区2层|8.3|8.8|8.4|http://www.dianping.com/shop/22789112|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Gelato Pique Cafe(梅龙镇店)|sml-str45|1335|￥112|南京西路|梅龙镇伊势丹百货三楼|8.4|9.1|8.6|http://www.dianping.com/shop/12594476|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Urban Soup Kitchen(马当路店)|sml-str45|1350|￥63|新天地|马当路280号|8.3|7.7|8.4|http://www.dianping.com/shop/3001900|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Bistro Sola|sml-str45|268|￥242|肇嘉浜路沿线|嘉善路510号|8.5|8.4|8.3|http://www.dianping.com/shop/74586757|http://www.dianping.com/search/category/1/10/g34015
+Brunch|1515牛排馆·酒吧|sml-str40|1680|￥604|静安寺|延安中路1218号香格里拉大酒店4层|8.0|9.0|8.3|http://www.dianping.com/shop/10647608|http://www.dianping.com/search/category/1/10/g34015
+Brunch|El Bodegon阿根廷秘鲁餐厅(常熟路店)|sml-str45|1023|￥160|静安寺|常熟路83号神舟商务大楼4楼|8.5|8.4|8.6|http://www.dianping.com/shop/17698203|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Opus Cafe & Restaurant(富荟广场店)|sml-str45|313|￥71|世纪公园|樱花路80弄16号富荟广场一楼|8.8|9.0|8.9|http://www.dianping.com/shop/67455358|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Pizza Marzano玛尚诺(上海商城店)|sml-str45|2925|￥137|南京西路|南京西路1376号上海商城西峰107室|8.5|8.6|8.4|http://www.dianping.com/shop/4078861|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Pizza Marzano玛尚诺(新天地店)|sml-str45|3758|￥135|新天地|太仓路181弄上海新天地北里10-12号1层02、03|8.3|8.4|8.1|http://www.dianping.com/shop/1918489|http://www.dianping.com/search/category/1/10/g34015
+Brunch|La Cabane|sml-str45|281|￥213|音乐学院|桃江路1号|8.4|8.4|8.8|http://www.dianping.com/shop/22415791|http://www.dianping.com/search/category/1/10/g34015
+Brunch|SUMERIAN|sml-str40|802|￥80|南京西路|陕西北路415号|8.4|8.2|8.1|http://www.dianping.com/shop/6009237|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Hooters猫头鹰餐厅(淮海店)|sml-str45|1411|￥149|复兴西路/丁香花园|淮海中路1498号|8.1|8.9|8.8|http://www.dianping.com/shop/15121111|http://www.dianping.com/search/category/1/10/g34015
+Brunch|el Willy(中山东二路店)|sml-str40|2631|￥345|外滩|中山东二路22号501|8.0|9.0|7.7|http://www.dianping.com/shop/5587483|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Fiorino(soho复兴广场店)|sml-str40|1297|￥145|新天地|马当路388号soho复兴广场1层C109|8.2|8.9|8.5|http://www.dianping.com/shop/21754072|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Twinings川宁餐厅|sml-str40|574|￥152|陆家嘴|陆家嘴西路168号正大广场西区3层25号|8.0|8.9|8.3|http://www.dianping.com/shop/76742824|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Al’s Diner(新乐路店)|sml-str40|769|￥97|音乐学院|新乐路204号|8.3|8.1|8.0|http://www.dianping.com/shop/32486924|http://www.dianping.com/search/category/1/10/g34015
+Brunch|夏朵餐厅(复旦店)|sml-str40|8315|￥79|五角场/大学区|政民路301号|7.0|7.9|7.0|http://www.dianping.com/shop/501419|http://www.dianping.com/search/category/1/10/g34015
+Brunch|EQ(旗舰店)|sml-str40|876|￥88|南京东路|汉口路309号申报馆1楼A1-02|8.0|9.0|8.4|http://www.dianping.com/shop/24873505|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Pistolera Mexican Cantina女枪手(衡山路店)|sml-str40|779|￥143|徐家汇|衡山路838-2号|8.3|8.9|8.0|http://www.dianping.com/shop/19184603|http://www.dianping.com/search/category/1/10/g34015
+Brunch|金姜餐厅|sml-str40|3224|￥208|打浦桥|打浦路15号斯格威铂尔曼大酒店下沉式花园庭园B1层|7.9|8.7|8.1|http://www.dianping.com/shop/18216591|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Sakura London樱伦音乐餐厅(松江泰晤士店)|sml-str45|646|￥124|泰晤士小镇|三新北路900弄泰晤士小镇1057号|8.1|8.7|8.5|http://www.dianping.com/shop/45536421|http://www.dianping.com/search/category/1/10/g34015
+Brunch|whisk by steiff|sml-str45|3934|￥118|复兴西路/丁香花园|淮海中路1250号|8.2|7.8|7.5|http://www.dianping.com/shop/2014663|http://www.dianping.com/search/category/1/10/g34015
+Brunch|bluefrog蓝蛙(长泰广场店)|sml-str40|1650|￥138|张江|金科路2889号长泰广场东区E座1层27|8.2|8.6|8.3|http://www.dianping.com/shop/23498058|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Fiorino(龙湖虹桥天街店)|sml-str40|187|￥140|虹桥枢纽|申长路869号龙湖虹桥天街A馆1层102|8.3|9.1|8.1|http://www.dianping.com/shop/69894789|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新元素餐厅(西藏南路店)|sml-str45|1084|￥138|淮海路|寿宁路98号6楼|8.1|8.8|8.4|http://www.dianping.com/shop/2928076|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Le Bordelais Ruihong(布迪格乐瑞虹店)|sml-str45|421|￥216|临平路/和平公园|瑞虹路188号瑞虹天地月亮湾1层|8.3|9.0|8.8|http://www.dianping.com/shop/70901815|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Hungry Lung's Kitchen饿龙(嘉善路店)|sml-str40|2196|￥112|音乐学院|嘉善路99号|8.2|8.0|8.2|http://www.dianping.com/shop/13889550|http://www.dianping.com/search/category/1/10/g34015
+Brunch|JW万豪咖啡厅(明天广场店)|sml-str40|2495|￥245|人民广场|南京西路399号明天广场JW万豪酒店38楼|7.5|8.8|8.2|http://www.dianping.com/shop/503215|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新元素餐厅(南京西路店)|sml-str45|2946|￥121|南京西路|南京西路1376号上海商城1层|7.7|8.4|7.9|http://www.dianping.com/shop/501010|http://www.dianping.com/search/category/1/10/g34015
+Brunch|TRUCKSTOPGRILL公路餐厅(瑞虹天地月亮湾店)|sml-str40|441|￥132|临平路/和平公园|瑞虹路188号瑞虹天地月亮湾1层|7.9|9.0|8.4|http://www.dianping.com/shop/70445269|http://www.dianping.com/search/category/1/10/g34015
+Brunch|VITA Bistro & Bar|sml-str40|1169|￥161|衡山路|永嘉路557号花园内|7.7|8.6|7.8|http://www.dianping.com/shop/6183391|http://www.dianping.com/search/category/1/10/g34015
+Brunch|TOGO taco(大学路店)|sml-str45|1412|￥68|五角场/大学区|大学路93-95号|8.4|7.9|8.1|http://www.dianping.com/shop/5496743|http://www.dianping.com/search/category/1/10/g34015
+Brunch|The Garden Restaurant|sml-str45|672|￥151|复兴西路/丁香花园|乌鲁木齐中路99弄汇贤居内|8.3|8.9|8.8|http://www.dianping.com/shop/6337947|http://www.dianping.com/search/category/1/10/g34015
+Brunch|La Creperie法餐厅(南京西路店)|sml-str40|3179|￥139|南京西路|南京西路1601号越洋广场芮欧百货1楼D座|7.9|8.5|8.1|http://www.dianping.com/shop/9947818|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Henkes(芮欧百货店)|sml-str40|2275|￥204|静安寺|南京西路1601号芮欧百货1层|8.1|8.7|7.5|http://www.dianping.com/shop/6364214|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新元素餐厅(淮海中路店)|sml-str45|2657|￥130|音乐学院|淮海中路1028号嘉华坊4-5楼|7.9|8.6|8.0|http://www.dianping.com/shop/578399|http://www.dianping.com/search/category/1/10/g34015
+Brunch|彼德西餐(月星环球港店)|sml-str45|4550|￥114|月星环球港|中山北路3300号环球港中央广场4层|8.3|8.7|8.4|http://www.dianping.com/shop/10350335|http://www.dianping.com/search/category/1/10/g34015
+Brunch|米氏西餐厅|sml-str40|2043|￥517|外滩|外滩广东路20号7楼|7.1|9.0|7.6|http://www.dianping.com/shop/500451|http://www.dianping.com/search/category/1/10/g34015
+Brunch|bluefrog蓝蛙(迪士尼小镇店)|sml-str45|1370|￥140|川沙|迪士尼小镇（百老汇大道）申迪西路255弄755号|8.3|8.8|8.8|http://www.dianping.com/shop/66620936|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Johnny Moo(上海湾店)|sml-str45|2000|￥94|八佰伴|张杨路333号上商业街117室|7.9|7.8|7.8|http://www.dianping.com/shop/2568748|http://www.dianping.com/search/category/1/10/g34015
+Brunch|翡翠36餐厅|sml-str40|1920|￥660|陆家嘴|富城路33号浦东香格里拉大酒店紫金楼36楼|7.6|9.1|8.2|http://www.dianping.com/shop/566514|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新元素餐厅(港汇恒隆广场店)|sml-str40|5159|￥125|徐家汇|虹桥路1号港汇恒隆广场1楼|7.7|7.8|7.7|http://www.dianping.com/shop/2027581|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Gelato Pique Cafe(大悦城店)|sml-str45|1604|￥113|大悦城|西藏北路166号大悦城北区3层|8.2|9.1|8.2|http://www.dianping.com/shop/43603919|http://www.dianping.com/search/category/1/10/g34015
+Brunch|元一希尔顿元餐厅|sml-str40|1758|￥237|虹桥镇|红松东路1116号虹桥元一希尔顿酒店2号楼1楼|7.8|8.8|8.6|http://www.dianping.com/shop/4527910|http://www.dianping.com/search/category/1/10/g34015
+Brunch|PISTACCHIO餐厅酒吧|sml-str40|1059|￥174|复兴西路/丁香花园|武康路378号1楼|8.1|9.0|8.1|http://www.dianping.com/shop/8998132|http://www.dianping.com/search/category/1/10/g34015
+Brunch|bluefrog蓝蛙(徐家汇店)|sml-str40|3917|￥144|徐家汇|天钥桥路131号永新广场B1楼12室|7.8|8.0|7.8|http://www.dianping.com/shop/2253253|http://www.dianping.com/search/category/1/10/g34015
+Brunch|上海柏悦酒店世纪100餐厅|sml-str40|1907|￥701|陆家嘴|世纪大道100号环球金融中心上海柏悦酒店91楼|7.4|9.1|7.6|http://www.dianping.com/shop/2869393|http://www.dianping.com/search/category/1/10/g34015
+Brunch|seewant cafe囍旺咖啡(浙江中路店)|sml-str45|1965|￥30|人民广场|浙江中路215弄1号中福城内|8.3|8.1|8.8|http://www.dianping.com/shop/6378199|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Pizza Marzano玛尚诺(港汇店)|sml-str40|6736|￥130|徐家汇|虹桥路1号港汇恒隆广场5楼507B/C|8.2|8.4|8.0|http://www.dianping.com/shop/5714144|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Love Spoon|sml-str50|1145|￥76|淞滨地区|永乐路722号|9.0|9.1|8.8|http://www.dianping.com/shop/22130921|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Fifty(斯格威铂尔曼店)|sml-str40|524|￥344|打浦桥|打浦路15号斯格威铂尔曼大酒店50楼|7.9|9.1|8.7|http://www.dianping.com/shop/69608275|http://www.dianping.com/search/category/1/10/g34015
+Brunch|#tgif|sml-str40|86|￥59|淮海路|新乐路80号2楼|7.4|8.8|8.3|http://www.dianping.com/shop/92716940|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Bella Mia|sml-str45|614|￥185|中山公园|宣化路100号|8.3|8.7|8.7|http://www.dianping.com/shop/5219173|http://www.dianping.com/search/category/1/10/g34015
+Brunch|bluefrog蓝蛙(浦东嘉里城店)|sml-str40|1998|￥155|世纪公园|花木路1378号浦东嘉里城L131单元|8.1|8.5|8.2|http://www.dianping.com/shop/5203035|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Anly's(美罗城店)|sml-str40|2407|￥86|徐家汇|肇嘉浜路1111号美罗城B区4层|7.9|7.4|7.8|http://www.dianping.com/shop/16797999|http://www.dianping.com/search/category/1/10/g34015
+Brunch|C’est zhazha巧克力小酒馆(96广场店)|sml-str45|3640|￥88|百联世纪/96广场|东方路796号96广场一楼9号门旁|8.5|8.5|8.1|http://www.dianping.com/shop/7988251|http://www.dianping.com/search/category/1/10/g34015
+Brunch|mr willis|sml-str40|1373|￥257|复兴西路/丁香花园|安福路195号3楼|8.3|8.7|7.7|http://www.dianping.com/shop/3473308|http://www.dianping.com/search/category/1/10/g34015
+Brunch|ORENO|sml-str40|3354|￥233|新天地|太仓路181弄上海新天地北里16号1层|8.1|8.1|7.5|http://www.dianping.com/shop/23111721|http://www.dianping.com/search/category/1/10/g34015
+Brunch|I AM意美 西餐酒吧|sml-str45|655|￥129|静安区|江场路1228号协信星光广场北区1层150室|8.5|9.0|9.0|http://www.dianping.com/shop/52619903|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Chillax蓝枫日晒餐厅|sml-str45|533|￥140|碧云社区|蓝天路1198号|8.4|8.8|9.0|http://www.dianping.com/shop/57864916|http://www.dianping.com/search/category/1/10/g34015
+Brunch|逸客 connoisseur(愚园路店)|sml-str45|603|￥90|中山公园|愚园路1258号101-1|8.4|8.9|8.4|http://www.dianping.com/shop/57566837|http://www.dianping.com/search/category/1/10/g34015
+Brunch|KOMEDA's coffee 口美达日本咖啡连锁|sml-str45|224|￥51|虹桥|虹桥路1438号古北国际财富中心二期一楼大堂|8.3|8.0|8.1|http://www.dianping.com/shop/65610360|http://www.dianping.com/search/category/1/10/g34015
+Brunch|浦西洲际酒店ECCO自助餐厅|sml-str40|1509|￥210|火车站|恒丰路500号浦西洲际酒店1楼|7.7|9.1|8.7|http://www.dianping.com/shop/3516106|http://www.dianping.com/search/category/1/10/g34015
+Brunch|bluefrog蓝蛙(南丰城店)|sml-str40|1111|￥140|虹桥|遵义路100号虹桥南丰城南区1层119|8.2|8.7|8.4|http://www.dianping.com/shop/21225585|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Mikaku(万达广场店)|sml-str45|1281|￥64|通河/泗塘|一二八纪念路988弄万达广场金街2层253号|8.5|8.4|8.0|http://www.dianping.com/shop/8885174|http://www.dianping.com/search/category/1/10/g34015
+Brunch|途尚咖啡(静安寺店)|sml-str45|2695|￥61|静安寺|南京西路1717号会德丰广场南院1楼|8.2|8.7|8.3|http://www.dianping.com/shop/21149143|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Deli & Leisure悠乐(长泰广场店)|sml-str40|3130|￥108|张江|金科路2889号长泰广场东区1层28-30|8.1|8.9|8.0|http://www.dianping.com/shop/22590889|http://www.dianping.com/search/category/1/10/g34015
+Brunch|红HOME 咖啡|sml-str45|148|￥71|音乐学院|淮海中路1308号|8.2|9.1|9.1|http://www.dianping.com/shop/90050874|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Pelikan|sml-str40|314|￥272|南京西路|西康路225号|7.8|9.0|8.3|http://www.dianping.com/shop/66296797|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Soldiers Bistro＆Australia BBQ(士兵突击西餐厅)|sml-str45|463|￥70|同乐坊|武定路968号2楼|8.4|8.9|9.1|http://www.dianping.com/shop/27254466|http://www.dianping.com/search/category/1/10/g34015
+Brunch|思南公馆AJM法国餐厅|sml-str40|1120|￥442|淮海路|思南路57号|7.8|9.1|8.2|http://www.dianping.com/shop/4502970|http://www.dianping.com/search/category/1/10/g34015
+Brunch|No!CHAIR by MyWineCLUB站吧(大悦城店)|sml-str45|738|￥170|大悦城|西藏北路166号大悦城北区9层|8.3|8.6|8.4|http://www.dianping.com/shop/57282086|http://www.dianping.com/search/category/1/10/g34015
+Brunch|bluefrog蓝蛙(96广场店)|sml-str40|1153|￥143|百联世纪/96广场|东方路796号96广场第一层122单元|8.1|8.4|8.2|http://www.dianping.com/shop/21107718|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Va Bene华万意意大利餐厅(太仓路店)|sml-str45|728|￥549|新天地|太仓路181弄上海新天地北里7号楼2层|8.2|8.6|7.9|http://www.dianping.com/shop/500018|http://www.dianping.com/search/category/1/10/g34015
+Brunch|AbbeyRoad艾比之路|sml-str45|1458|￥121|音乐学院|桃江路3号|7.7|8.2|7.9|http://www.dianping.com/shop/2129929|http://www.dianping.com/search/category/1/10/g34015
+Brunch|SKETCH Bar&Restaurant|sml-str45|163|￥165|古北|黄金城道605号|8.6|9.0|8.9|http://www.dianping.com/shop/57585036|http://www.dianping.com/search/category/1/10/g34015
+Brunch|MR PANCAKE 松饼先生(香港广场店)|sml-str40|2196|￥76|淮海路|淮海中路283号香港广场南座1层|8.1|8.3|7.9|http://www.dianping.com/shop/20871073|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Notting House诺丁好食|sml-str40|2028|￥172|徐家汇|建国西路515号|7.8|9.0|8.1|http://www.dianping.com/shop/15123242|http://www.dianping.com/search/category/1/10/g34015
+Brunch|glo London(恒基688广场店)|sml-str40|3925|￥112|南京西路|南京西路688号恒基688广场1层|7.8|8.3|8.1|http://www.dianping.com/shop/19792950|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Le Bordelais Jiashan(布迪格乐嘉善路店)|sml-str40|971|￥192|瑞金宾馆区|嘉善路301号2楼|8.0|8.7|8.0|http://www.dianping.com/shop/14724850|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Vesta bistro|sml-str45|348|￥153|南京西路|南京西路1515号静安嘉里中心北区1层10B号|8.3|8.4|8.7|http://www.dianping.com/shop/69520816|http://www.dianping.com/search/category/1/10/g34015
+Brunch|外滩悦榕庄-海怡西餐厅|sml-str40|573|￥285|北外滩|海平路19号鹏欣外滩悦榕庄酒店一楼|7.4|8.9|7.9|http://www.dianping.com/shop/8008850|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Host Wine&Kitchen(Antoni)|sml-str40|1363|￥202|静安寺|巨鹿路794号|7.9|8.8|8.4|http://www.dianping.com/shop/21725401|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新元素餐厅(七宝万科广场店)|sml-str40|531|￥128|七宝|漕宝路3366号七宝万科广场1层109A号|8.2|8.8|8.2|http://www.dianping.com/shop/70137101|http://www.dianping.com/search/category/1/10/g34015
+Brunch|夏朵小厨|sml-str40|2515|￥79|控江地区|大连路1278号|7.6|8.3|7.5|http://www.dianping.com/shop/2238490|http://www.dianping.com/search/category/1/10/g34015
+Brunch|C’est Zhazha面包小酒馆(soho复兴广场店)|sml-str45|1154|￥79|新天地|复兴中路soho复兴广场1层|8.6|8.6|8.6|http://www.dianping.com/shop/22681249|http://www.dianping.com/search/category/1/10/g34015
+Brunch|bluefrog蓝蛙(189弄购物中心店)|sml-str40|241|￥149|长寿路|长寿路189弄189弄购物中心B1层|8.2|8.7|8.4|http://www.dianping.com/shop/90333558|http://www.dianping.com/search/category/1/10/g34015
+Brunch|文华厨房|sml-str40|1910|￥332|陆家嘴|浦东南路111号上海浦东文华东方酒店LG层|7.8|8.9|8.9|http://www.dianping.com/shop/8876744|http://www.dianping.com/search/category/1/10/g34015
+Brunch|小小花园|sml-str40|6990|￥96|徐家汇|康平路220号|7.2|8.1|7.7|http://www.dianping.com/shop/2504440|http://www.dianping.com/search/category/1/10/g34015
+Brunch|西九巷咖啡(人民广场店)|sml-str40|14029|￥57|人民广场|西藏中路269号|7.7|7.9|7.6|http://www.dianping.com/shop/5249540|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新华联索菲特大堂酒廊乐吧|sml-str50|89|￥116|华漕|泰虹路666号虹桥索菲特酒店1层|8.7|9.3|9.2|http://www.dianping.com/shop/69263136|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Sunday Brunch|sml-str40|2178|￥82|徐家汇|宛平路189弄1号|8.0|8.1|7.9|http://www.dianping.com/shop/8858698|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Al’s Diner(襄阳南路店)|sml-str40|596|￥89|音乐学院|襄阳南路174号2楼|8.1|8.1|8.0|http://www.dianping.com/shop/70762820|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Hooters猫头鹰餐厅(浦东店)|sml-str40|4355|￥154|陆家嘴|陆家嘴西路168号正大广场西区1层|7.4|8.0|7.8|http://www.dianping.com/shop/1900096|http://www.dianping.com/search/category/1/10/g34015
+Brunch|FUMI coffee(富民路店)|sml-str40|663|￥43|静安寺|富民路215号|8.2|8.6|8.4|http://www.dianping.com/shop/58703981|http://www.dianping.com/search/category/1/10/g34015
+Brunch|J餐厅/J Cafe(日月光店)|sml-str40|2828|￥67|打浦桥|徐家汇路618号日月光中心广场1层|7.9|8.7|8.1|http://www.dianping.com/shop/14077061|http://www.dianping.com/search/category/1/10/g34015
+Brunch|h-acca(古北店)|sml-str45|286|￥150|古北|水城南路17号万科广场北楼3层|8.8|8.5|9.1|http://www.dianping.com/shop/17694352|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新元素餐厅(新天地店)|sml-str40|2341|￥149|新天地|太仓路181弄上海新天地北里1-3层|8.1|8.8|8.2|http://www.dianping.com/shop/5684668|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Mr.Pancake House(新梅联合广场店)|sml-str40|2538|￥80|八佰伴|浦东南路999号新梅联合广场1层109|8.1|8.3|7.8|http://www.dianping.com/shop/20919026|http://www.dianping.com/search/category/1/10/g34015
+Brunch|81BAKERY|sml-str40|987|￥40|五角场/大学区|大学路180号|8.2|8.5|8.2|http://www.dianping.com/shop/24327754|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新元素餐厅(上海环球中心店)|sml-str45|1798|￥139|陆家嘴|世纪大道100号上海环球金融中心2楼|8.1|8.5|8.3|http://www.dianping.com/shop/3110236|http://www.dianping.com/search/category/1/10/g34015
+Brunch|宝莱纳餐厅(新天地店)|sml-str40|6308|￥190|淮海路|太仓路181弄上海新天地北里19-20号1-2层|7.5|7.7|7.1|http://www.dianping.com/shop/500057|http://www.dianping.com/search/category/1/10/g34015
+Brunch|bluefrog蓝蛙(大宁店)|sml-str40|4501|￥139|大宁地区|大宁国际商业广场共和新路1918号6幢102A-103A室|7.7|7.9|7.7|http://www.dianping.com/shop/2006347|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Hooters猫头鹰餐厅(正大乐城店)|sml-str40|1098|￥139|龙华|中山南二路699号正大乐城1区1层105|7.9|8.5|8.3|http://www.dianping.com/shop/27535637|http://www.dianping.com/search/category/1/10/g34015
+Brunch|满咖3WISEMONKEYS(星游城店)|sml-str40|2118|￥79|万体馆|天钥桥路580号星游城1层|8.1|9.0|8.0|http://www.dianping.com/shop/23036752|http://www.dianping.com/search/category/1/10/g34015
+Brunch|bluefrog蓝蛙(金桥店)|sml-str40|1795|￥145|碧云社区|碧云体育休闲中心浦东金桥碧云路633号1层R3|7.9|8.4|8.0|http://www.dianping.com/shop/503900|http://www.dianping.com/search/category/1/10/g34015
+Brunch|兴国宾馆香樟园西餐厅|sml-str45|2217|￥294|复兴西路/丁香花园|兴国路78号兴国宾馆1楼|7.9|8.9|8.6|http://www.dianping.com/shop/502824|http://www.dianping.com/search/category/1/10/g34015
+Brunch|KABB西餐酒吧(静安嘉里店)|sml-str40|1667|￥162|静安寺|南京西路1515号静安嘉里中心南区1层04号,2层04号|8.2|8.6|7.9|http://www.dianping.com/shop/14201969|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Daliah|sml-str35|2214|￥144|南京西路|陕西北路408号|7.5|8.1|7.5|http://www.dianping.com/shop/23112431|http://www.dianping.com/search/category/1/10/g34015
+Brunch|80街区美式餐厅(合生汇店)|sml-str40|810|￥100|五角场/大学区|翔殷路1099号合生汇4楼|8.0|8.4|8.4|http://www.dianping.com/shop/66183142|http://www.dianping.com/search/category/1/10/g34015
+Brunch|AGOGO  Kitchen & Bar(五角场店)|sml-str40|5899|￥124|五角场/大学区|伟德路8号|8.0|8.9|8.3|http://www.dianping.com/shop/18229644|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Notting Hill(乐丁山新英伦料理)|sml-str40|1571|￥145|复兴西路/丁香花园|武康路378号武康庭105单位|7.9|8.6|7.9|http://www.dianping.com/shop/19150552|http://www.dianping.com/search/category/1/10/g34015
+Brunch|TOP CHEF|sml-str45|1260|￥359|打浦桥|蒙自路169号智造局4-105室|8.3|7.9|8.5|http://www.dianping.com/shop/4538913|http://www.dianping.com/search/category/1/10/g34015
+Brunch|T8(无限极荟购物广场店)|sml-str40|1872|￥365|新天地|湖滨路168号无限极荟购物广场3层|7.6|8.6|7.6|http://www.dianping.com/shop/68230556|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Bar Centrale|sml-str45|196|￥132|静安寺|延平路135号101|8.3|8.6|8.6|http://www.dianping.com/shop/66166405|http://www.dianping.com/search/category/1/10/g34015
+Brunch|上海世博洲际酒店咖啡厅|sml-str40|1504|￥213|临沂/南码头|雪野路1188号上海世博洲际酒店1楼|7.5|8.9|8.2|http://www.dianping.com/shop/4082950|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Johnny Moo奶牛西餐厅(浦东嘉里城店)|sml-str40|2355|￥117|世纪公园|花木路1378号浦东嘉里城2层|8.1|8.4|8.2|http://www.dianping.com/shop/5377796|http://www.dianping.com/search/category/1/10/g34015
+Brunch|祖蓝餐厅|sml-str40|1035|￥149|中山公园|长宁路1018号龙之梦万丽酒店26楼|7.5|8.9|8.3|http://www.dianping.com/shop/2904247|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Baker&Spice(仲盛世界商城店)|sml-str40|181|￥65|莘庄|莘庄都市路5001号百盛购物中心底商1层|9.0|8.9|8.3|http://www.dianping.com/shop/92455458|http://www.dianping.com/search/category/1/10/g34015
+Brunch|费尼餐厅(正大乐城店)|sml-str40|8789|￥87|龙华|中山南二路699号正大乐城2区1层104|8.2|8.5|8.0|http://www.dianping.com/shop/8865870|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新元素餐厅(静安嘉里中心店)|sml-str40|2852|￥135|静安寺|南京西路1515号静安嘉里中心北区1层12号,2层11号|8.0|8.6|7.9|http://www.dianping.com/shop/13715742|http://www.dianping.com/search/category/1/10/g34015
+Brunch|edm cafe|sml-str40|653|￥55|肇嘉浜路沿线|建国西路348号|7.5|8.6|8.2|http://www.dianping.com/shop/71583427|http://www.dianping.com/search/category/1/10/g34015
+Brunch|上海新世界丽笙大酒店旋景餐厅|sml-str40|876|￥231|人民广场|南京西路88号新世界丽笙大酒店45楼|7.3|9.1|8.4|http://www.dianping.com/shop/1932901|http://www.dianping.com/search/category/1/10/g34015
+Brunch|海神诺富特大酒店旋宫50旋转餐厅(旋宫50旋转餐厅)|sml-str40|3638|￥216|源深体育中心|浦东大道728号海神诺富特大酒店50楼|7.1|8.6|8.1|http://www.dianping.com/shop/500725|http://www.dianping.com/search/category/1/10/g34015
+Brunch|TASTE SPACE Shop & Cafe(TASTE Cafe)|sml-str45|241|￥69|瑞金宾馆区|泰康路210弄3号105室|8.1|9.1|8.4|http://www.dianping.com/shop/57298131|http://www.dianping.com/search/category/1/10/g34015
+Brunch|MONCEAU 茉颂花艺主题餐厅(徐家汇总店)|sml-str40|2530|￥199|肇嘉浜路沿线|乌鲁木齐南路205号-2|7.4|9.1|8.0|http://www.dianping.com/shop/23967223|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Deli&Leisure(大上海时代广场店)|sml-str40|2780|￥86|淮海路|淮海中路93-99号大上海时代广场6层|8.1|8.7|7.7|http://www.dianping.com/shop/17712322|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Little Huia(虹梅路店)|sml-str45|206|￥191|虹桥|虹梅路3911号1号别墅|8.5|8.9|8.6|http://www.dianping.com/shop/21376035|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Moon’s Steakhouse|sml-str45|948|￥411|静安寺|愚园路1号宏安瑞士大酒店1楼|8.1|8.5|8.6|http://www.dianping.com/shop/2812630|http://www.dianping.com/search/category/1/10/g34015
+Brunch|PIER 39(进贤路店)|sml-str40|5019|￥90|淮海路|进贤路172号|8.0|6.8|7.1|http://www.dianping.com/shop/2886574|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wine Connection Bar&Bistro|sml-str45|538|￥122|静安寺|愚园路439号|8.5|9.0|8.7|http://www.dianping.com/shop/6632999|http://www.dianping.com/search/category/1/10/g34015
+Brunch|FRESH CUT 小鲜牛牛排店(南京西路店)|sml-str40|153|￥181|南京西路|吴江路269号湟普美食汇一楼|8.1|7.9|8.1|http://www.dianping.com/shop/79601253|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Shanghai Brewery(虹梅路店)|sml-str45|495|￥139|虹梅路|虹梅路3338弄虹梅路休闲街21C|8.6|8.6|7.9|http://www.dianping.com/shop/4192057|http://www.dianping.com/search/category/1/10/g34015
+Brunch|delimuses西餐咖啡(绿地缤纷城店)|sml-str45|170|￥87|龙华|东安路562号绿地缤纷城东区1层H-108|8.3|8.6|8.3|http://www.dianping.com/shop/65648738|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Nene|sml-str45|278|￥287|复兴西路/丁香花园|永福路47号106室|8.2|8.1|8.0|http://www.dianping.com/shop/5479825|http://www.dianping.com/search/category/1/10/g34015
+Brunch|RAT TAR ART BAR(芮欧百货店)|sml-str40|1168|￥94|静安寺|南京西路1601号芮欧百货5层|7.5|8.9|8.1|http://www.dianping.com/shop/8856169|http://www.dianping.com/search/category/1/10/g34015
+Brunch|外滩茂悦大酒店·香荟|sml-str40|2647|￥284|北外滩|黄浦路199号上海外滩茂悦大酒店西楼2楼|7.4|8.1|7.6|http://www.dianping.com/shop/2203204|http://www.dianping.com/search/category/1/10/g34015
+Brunch|CuiquCoffee奎克咖啡(189弄购物中心店)|sml-str40|382|￥49|长寿路|长寿路189弄189弄购物中心1层|8.1|8.5|8.5|http://www.dianping.com/shop/76721717|http://www.dianping.com/search/category/1/10/g34015
+Brunch|飞狐|sml-str45|888|￥167|碧云社区|红枫路225号|8.0|8.9|8.1|http://www.dianping.com/shop/1943251|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Coffee Tree(武康路店)|sml-str40|1201|￥121|复兴西路/丁香花园|武康路376号武康庭内|7.9|8.5|7.9|http://www.dianping.com/shop/2101126|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Green&Safe(高岛屋店)|sml-str40|954|￥117|虹桥|虹桥路1438号高岛屋4楼403室|7.9|7.8|7.5|http://www.dianping.com/shop/8072398|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新元素餐厅(正大广场店)|sml-str40|4177|￥130|陆家嘴|陆家嘴西路168号正大广场1层|7.5|8.2|7.6|http://www.dianping.com/shop/1919707|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Bunlife朋乐坊(嘉里中心店)|sml-str40|2277|￥82|静安寺|南京西路1515号静安嘉里中心南区1层103号|8.2|8.3|8.1|http://www.dianping.com/shop/14182951|http://www.dianping.com/search/category/1/10/g34015
+Brunch|PARAS POP-UP COFFEE BAR|sml-str45|178|￥35|淮海路|新乐路80号|8.2|8.1|8.6|http://www.dianping.com/shop/77486212|http://www.dianping.com/search/category/1/10/g34015
+Brunch|bluefrog蓝蛙(环球金融中心店)|sml-str40|2504|￥148|陆家嘴|世纪大道100号环球金融中心B109室|7.7|8.2|7.9|http://www.dianping.com/shop/3263368|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Le Champagne|sml-str40|358|￥248|音乐学院|新乐路82号首席公馆酒店5楼|7.9|9.1|8.3|http://www.dianping.com/shop/18094507|http://www.dianping.com/search/category/1/10/g34015
+Brunch|park171|sml-str40|467|￥133|静安寺|胶州路171号甲|7.8|8.7|8.2|http://www.dianping.com/shop/32386085|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Estado Puro|sml-str40|885|￥201|淮海路|太仓路181弄上海新天地北里23号1层|8.2|8.6|8.1|http://www.dianping.com/shop/18574954|http://www.dianping.com/search/category/1/10/g34015
+Brunch|bluefrog蓝蛙(第一坊店)|sml-str40|1002|￥147|大华地区|真华路950号124&125室|7.9|8.5|8.3|http://www.dianping.com/shop/66565668|http://www.dianping.com/search/category/1/10/g34015
+Brunch|TAVOLA|sml-str40|1647|￥377|陆家嘴|滨江大道2500号,东园路路口|7.7|9.0|8.1|http://www.dianping.com/shop/5213564|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Isola意索娜意大利餐厅|sml-str40|1595|￥417|陆家嘴|世纪大道8号上海国金中心L4楼17号铺(浦东香格里拉对面）|7.5|9.1|7.9|http://www.dianping.com/shop/4088794|http://www.dianping.com/search/category/1/10/g34015
+Brunch|TOP CRUST by bunlife|sml-str45|941|￥118|复兴西路/丁香花园|乌鲁木齐路247号-1|8.5|8.6|8.7|http://www.dianping.com/shop/23611446|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(静安嘉里中心店)|sml-str40|897|￥79|静安寺|南京西路1515号静安嘉里中心北区1层|8.2|8.5|7.8|http://www.dianping.com/shop/18631942|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Boxing Cat Brewery(思南路店)|sml-str40|1837|￥116|淮海路|复兴中路519号思南公馆26A栋|7.8|8.2|7.5|http://www.dianping.com/shop/4106761|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新元素餐厅(嘉顿广场店)|sml-str40|1453|￥117|虹桥|延安西路2088号嘉顿广场1层|8.2|8.8|8.1|http://www.dianping.com/shop/3159589|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Blue Degree 蓝度(浦东锦延路店)|sml-str40|1193|￥108|世纪公园|锦延路121号|7.6|8.3|7.8|http://www.dianping.com/shop/59142798|http://www.dianping.com/search/category/1/10/g34015
+Brunch|窝|sml-str40|5643|￥97|静安寺|巨鹿路897号|7.6|7.9|7.3|http://www.dianping.com/shop/4500911|http://www.dianping.com/search/category/1/10/g34015
+Brunch|XSPACE CAFE(江宁路店)|sml-str40|613|￥64|南京西路|江宁路77号3楼|7.7|8.7|8.1|http://www.dianping.com/shop/69177919|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新发展亚太JW万豪酒店福苑咖啡厅|sml-str40|1394|￥237|长风公园/华师大|大渡河路158号新发展亚太JW万豪酒店1楼|7.8|9.1|8.7|http://www.dianping.com/shop/3881971|http://www.dianping.com/search/category/1/10/g34015
+Brunch|bluefrog蓝蛙(恒丰路店)|sml-str40|311|￥141|静安区|恒丰路379号L104&L202单元|8.2|8.6|8.1|http://www.dianping.com/shop/73392979|http://www.dianping.com/search/category/1/10/g34015
+Brunch|开巴(黄浦店)|sml-str45|306|￥131|瑞金宾馆区|建国中路169号1幢201室|8.0|8.5|8.1|http://www.dianping.com/shop/5326857|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Blue Tree 蓝之树(番禺店)|sml-str40|260|￥62|上海影城/新华路|番禺路483号|7.9|8.8|8.3|http://www.dianping.com/shop/67456581|http://www.dianping.com/search/category/1/10/g34015
+Brunch|FUNKADELI(富民店)|sml-str40|98|￥106|静安寺|富民路291号|8.1|8.5|8.3|http://www.dianping.com/shop/69568247|http://www.dianping.com/search/category/1/10/g34015
+Brunch|SOME COFFEE BAR(大华店)|sml-str40|2680|￥95|大华地区|真华路928号大华虎城嘉年华第三空间二层228-236室|8.0|8.8|8.0|http://www.dianping.com/shop/18284470|http://www.dianping.com/search/category/1/10/g34015
+Brunch|明谦咖啡(上海体验店)|sml-str40|1202|￥43|南京西路|奉贤路218号奉贤庭2楼|8.2|8.3|8.3|http://www.dianping.com/shop/9069865|http://www.dianping.com/search/category/1/10/g34015
+Brunch|BlueDegree蓝度(合生汇店)|sml-str40|695|￥119|五角场/大学区|翔殷路1099号合生汇5F|7.5|7.9|7.8|http://www.dianping.com/shop/67661494|http://www.dianping.com/search/category/1/10/g34015
+Brunch|百味园(外滩华尔道夫酒店)|sml-str40|894|￥323|外滩|中山东一路2号华尔道夫酒店下沉一层|7.6|9.1|8.6|http://www.dianping.com/shop/4674794|http://www.dianping.com/search/category/1/10/g34015
+Brunch|元素西餐厅(陆家嘴店)|sml-str40|2928|￥234|陆家嘴|陆家嘴环路1288号上海凯宾斯基大酒店1楼|7.7|8.8|8.7|http://www.dianping.com/shop/19790099|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(大学路店)|sml-str40|922|￥76|五角场/大学区|大学路67号|8.0|8.7|7.9|http://www.dianping.com/shop/19409385|http://www.dianping.com/search/category/1/10/g34015
+Brunch|费尼餐厅(上海太平洋百货店)|sml-str40|3440|￥79|火车站|天目西路218号上海太平洋百货1层|8.3|8.5|7.9|http://www.dianping.com/shop/20677109|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Whale Fall · 鲸眠创业咖吧|sml-str45|322|￥121|嘉定镇|博乐路70号D座1楼106室|8.3|9.0|9.0|http://www.dianping.com/shop/57284279|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Taste & See(尝尝滋味)|sml-str40|1601|￥152|南京西路|泰兴路99号张园内|7.8|8.8|8.4|http://www.dianping.com/shop/18276476|http://www.dianping.com/search/category/1/10/g34015
+Brunch|The Sailors 水手酒吧餐厅(静安店)|sml-str40|929|￥108|静安寺|延平路163号|8.1|8.6|8.3|http://www.dianping.com/shop/15920045|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Dr.Wine(静安店)|sml-str40|845|￥236|静安寺|富民路177号|8.4|8.4|7.6|http://www.dianping.com/shop/3681571|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Lawford&Sons劳福德德式西餐(绿地缤纷城店)|sml-str40|183|￥106|龙华|凯滨路206号绿地缤纷城中庭1层DW-104|8.0|8.4|8.2|http://www.dianping.com/shop/76729854|http://www.dianping.com/search/category/1/10/g34015
+Brunch|delimuses西餐咖啡(康定路店)|sml-str45|541|￥103|同乐坊|康定路363号|8.4|9.0|8.8|http://www.dianping.com/shop/17876614|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Boxing Cat Brewery(复兴西路店)|sml-str40|871|￥112|复兴西路/丁香花园|复兴西路82号|7.8|7.9|7.6|http://www.dianping.com/shop/3185170|http://www.dianping.com/search/category/1/10/g34015
+Brunch|A.E.KITCHEN(愚园店)|sml-str40|830|￥95|静安寺|愚园路491号|7.6|7.9|7.5|http://www.dianping.com/shop/11574897|http://www.dianping.com/search/category/1/10/g34015
+Brunch|SISTERS Bar & Restaurant|sml-str45|537|￥202|肇嘉浜路沿线|嘉善路259弄旁嘉善老市内B102|8.4|8.8|9.1|http://www.dianping.com/shop/4227815|http://www.dianping.com/search/category/1/10/g34015
+Brunch|The TERRACE意大利西餐厅(黄金城道店)|sml-str40|1479|￥251|古北|黄金城道693号|8.3|8.6|8.3|http://www.dianping.com/shop/8017583|http://www.dianping.com/search/category/1/10/g34015
+Brunch|REFUEL|sml-str40|417|￥71|南京西路|陕西北路457-3号|8.0|8.2|8.2|http://www.dianping.com/shop/72476112|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Table No. 1|sml-str40|844|￥316|外滩|毛家园路1-3号|7.8|8.6|7.8|http://www.dianping.com/shop/4108502|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新元素餐厅(浦东嘉里城店)|sml-str40|1835|￥132|世纪公园|芳甸路1378号浦东嘉里城1层|7.8|8.3|7.9|http://www.dianping.com/shop/4554899|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Lanna Coffee(愚园东路店)|sml-str40|555|￥29|静安寺|愚园东路8号|8.0|8.0|8.4|http://www.dianping.com/shop/19203207|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Kiwi Cafe(静安店)|sml-str40|1011|￥72|南京西路|陕西北路527号|7.7|7.9|7.9|http://www.dianping.com/shop/23912514|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新元素餐厅(金桥店)|sml-str40|1868|￥134|金桥|红枫路331号|7.7|8.5|7.8|http://www.dianping.com/shop/2095603|http://www.dianping.com/search/category/1/10/g34015
+Brunch|融 Lavant gout西餐|sml-str45|344|￥244|古北|水城南路96号|8.2|9.1|8.6|http://www.dianping.com/shop/23914119|http://www.dianping.com/search/category/1/10/g34015
+Brunch|古象大酒店咖啡厅|sml-str40|1848|￥175|南京东路|九江路595号古象酒店m楼|7.4|8.0|7.9|http://www.dianping.com/shop/502522|http://www.dianping.com/search/category/1/10/g34015
+Brunch|OLA  Bar & Restaurant|sml-str40|418|￥108|同乐坊|武定路1105号|7.8|8.4|8.2|http://www.dianping.com/shop/22657156|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Paradox(世纪公园店)|sml-str40|336|￥243|世纪公园|长柳路88号|7.7|8.4|8.2|http://www.dianping.com/shop/4677380|http://www.dianping.com/search/category/1/10/g34015
+Brunch|MR PANCAKE 松饼先生(嘉里不夜城店)|sml-str40|331|￥88|火车站|梅园路277号嘉里不夜城企业中心1楼101单元|7.9|8.5|8.0|http://www.dianping.com/shop/67562095|http://www.dianping.com/search/category/1/10/g34015
+Brunch|CAFE&BAR PRONTO(日月光店)|sml-str40|1662|￥83|打浦桥|徐家汇路618号日月光中心广场泰康区1层|7.9|8.5|8.0|http://www.dianping.com/shop/8007743|http://www.dianping.com/search/category/1/10/g34015
+Brunch|delimuses西餐咖啡(昌平路店)|sml-str45|1100|￥89|同乐坊|昌平路789号一楼|8.2|8.5|8.2|http://www.dianping.com/shop/3085294|http://www.dianping.com/search/category/1/10/g34015
+Brunch|慢时光MYTIMECAFE|sml-str45|564|￥68|中山公园|武夷路339号|8.3|8.8|8.6|http://www.dianping.com/shop/14155399|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(宏伊国际广场店)|sml-str40|2000|￥78|南京东路|九江路288号宏伊国际广场一层116室|7.8|8.1|7.7|http://www.dianping.com/shop/50319261|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Brown sixty|sml-str40|680|￥62|虹桥镇|银亭路68号天乐广场1楼|8.1|8.5|8.0|http://www.dianping.com/shop/26180659|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Cantina Agave龙舌兰小馆|sml-str40|909|￥132|音乐学院|富民路291号|7.8|7.6|7.3|http://www.dianping.com/shop/57908776|http://www.dianping.com/search/category/1/10/g34015
+Brunch|LA BOTA Bund Docks(老码头店)|sml-str40|302|￥181|外滩|毛家园路18号|8.3|8.9|8.2|http://www.dianping.com/shop/59206837|http://www.dianping.com/search/category/1/10/g34015
+Brunch|三至喜来登盛宴全日餐厅|sml-str40|1217|￥209|四川北路|四平路59号三至喜来登酒店2楼|7.4|8.5|8.4|http://www.dianping.com/shop/4528320|http://www.dianping.com/search/category/1/10/g34015
+Brunch|BREAD etc.(南京西路店)|sml-str35|214|￥74|南京西路|南京西路1486号|7.5|8.3|7.8|http://www.dianping.com/shop/92284246|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Yummie吖蜜轻食屋|sml-str45|116|￥47|陆家嘴|昌邑路527-1号|8.7|8.3|8.5|http://www.dianping.com/shop/67963481|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Avenue|sml-str40|898|￥177|徐家汇|衡山路844号西|7.8|8.4|7.7|http://www.dianping.com/shop/21068031|http://www.dianping.com/search/category/1/10/g34015
+Brunch|开巴(长宁店)|sml-str40|429|￥101|上海影城/新华路|定西路739号|8.0|8.2|8.0|http://www.dianping.com/shop/3368893|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Pizzeria Alla Hungry(海外滩店)|sml-str45|507|￥121|打浦桥|龙华东路810号海外滩购物广场2层|8.7|8.4|8.5|http://www.dianping.com/shop/8656496|http://www.dianping.com/search/category/1/10/g34015
+Brunch|MR PANCAKE 松饼先生(制造局园区店)|sml-str40|1329|￥89|打浦桥|蒙自路207号制造局园区|8.2|8.5|7.9|http://www.dianping.com/shop/10018428|http://www.dianping.com/search/category/1/10/g34015
+Brunch|MR PANCAKE 松饼先生(陕西路店)|sml-str40|1178|￥92|同乐坊|武定路479号|7.9|8.1|7.6|http://www.dianping.com/shop/6850676|http://www.dianping.com/search/category/1/10/g34015
+Brunch|JW万豪加州扒房|sml-str40|1049|￥436|人民广场|南京西路399号JW万豪酒店40楼|7.7|8.7|7.7|http://www.dianping.com/shop/503056|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(缤谷文化休闲广场店)|sml-str40|1099|￥75|天山|天山路341号缤谷文化休闲广场西区1层|7.9|8.1|7.7|http://www.dianping.com/shop/4536520|http://www.dianping.com/search/category/1/10/g34015
+Brunch|MR PANCAKE 松饼先生(玫瑰坊店)|sml-str40|2912|￥80|中山公园|汇川路168号玫瑰坊1层|7.8|7.9|7.6|http://www.dianping.com/shop/9953028|http://www.dianping.com/search/category/1/10/g34015
+Brunch|咖啡伦敦(总店)|sml-str40|759|￥55|虹桥镇|金汇南路225号|8.1|8.5|8.0|http://www.dianping.com/shop/21242688|http://www.dianping.com/search/category/1/10/g34015
+Brunch|D.O.C GASTRONOMIA ITALIANA|sml-str40|1255|￥232|音乐学院|东平路5号-2,-3|8.0|8.4|7.1|http://www.dianping.com/shop/10017151|http://www.dianping.com/search/category/1/10/g34015
+Brunch|两咖啡|sml-str40|1184|￥227|静安寺|延安中路1218号静安香格里拉酒店1层|7.5|8.3|7.9|http://www.dianping.com/shop/10647635|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Maan coffee(金汇南路店)|sml-str40|3306|￥56|虹桥镇|金汇南路265号|7.8|8.2|7.5|http://www.dianping.com/shop/5607760|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Amokka Café|sml-str40|828|￥107|复兴西路/丁香花园|安福路201号|7.4|8.2|7.2|http://www.dianping.com/shop/2186707|http://www.dianping.com/search/category/1/10/g34015
+Brunch|bluefrog蓝蛙(丰尚国际店)|sml-str40|290|￥149|华漕|运乐路569弄7号楼|8.4|8.8|8.3|http://www.dianping.com/shop/19293819|http://www.dianping.com/search/category/1/10/g34015
+Brunch|东锦江希尔顿逸林酒店旋转餐厅|sml-str35|2739|￥217|世纪公园|杨高南路889号46楼|7.1|8.9|7.8|http://www.dianping.com/shop/57157513|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Urban Soup Kitchen(越洋广场店)|sml-str40|1014|￥65|静安寺|南京西路1601号芮欧百货1楼D1铺|7.7|7.8|7.9|http://www.dianping.com/shop/9976329|http://www.dianping.com/search/category/1/10/g34015
+Brunch|上海柏悦酒店大堂茶阁|sml-str40|216|￥364|陆家嘴|世纪大道100号上海环球金融中心87层|7.6|9.1|8.4|http://www.dianping.com/shop/22383451|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Restaurant Cuivre|sml-str40|951|￥326|衡山路|淮海中路1502号-1临|7.8|8.7|7.8|http://www.dianping.com/shop/5296280|http://www.dianping.com/search/category/1/10/g34015
+Brunch|TheME 麦汀(大华店)|sml-str40|3483|￥105|大华地区|真华路928弄大华虎城第三空间102号|8.1|8.5|7.8|http://www.dianping.com/shop/18593035|http://www.dianping.com/search/category/1/10/g34015
+Brunch|雅居乐万豪酒店·都会尚膳餐厅|sml-str40|4932|￥215|人民广场|西藏中路555号雅居乐万豪酒店3楼|7.4|8.8|8.3|http://www.dianping.com/shop/5293888|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Chill Out! Bar & Restaurant|sml-str45|25|￥114|同乐坊|常德路777号|8.5|8.7|8.9|http://www.dianping.com/shop/93284858|http://www.dianping.com/search/category/1/10/g34015
+Brunch|CAFE&BAR PRONTO(金虹桥店)|sml-str40|576|￥83|天山|茅台路179号金虹桥商场L111|8.1|8.5|7.6|http://www.dianping.com/shop/57690457|http://www.dianping.com/search/category/1/10/g34015
+Brunch|KAKADU|sml-str40|1078|￥170|瑞金宾馆区|建国中路8号1104A座|7.7|8.5|8.0|http://www.dianping.com/shop/2373520|http://www.dianping.com/search/category/1/10/g34015
+Brunch|MoCA on the Park|sml-str40|4102|￥171|人民广场|南京西路231号人民公园内上海当代艺术馆3楼|7.3|8.3|7.7|http://www.dianping.com/shop/578832|http://www.dianping.com/search/category/1/10/g34015
+Brunch|必胜客(美罗城店)|sml-str40|3569|￥69|徐家汇|肇嘉浜路1111号美罗城A区1层|7.6|7.6|7.3|http://www.dianping.com/shop/1901509|http://www.dianping.com/search/category/1/10/g34015
+Brunch|MaanCoffee(真华路店)|sml-str40|1319|￥54|大华地区|真华路950号【第一坊美食广场】|8.0|8.3|7.8|http://www.dianping.com/shop/20651559|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新元素餐厅(悦达889广场店)|sml-str40|1540|￥121|曹家渡|万航渡路889号悦达889广场1层|8.1|8.6|7.8|http://www.dianping.com/shop/17660269|http://www.dianping.com/search/category/1/10/g34015
+Brunch|锦江汤臣洲际大酒店壹阶层餐厅|sml-str40|2553|￥245|八佰伴|张杨路777号锦江汤臣洲际大酒店1楼|7.5|8.4|8.1|http://www.dianping.com/shop/500712|http://www.dianping.com/search/category/1/10/g34015
+Brunch|DEMOis Restaurant & Bar|sml-str40|632|￥150|静安寺|愚园路258号|7.8|8.3|8.1|http://www.dianping.com/shop/21718679|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Flore Cafe & Bar|sml-str40|378|￥57|徐家汇|淮海中路2048号|8.0|8.5|8.2|http://www.dianping.com/shop/22732404|http://www.dianping.com/search/category/1/10/g34015
+Brunch|AuraCoolzey埃哇酷芝餐厅(静安寺店)|sml-str45|1721|￥107|静安寺|胶州路133号|8.0|8.2|8.1|http://www.dianping.com/shop/58566697|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Take it easy|sml-str40|1352|￥115|静安寺|延平路159号|7.7|8.2|7.7|http://www.dianping.com/shop/22177998|http://www.dianping.com/search/category/1/10/g34015
+Brunch|途尚咖啡(吴江路店)|sml-str40|2197|￥52|南京西路|南京西路931号1楼|8.0|8.3|8.0|http://www.dianping.com/shop/19565322|http://www.dianping.com/search/category/1/10/g34015
+Brunch|希尔顿连天阁|sml-str35|1854|￥206|静安寺|华山路250号希尔顿酒店1楼|7.1|8.5|7.7|http://www.dianping.com/shop/502678|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Vital Tea 源素茶(虹口龙之梦店)|sml-str40|645|￥35|虹口足球场|西江湾路388号龙之梦购物中心A座1层25号|7.9|8.4|8.3|http://www.dianping.com/shop/37766234|http://www.dianping.com/search/category/1/10/g34015
+Brunch|金桥红枫都会尚膳|sml-str40|1511|￥194|金桥|新金桥路15号2楼|7.4|8.9|8.2|http://www.dianping.com/shop/8824337|http://www.dianping.com/search/category/1/10/g34015
+Brunch|The TERRACE意大利西餐厅(安福路店)|sml-str40|1403|￥200|静安寺|安福路23号|7.9|8.4|8.7|http://www.dianping.com/shop/5555457|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新元素餐厅(迪士尼小镇店)|sml-str40|405|￥127|迪士尼|迪士尼小镇（百食香街）申迪西路255弄655号|7.9|8.7|8.2|http://www.dianping.com/shop/66661489|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Someet cafe(古美路店)|sml-str40|949|￥55|闵行区|古美路563号|7.9|8.3|7.6|http://www.dianping.com/shop/19398720|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Osteria Oyster Bar生蚝餐厅|sml-str40|1133|￥386|淮海路|进贤路226号|7.6|7.9|7.8|http://www.dianping.com/shop/2865130|http://www.dianping.com/search/category/1/10/g34015
+Brunch|豆苗工坊(新天地时尚店)|sml-str40|1259|￥64|新天地|太仓路181弄上海新天地南里1层|7.5|8.2|7.5|http://www.dianping.com/shop/17932566|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Corner Lifestyle|sml-str40|113|￥67|董家渡|沙场街43号|8.2|8.7|8.4|http://www.dianping.com/shop/67716431|http://www.dianping.com/search/category/1/10/g34015
+Brunch|La Maison Gourmande(安福路店)|sml-str40|474|￥279|复兴西路/丁香花园|安福路246号|8.1|8.9|8.3|http://www.dianping.com/shop/8789586|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Glasshouse玻璃浩室|sml-str35|1098|￥173|新天地|太仓路181弄上海新天地北里7号楼1层|7.6|8.6|7.8|http://www.dianping.com/shop/22702098|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Greek Taverna Milos(岳阳路店)|sml-str35|2454|￥163|音乐学院|岳阳路1号|7.4|8.5|7.5|http://www.dianping.com/shop/4804712|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Mammamia意大利餐厅(上海淮海店)|sml-str40|516|￥159|音乐学院|淮海路中路1333号2楼|8.0|8.6|8.1|http://www.dianping.com/shop/22669940|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(金桥国际广场店)|sml-str40|1434|￥84|金杨地区|张扬路3611号金桥国际商业广场3座1层120号|7.9|8.2|7.6|http://www.dianping.com/shop/3889582|http://www.dianping.com/search/category/1/10/g34015
+Brunch|BANG(环贸iapm店)|sml-str35|2286|￥169|音乐学院|淮海中路999号环贸iapm商场5层|7.4|8.1|7.2|http://www.dianping.com/shop/13806598|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Talent Coffeesmith(塔兰特)|sml-str40|2068|￥50|光启城|宜山路455号光启城时尚购物中心B区1层|7.7|8.4|7.8|http://www.dianping.com/shop/18369622|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(四季坊店)|sml-str40|2343|￥68|南京西路|吴江路139号四季坊1层|7.7|7.9|7.4|http://www.dianping.com/shop/5199491|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Tomatito|sml-str40|592|￥187|南京西路|泰兴路99号张园99西区、A栋201|7.7|8.4|7.7|http://www.dianping.com/shop/18687761|http://www.dianping.com/search/category/1/10/g34015
+Brunch|宝龙艾美酒店(新食谱全日餐厅)|sml-str40|549|￥181|七宝|漕宝路3199号闵行宝龙艾美酒店1楼|7.6|8.9|8.5|http://www.dianping.com/shop/67694109|http://www.dianping.com/search/category/1/10/g34015
+Brunch|MAVERICK 小牛西餐厅|sml-str40|517|￥112|碧云社区|红枫路366号甲|8.2|8.4|8.7|http://www.dianping.com/shop/24513738|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Uni+Bistro|sml-str40|2175|￥80|五角场/大学区|大学路85号|7.7|8.1|7.8|http://www.dianping.com/shop/5199679|http://www.dianping.com/search/category/1/10/g34015
+Brunch|MR PANCAKE 松饼先生(巨鹿路店)|sml-str40|2195|￥81|静安寺|巨鹿路901号|7.7|7.4|7.2|http://www.dianping.com/shop/5383944|http://www.dianping.com/search/category/1/10/g34015
+Brunch|1921GUCCI 餐厅(环贸iapm商场店)|sml-str35|1604|￥316|淮海路|淮海中路999号环贸iapm商场4层|7.0|8.0|7.5|http://www.dianping.com/shop/23076730|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(龙之梦长宁店)|sml-str40|914|￥70|中山公园|长宁路1018号龙之梦购物中心1层|7.9|8.0|7.6|http://www.dianping.com/shop/18677651|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(普陀巴黎春天店)|sml-str40|1010|￥66|长寿路|长寿路155号1层L102室|7.9|7.9|7.5|http://www.dianping.com/shop/3119098|http://www.dianping.com/search/category/1/10/g34015
+Brunch|BunnyDrop白兔糖咖啡西餐(上海悠方店)|sml-str40|375|￥81|杨浦区|殷行路1388弄3号101|7.8|8.9|8.0|http://www.dianping.com/shop/65859384|http://www.dianping.com/search/category/1/10/g34015
+Brunch|CITIZEN CAFÉ & BAR|sml-str40|2255|￥98|淮海路|进贤路222号|7.3|7.6|7.2|http://www.dianping.com/shop/582406|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Blue Tree 蓝之树(静安寺店)|sml-str40|358|￥57|静安寺|愚园路136号|7.7|8.3|8.0|http://www.dianping.com/shop/69082661|http://www.dianping.com/search/category/1/10/g34015
+Brunch|The Grumpy Pig|sml-str40|485|￥91|南京西路|茂名北路65号103|8.1|8.9|8.5|http://www.dianping.com/shop/4111147|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Ladybug小瓢虫餐厅|sml-str40|269|￥76|淮海路|雁荡路99号上海璞邸精品酒店103号商铺|7.9|8.0|8.2|http://www.dianping.com/shop/67649170|http://www.dianping.com/search/category/1/10/g34015
+Brunch|10CorsoComo restaurant|sml-str40|726|￥241|静安寺|南京西路1717号5楼会德丰广场北院|7.4|8.7|7.8|http://www.dianping.com/shop/13743122|http://www.dianping.com/search/category/1/10/g34015
+Brunch|The Wild Cafe 花啡|sml-str40|1074|￥71|嘉定镇|博乐路70号现厂A座1楼|8.5|9.0|8.3|http://www.dianping.com/shop/57300076|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Pancake Day松饼假日(五角场店)|sml-str35|2594|￥77|五角场/大学区|大学路289号|7.6|8.0|7.4|http://www.dianping.com/shop/6854993|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Boom Cafe|sml-str40|1866|￥52|中山公园|定西路1310弄6号101室|7.9|8.2|8.0|http://www.dianping.com/shop/3564328|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Jarajam cafe and bistro|sml-str40|194|￥71|复兴西路/丁香花园|五原路88号|7.9|8.2|8.4|http://www.dianping.com/shop/68039445|http://www.dianping.com/search/category/1/10/g34015
+Brunch|EGG|sml-str40|440|￥87|静安寺|襄阳北路12号|7.7|7.7|7.9|http://www.dianping.com/shop/23980539|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Greek Taverna Milos(老外街店)|sml-str40|469|￥133|虹梅路|虹梅路3338弄16号|7.6|8.4|8.0|http://www.dianping.com/shop/8442056|http://www.dianping.com/search/category/1/10/g34015
+Brunch|La Strada(安福路店)|sml-str40|912|￥141|复兴西路/丁香花园|安福路195号|7.8|7.9|7.3|http://www.dianping.com/shop/3333280|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Maan Coffee(金桥店)|sml-str40|1444|￥57|金杨地区|枣庄路479号|7.9|8.2|7.7|http://www.dianping.com/shop/18052762|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(正大乐城店)|sml-str40|1358|￥79|龙华|中山南二路699号正大乐城2区1层104-1|7.9|8.3|7.9|http://www.dianping.com/shop/10329949|http://www.dianping.com/search/category/1/10/g34015
+Brunch|diner|sml-str35|284|￥125|复兴西路/丁香花园|五原路145号|7.2|7.3|7.3|http://www.dianping.com/shop/91688842|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Slim’s|sml-str40|1182|￥280|淮海路|复兴中路523弄思南公馆10-12号26D|7.6|8.3|7.5|http://www.dianping.com/shop/4234346|http://www.dianping.com/search/category/1/10/g34015
+Brunch|SKANDINA(中信泰富广场店)|sml-str35|1071|￥57|南京西路|南京西路1168号中信泰富广场5层|7.7|7.9|7.6|http://www.dianping.com/shop/16969800|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(上海广场店)|sml-str40|1135|￥75|新天地|淮海中路138号上海广场1层108|7.7|8.0|7.4|http://www.dianping.com/shop/5390474|http://www.dianping.com/search/category/1/10/g34015
+Brunch|唯尚咖啡(羽山店)|sml-str45|958|￥63|源深体育中心|羽山路252号|8.6|9.0|8.8|http://www.dianping.com/shop/3045409|http://www.dianping.com/search/category/1/10/g34015
+Brunch|贝尔特酒廊|sml-str45|247|￥92|中山公园|定西路1525号贝尔特酒店内|8.3|9.0|8.6|http://www.dianping.com/shop/4201439|http://www.dianping.com/search/category/1/10/g34015
+Brunch|AuraCoolzey埃哇酷芝餐厅(陕西北路店)|sml-str40|827|￥106|同乐坊|陕西北路670号|8.0|8.1|8.2|http://www.dianping.com/shop/578942|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(番禺路店)|sml-str35|1022|￥74|上海影城/新华路|番禺路483号|7.8|8.0|7.5|http://www.dianping.com/shop/69518061|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(浦东大拇指广场店)|sml-str40|721|￥75|世纪公园|芳甸路199弄证大大拇指广场31号|7.5|7.8|7.4|http://www.dianping.com/shop/2054944|http://www.dianping.com/search/category/1/10/g34015
+Brunch|zoo coffee咖啡&忆境音乐酒吧(嘉定白银路店)|sml-str40|682|￥50|嘉定新城|嘉定新城白银路556号|7.9|8.4|8.0|http://www.dianping.com/shop/23598030|http://www.dianping.com/search/category/1/10/g34015
+Brunch|The Kitchen Table|sml-str35|156|￥453|北外滩|旅顺路66号W酒店4层|7.0|9.0|7.4|http://www.dianping.com/shop/92195076|http://www.dianping.com/search/category/1/10/g34015
+Brunch|索菲特·VIE全天候自助餐|sml-str35|508|￥365|佘山|泗陈公路3388弄东方佘山索菲特大酒店1楼|7.2|8.1|7.6|http://www.dianping.com/shop/3151408|http://www.dianping.com/search/category/1/10/g34015
+Brunch|ME & JOE(鲁班路店)|sml-str40|1797|￥78|打浦桥|鲁班路100号大同花园170|7.9|6.6|7.2|http://www.dianping.com/shop/2194897|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Ocean Grounds(来福士广场店)|sml-str35|161|￥61|中山公园|长宁路1193号来福士广场东区1层|7.3|8.2|7.6|http://www.dianping.com/shop/91062309|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(江苏路店)|sml-str40|180|￥73|中山公园|江苏路458号106室|7.8|8.6|7.7|http://www.dianping.com/shop/67426421|http://www.dianping.com/search/category/1/10/g34015
+Brunch|ZOO COFFEE(大华店)|sml-str40|1556|￥60|大华地区|大华路78号|8.0|8.4|8.0|http://www.dianping.com/shop/19345994|http://www.dianping.com/search/category/1/10/g34015
+Brunch|LA BOTA(大沽路店)|sml-str40|445|￥163|南京西路|大沽路426号|8.1|8.2|8.1|http://www.dianping.com/shop/18184466|http://www.dianping.com/search/category/1/10/g34015
+Brunch|MARDI GRAS|sml-str40|409|￥243|复兴西路/丁香花园|兴国路372弄1号|7.6|8.1|7.5|http://www.dianping.com/shop/3343720|http://www.dianping.com/search/category/1/10/g34015
+Brunch|新元素餐厅(长泰广场店)|sml-str40|1098|￥131|张江|金科路2889号长泰广场东区1层|7.7|8.5|7.7|http://www.dianping.com/shop/21940006|http://www.dianping.com/search/category/1/10/g34015
+Brunch|J餐厅/J Cafe+翅品品(大宁音乐广场店)|sml-str35|846|￥87|大宁地区|万荣路777号大宁音乐广场F座1层101室|7.6|8.3|7.4|http://www.dianping.com/shop/66544089|http://www.dianping.com/search/category/1/10/g34015
+Brunch|MUST(武定路店)|sml-str40|277|￥201|同乐坊|武定路881创意园区2号楼1楼|7.8|8.3|8.2|http://www.dianping.com/shop/5991724|http://www.dianping.com/search/category/1/10/g34015
+Brunch|乐意坊Alla Torre意大利薄底披萨(环球港店)|sml-str40|3474|￥119|月星环球港|中山北路3300号环球港中央广场4层4028|7.6|8.4|7.8|http://www.dianping.com/shop/17224708|http://www.dianping.com/search/category/1/10/g34015
+Brunch|豆苗工坊(泰兴路店)|sml-str40|184|￥64|南京西路|泰兴路84号|7.7|8.4|7.5|http://www.dianping.com/shop/66590686|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Tribeca|sml-str40|139|￥117|静安寺|武定路966号|8.2|8.3|8.2|http://www.dianping.com/shop/24715209|http://www.dianping.com/search/category/1/10/g34015
+Brunch|THE FARMHOUSE CAFE|sml-str35|157|￥59|南京西路|巨鹿路661号|7.6|6.9|7.5|http://www.dianping.com/shop/59033715|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Rita Coffee|sml-str45|285|￥59|南京西路|新闸路916号|8.5|7.9|8.6|http://www.dianping.com/shop/5243527|http://www.dianping.com/search/category/1/10/g34015
+Brunch|W Bistro&Bar(新天地时尚店)|sml-str40|455|￥207|新天地|马当路245号新天地时尚1层|8.0|8.7|8.1|http://www.dianping.com/shop/35809350|http://www.dianping.com/search/category/1/10/g34015
+Brunch|途尚咖啡(环球金融中心店)|sml-str40|521|￥51|陆家嘴|世纪大道100号环球金融商务中心2层|8.1|8.4|8.2|http://www.dianping.com/shop/22824508|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(尚街店)|sml-str40|524|￥73|肇嘉浜路沿线|建国西路283号104室|7.8|7.9|7.3|http://www.dianping.com/shop/2347405|http://www.dianping.com/search/category/1/10/g34015
+Brunch|1984BOOKSTORE|sml-str40|1133|￥53|复兴西路/丁香花园|湖南路11号|7.3|8.2|7.5|http://www.dianping.com/shop/4115986|http://www.dianping.com/search/category/1/10/g34015
+Brunch|蓝枪鱼西餐酒吧 Blue Marlin(红枫路店)|sml-str40|332|￥123|碧云社区|上海浦东新区红枫路357号|7.5|8.1|7.5|http://www.dianping.com/shop/4683077|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Bunlife(梅园路店)|sml-str40|218|￥77|火车站|共和路219号企业坊103-2|7.9|8.4|8.0|http://www.dianping.com/shop/65662516|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(东湖宾馆店)|sml-str40|741|￥73|音乐学院|东湖路7号|7.9|8.0|7.6|http://www.dianping.com/shop/3282946|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Paris Bleu Seafood BistroClub 巴黎蓝|sml-str35|870|￥206|新天地|兴业路123弄5号新天地新里105铺1楼|7.5|8.0|7.6|http://www.dianping.com/shop/57673835|http://www.dianping.com/search/category/1/10/g34015
+Brunch|途尚咖啡(百联世纪店)|sml-str40|200|￥50|百联世纪/96广场|世纪大道1217号百联世纪购物中心B1层|8.1|8.5|7.9|http://www.dianping.com/shop/69487069|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Kiwi Cafe(绿地缤纷城店)|sml-str35|361|￥87|徐家汇|东安路562号绿地缤纷城东区与西区之间1层|7.3|8.3|7.5|http://www.dianping.com/shop/75153679|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Cafe Bistro餐厅|sml-str40|584|￥205|虹桥|遵义南路5号虹桥锦江大酒店1楼|7.6|8.4|8.0|http://www.dianping.com/shop/502524|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Urban Soup Kitchen(浦东嘉里城店)|sml-str35|498|￥67|世纪公园|花木路1378号浦东嘉里城B1层|7.3|7.8|7.8|http://www.dianping.com/shop/27182414|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(宝地广场店)|sml-str40|1131|￥78|平凉路|大连路588号宝地广场D座1层|7.7|8.3|7.7|http://www.dianping.com/shop/8960115|http://www.dianping.com/search/category/1/10/g34015
+Brunch|THE PLACE Rooftop 汇上花园廊|sml-str35|249|￥205|打浦桥|局门路457号Rooftop5楼|7.5|8.2|7.8|http://www.dianping.com/shop/57669257|http://www.dianping.com/search/category/1/10/g34015
+Brunch|宜家餐厅(北蔡店)|sml-str40|2810|￥52|北蔡|临御路550号|7.5|7.7|7.3|http://www.dianping.com/shop/5243288|http://www.dianping.com/search/category/1/10/g34015
+Brunch|ZOOCOFFEE(定西路店)|sml-str40|1853|￥52|中山公园|定西路1100号辽油大厦101室|7.6|8.2|7.6|http://www.dianping.com/shop/13915001|http://www.dianping.com/search/category/1/10/g34015
+Brunch|质馆咖啡(新天地店)|sml-str40|1192|￥64|新天地|马当路245号新天地时尚1楼|7.7|8.0|7.8|http://www.dianping.com/shop/17628634|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(环智国际大厦店)|sml-str40|514|￥74|火车站|恒丰路416号环智国际大厦1楼|8.0|8.1|7.9|http://www.dianping.com/shop/6121073|http://www.dianping.com/search/category/1/10/g34015
+Brunch|途尚咖啡(协信星光广场店)|sml-str40|482|￥49|静安区|江场路1228号协信星光广场北区1层152室|8.1|8.2|7.8|http://www.dianping.com/shop/56582990|http://www.dianping.com/search/category/1/10/g34015
+Brunch|luccio's|sml-str40|156|￥185|静安寺|曹家渡街道延平路135号，111室|8.2|8.4|8.3|http://www.dianping.com/shop/58306014|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Urban Soup Kitchen(漕溪北路店)|sml-str40|184|￥65|徐家汇|漕溪北路45号1楼|8.0|8.8|8.0|http://www.dianping.com/shop/24036698|http://www.dianping.com/search/category/1/10/g34015
+Brunch|途尚咖啡(虹桥南丰城店)|sml-str40|703|￥53|虹桥|遵义路100号虹桥南丰城南区1层|8.0|8.3|8.1|http://www.dianping.com/shop/21226506|http://www.dianping.com/search/category/1/10/g34015
+Brunch|CafedeL’Avenue(尚嘉中心店)|sml-str40|527|￥146|虹桥|仙霞路99号尚嘉中心2层|7.9|8.4|7.8|http://www.dianping.com/shop/9044543|http://www.dianping.com/search/category/1/10/g34015
+Brunch|TheME 麦汀(莘庄店)|sml-str40|1396|￥87|莘庄|珠城路158号1楼|8.1|8.6|7.7|http://www.dianping.com/shop/9695090|http://www.dianping.com/search/category/1/10/g34015
+Brunch|金桥红枫万豪卡萨琳戈意大利餐厅|sml-str40|108|￥249|金桥|新金桥路15号1楼|8.1|8.9|8.2|http://www.dianping.com/shop/67930073|http://www.dianping.com/search/category/1/10/g34015
+Brunch|TRIBE 有机餐厅|sml-str35|140|￥111|静安寺|富民路291号长乐路上|7.4|8.4|7.8|http://www.dianping.com/shop/79718169|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(中信泰富广场店)|sml-str40|1401|￥65|南京西路|南京西路1168号中信泰富广场LG层|7.4|7.3|7.1|http://www.dianping.com/shop/500019|http://www.dianping.com/search/category/1/10/g34015
+Brunch|好久不读 long time no read|sml-str35|445|￥64|中山公园|愚园路1208号|7.5|8.2|7.7|http://www.dianping.com/shop/57546152|http://www.dianping.com/search/category/1/10/g34015
+Brunch|後巷 HUSH Café & Brunch|sml-str40|49|￥20|虹桥|延安西路2077号金桥大厦后巷110号|8.1|7.7|8.1|http://www.dianping.com/shop/67856673|http://www.dianping.com/search/category/1/10/g34015
+Brunch|A.E.KITCHEN(局门路店)|sml-str40|273|￥104|打浦桥|局门路457号|7.7|8.1|7.5|http://www.dianping.com/shop/59290944|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Porky's House(静安店)|sml-str40|305|￥97|南京西路|愚园东路18号1层|7.9|8.3|8.1|http://www.dianping.com/shop/24623577|http://www.dianping.com/search/category/1/10/g34015
+Brunch|马里昂巴咖啡馆marienbad|sml-str40|995|￥81|复兴西路/丁香花园|武康路55号|7.2|7.5|7.2|http://www.dianping.com/shop/578453|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Jalapeño|sml-str40|211|￥110|南京西路|威海路393号|8.0|7.9|7.5|http://www.dianping.com/shop/45688631|http://www.dianping.com/search/category/1/10/g34015
+Brunch|DC超级英雄主题餐厅(大学路店)|sml-str40|600|￥101|五角场/大学区|大学路179号102|7.8|8.7|7.8|http://www.dianping.com/shop/33599078|http://www.dianping.com/search/category/1/10/g34015
+Brunch|上海柏悦酒店大堂餐厅|sml-str40|690|￥481|陆家嘴|世纪大道100号环球金融中心上海柏悦酒店87楼|7.2|8.8|7.5|http://www.dianping.com/shop/2739373|http://www.dianping.com/search/category/1/10/g34015
+Brunch|BANG(港汇广场店)|sml-str35|363|￥117|徐家汇|虹桥路1号151-153A商铺|7.4|7.8|6.9|http://www.dianping.com/shop/79844626|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Gaia:2嘉意意大利餐厅|sml-str40|1278|￥230|音乐学院|淮海中路999号环贸广场L6-605，613，L7-703|7.7|8.8|8.0|http://www.dianping.com/shop/13784681|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Daga Brewpub(泰安路店)|sml-str40|212|￥85|复兴西路/丁香花园|泰安路37号|7.9|8.2|8.0|http://www.dianping.com/shop/5600852|http://www.dianping.com/search/category/1/10/g34015
+Brunch|CIAO巧(上海扬子精品酒店店)|sml-str35|3843|￥130|人民广场|汉口路740号上海扬子精品酒店1楼|7.3|8.2|7.7|http://www.dianping.com/shop/3151261|http://www.dianping.com/search/category/1/10/g34015
+Brunch|四季酒店咖啡厅|sml-str35|1281|￥278|南京西路|威海路500号四季酒店1楼|6.8|8.1|7.7|http://www.dianping.com/shop/503622|http://www.dianping.com/search/category/1/10/g34015
+Brunch|URBN  Restautant|sml-str40|305|￥153|静安寺|胶州路183号URBN艾本精品酒店1层|7.7|8.5|8.1|http://www.dianping.com/shop/20882859|http://www.dianping.com/search/category/1/10/g34015
+Brunch|龙咖啡 Café du Dragon|sml-str40|594|￥79|龙华|龙腾大道3398号|7.7|8.3|7.7|http://www.dianping.com/shop/27412178|http://www.dianping.com/search/category/1/10/g34015
+Brunch|wagas沃歌斯(虹桥万都中心店)|sml-str40|799|￥74|虹桥|仙霞路86号万都中心大厦108室|7.6|7.8|7.3|http://www.dianping.com/shop/504130|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Le Saleya(长乐路店)|sml-str35|1286|￥235|静安寺|长乐路570弄1号|7.2|7.3|6.9|http://www.dianping.com/shop/502426|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(胶州路店)|sml-str40|713|￥64|静安寺|胶州路265号1楼|7.6|8.0|7.3|http://www.dianping.com/shop/32512467|http://www.dianping.com/search/category/1/10/g34015
+Brunch|回香西餐厅及鸡尾酒廊Fennel Cocktail & Kitchen|sml-str40|1152|￥190|静安寺|镇宁路217号|7.9|8.5|8.0|http://www.dianping.com/shop/5414740|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Lil Laundry(上海商城南京西路店)|sml-str35|135|￥157|南京西路|南京西路1376号上海商城1层|7.6|8.1|7.6|http://www.dianping.com/shop/70141046|http://www.dianping.com/search/category/1/10/g34015
+Brunch|千禧海鸥大酒店欧咖啡餐厅|sml-str40|2045|￥172|古北|延安西路2588号千禧海鸥大酒店1楼|7.4|8.5|7.9|http://www.dianping.com/shop/1954372|http://www.dianping.com/search/category/1/10/g34015
+Brunch|zoo coffee(新会路店)|sml-str40|684|￥51|长寿路|新会路139号106室|7.7|8.2|8.0|http://www.dianping.com/shop/19474408|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Maancoffee漫咖啡(证大喜玛拉雅店)|sml-str35|1021|￥48|世纪公园|芳甸路1188弄1-4号证大喜玛拉雅中心南区1层|7.7|8.2|7.5|http://www.dianping.com/shop/21792943|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Cameo卡美奧意大利艺术餐厅|sml-str40|1822|￥188|碧云社区|碧云路633号碧云体育休闲中心A2楼|7.4|8.0|7.8|http://www.dianping.com/shop/504689|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(长泰广场店)|sml-str35|465|￥78|张江|金科路2889号长泰广场东区3座1层1E11|7.9|8.1|7.5|http://www.dianping.com/shop/21027327|http://www.dianping.com/search/category/1/10/g34015
+Brunch|U Sandwich|sml-str35|122|￥73|复兴西路/丁香花园|武康路368号|7.5|7.7|7.4|http://www.dianping.com/shop/57532452|http://www.dianping.com/search/category/1/10/g34015
+Brunch|途尚咖啡(百联南方购物中心店)|sml-str40|1338|￥46|南方商城|沪闵路7388号百联南方购物中心1层|7.9|7.9|7.6|http://www.dianping.com/shop/8823624|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Fat Mama|sml-str35|473|￥126|复兴西路/丁香花园|五原路58号|7.5|7.9|7.9|http://www.dianping.com/shop/6265493|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Cafe Society|sml-str35|757|￥51|长宁区|愚园路753号E栋|7.5|8.1|7.8|http://www.dianping.com/shop/17960423|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Jamaica Blue(九江路店)|sml-str40|936|￥64|人民广场|九江路700号南新雅大酒店1楼铺面E座|7.4|7.6|7.2|http://www.dianping.com/shop/2032462|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Big Bamboo(虹梅路店)|sml-str35|649|￥161|虹梅路|虹梅路3338弄老外休闲街20号|7.5|8.2|7.1|http://www.dianping.com/shop/566443|http://www.dianping.com/search/category/1/10/g34015
+Brunch|上海浦东丽晟假日酒店多瑙河全日自助餐厅|sml-str35|233|￥83|塘桥|环龙路55号|7.1|8.0|7.7|http://www.dianping.com/shop/8891850|http://www.dianping.com/search/category/1/10/g34015
+Brunch|wagas沃歌斯(悦达889广场店)|sml-str40|899|￥78|曹家渡|万航渡路889号悦达889广场1层|7.7|7.8|7.5|http://www.dianping.com/shop/6271048|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Café Montmartre梦曼特法式西餐馆(长乐店)|sml-str40|357|￥211|徐汇区|乌鲁木齐中路68号|7.8|8.0|8.1|http://www.dianping.com/shop/2219389|http://www.dianping.com/search/category/1/10/g34015
+Brunch|朴秀.迷迭香西餐厅|sml-str40|876|￥161|五角场/大学区|大学路170号202室|7.7|8.5|8.3|http://www.dianping.com/shop/14742752|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Tima Harbour(镇宁店)|sml-str40|1742|￥82|复兴西路/丁香花园|镇宁路11号|7.0|6.9|7.0|http://www.dianping.com/shop/502504|http://www.dianping.com/search/category/1/10/g34015
+Brunch|ZOO COFFEE(龙之梦购物中心虹口店)|sml-str35|1012|￥45|虹口足球场|西江湾路388号龙之梦购物中心B座1层|7.4|7.7|7.2|http://www.dianping.com/shop/22218494|http://www.dianping.com/search/category/1/10/g34015
+Brunch|水鱼Books&Bar|sml-str40|400|￥45|曲阳地区|密云路510号|8.1|8.6|8.2|http://www.dianping.com/shop/21350548|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(古北家乐福店)|sml-str35|638|￥79|古北|水城南路268号|7.6|7.7|7.1|http://www.dianping.com/shop/3569170|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Jamaica Blue(乌鲁木齐中路店)|sml-str40|555|￥61|复兴西路/丁香花园|乌鲁木齐中路82号|7.4|7.6|7.4|http://www.dianping.com/shop/585339|http://www.dianping.com/search/category/1/10/g34015
+Brunch|爱之上西餐厅 Beloved&Beyond|sml-str35|218|￥150|大华地区|大华一路239弄101-103|7.6|8.7|7.8|http://www.dianping.com/shop/67697020|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Urban Soup Kitchen(环球金融中心店)|sml-str40|388|￥58|陆家嘴|世纪大道100号地下一层D106-1|7.9|7.9|7.9|http://www.dianping.com/shop/18229706|http://www.dianping.com/search/category/1/10/g34015
+Brunch|极致餐厅|sml-str40|1063|￥57|静安区|安远路555号|7.6|7.6|7.6|http://www.dianping.com/shop/6071981|http://www.dianping.com/search/category/1/10/g34015
+Brunch|犀望-家主题餐厅|sml-str35|250|￥100|五角场/大学区|殷高东路星汇广场10号楼A栋715号|7.6|8.7|7.9|http://www.dianping.com/shop/32636235|http://www.dianping.com/search/category/1/10/g34015
+Brunch|上海虹桥西郊假日酒店2000美食汇|sml-str35|59|￥153|徐泾|沪青平公路2000号虹桥西郊假日酒店内一楼|7.7|8.2|7.6|http://www.dianping.com/shop/4117708|http://www.dianping.com/search/category/1/10/g34015
+Brunch|EQ(环球港店)|sml-str35|423|￥59|月星环球港|中山北路3300号环球港1层L1138|7.1|7.8|7.6|http://www.dianping.com/shop/32466385|http://www.dianping.com/search/category/1/10/g34015
+Brunch|凯文咖啡西餐厅|sml-str35|674|￥95|衡山路|衡山路525号凯文公寓1楼|7.2|7.5|6.9|http://www.dianping.com/shop/500989|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Maan coffee(莘庄店)|sml-str35|1458|￥52|莘庄|珠城路158号1楼|7.3|7.6|6.8|http://www.dianping.com/shop/8834237|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Hot Box 辣匣子|sml-str40|25||静安寺|胶州路273弄4号近新闸路|7.8|7.8|7.9|http://www.dianping.com/shop/75147792|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Organic Kitchen|sml-str35|158|￥65|复兴西路/丁香花园|复兴西路57号|7.2|7.5|7.2|http://www.dianping.com/shop/5630268|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Cozy Wine Bar&Bistro|sml-str40|303|￥99|复兴西路/丁香花园|武康路97号|7.7|8.3|7.7|http://www.dianping.com/shop/8678518|http://www.dianping.com/search/category/1/10/g34015
+Brunch|雕刻时光咖啡馆(大学路店)|sml-str35|1861|￥59|五角场/大学区|大学路105-107号|7.0|7.6|7.2|http://www.dianping.com/shop/4554421|http://www.dianping.com/search/category/1/10/g34015
+Brunch|上海颖奕皇冠假日酒店-凌食咖啡厅|sml-str40|103|￥273|嘉定区|博园路6555号|7.3|7.8|7.8|http://www.dianping.com/shop/66656807|http://www.dianping.com/search/category/1/10/g34015
+Brunch|上海索菲特海仑宾馆莫赛克餐厅|sml-str35|681|￥267|南京东路|南京东路505号索菲特海仑宾馆2楼|7.1|8.2|7.4|http://www.dianping.com/shop/1944850|http://www.dianping.com/search/category/1/10/g34015
+Brunch|途尚咖啡(七莘路店)|sml-str40|38|￥47|闵行区|七莘路1507号怡丰城L02-018|7.8|7.7|7.8|http://www.dianping.com/shop/91877180|http://www.dianping.com/search/category/1/10/g34015
+Brunch|转角102西餐厅|sml-str35|1655|￥77|五角场/大学区|创智坊大学路102号靠近锦嘉路|6.9|7.6|6.9|http://www.dianping.com/shop/4500273|http://www.dianping.com/search/category/1/10/g34015
+Brunch|贝克街221B烘焙学院|sml-str35|2413|￥73|淮海路|中春路7089号B座602室|7.2|8.1|7.6|http://www.dianping.com/shop/13723456|http://www.dianping.com/search/category/1/10/g34015
+Brunch|上海虹桥美利亚酒店(美咔罗餐厅)|sml-str40|25||徐泾|高泾路1118号|7.6|7.5|7.6|http://www.dianping.com/shop/79234088|http://www.dianping.com/search/category/1/10/g34015
+Brunch|淳大万丽酒店 咖啡厅|sml-str35|1185|￥169|世纪公园|迎春路719号淳大万丽酒店2楼|6.7|7.8|7.3|http://www.dianping.com/shop/503205|http://www.dianping.com/search/category/1/10/g34015
+Brunch|M STEAK|sml-str35|182|￥130|静安寺|南京西路1515号静安嘉里中心南区1层|7.1|7.3|7.3|http://www.dianping.com/shop/67589318|http://www.dianping.com/search/category/1/10/g34015
+Brunch|途尚咖啡(福州路店)|sml-str35|61|￥43|南京东路|福州路318号|7.8|8.1|7.8|http://www.dianping.com/shop/75782377|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(百盛优客天山店)|sml-str35|187|￥67|天山|天山路789-889号百盛优客城市广场东楼B1层|7.6|7.5|7.4|http://www.dianping.com/shop/58223669|http://www.dianping.com/search/category/1/10/g34015
+Brunch|龙之梦大酒店O2on2全日餐厅|sml-str35|832|￥181|上海影城/新华路|延安西路1116号O2on2全日餐厅龙之梦大酒店内|6.5|7.6|7.0|http://www.dianping.com/shop/57565293|http://www.dianping.com/search/category/1/10/g34015
+Brunch|淳品咖啡|sml-str40|321|￥73|瑞金宾馆区|绍兴路96号甲|7.5|8.4|8.0|http://www.dianping.com/shop/18014402|http://www.dianping.com/search/category/1/10/g34015
+Brunch|红塔豪华精选酒店Danieli's意大利餐厅|sml-str40|507|￥404|八佰伴|东方路889号红塔豪华精选酒店39楼|7.3|8.0|8.0|http://www.dianping.com/shop/501128|http://www.dianping.com/search/category/1/10/g34015
+Brunch|ZOOCOFFEE(中信广场店)|sml-str35|2410|￥49|海宁路/七浦路|四川北路859号中信广场1层|7.4|8.1|7.5|http://www.dianping.com/shop/13818371|http://www.dianping.com/search/category/1/10/g34015
+Brunch|LA  PETANQUE(泰安路店)|sml-str35|292|￥163|上海影城/新华路|泰安路139号|7.2|7.4|7.2|http://www.dianping.com/shop/5104678|http://www.dianping.com/search/category/1/10/g34015
+Brunch|啡茶想侬(非常想妳)|sml-str40|532|￥34|万体馆|天钥桥路380弄26号101室天钥花苑内|8.2|8.3|8.5|http://www.dianping.com/shop/15106961|http://www.dianping.com/search/category/1/10/g34015
+Brunch|VoceCafe|sml-str35|675|￥62|衡山路|永嘉路568号|7.2|7.7|7.2|http://www.dianping.com/shop/59116369|http://www.dianping.com/search/category/1/10/g34015
+Brunch|得力屋时尚早午餐|sml-str35|221|￥22|龙柏地区|虹井路508号|7.6|7.0|7.4|http://www.dianping.com/shop/8884981|http://www.dianping.com/search/category/1/10/g34015
+Brunch|La Douceur|sml-str35|574|￥52|海宁路/七浦路|溧阳路611号上海1933老场坊105单元|6.7|7.9|7.1|http://www.dianping.com/shop/4119769|http://www.dianping.com/search/category/1/10/g34015
+Brunch|城市公牛(南京东路店)|sml-str35|604|￥188|南京东路|南京东路300号L221-222室|7.1|7.8|7.5|http://www.dianping.com/shop/5358779|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Wagas沃歌斯(星空广场店)|sml-str40|186|￥62|虹桥|虹桥路1665号星空广场1层|8.2|8.2|7.9|http://www.dianping.com/shop/21921766|http://www.dianping.com/search/category/1/10/g34015
+Brunch|ZOOCOFFEE(新邻天地店)|sml-str35|124|￥42|桃浦|武威路1285号新邻天地3层|7.5|8.1|7.6|http://www.dianping.com/shop/67857219|http://www.dianping.com/search/category/1/10/g34015
+Brunch|藏珑坊 La Cocina|sml-str40|2358|￥178|衡山路|东平路9号一楼|6.8|8.1|7.0|http://www.dianping.com/shop/500980|http://www.dianping.com/search/category/1/10/g34015
+Brunch|途尚咖啡(水城南路店)|sml-str40|77|￥46|虹桥|水城南路268号古北家乐福一层GB-37商铺|7.9|7.8|7.9|http://www.dianping.com/shop/69814495|http://www.dianping.com/search/category/1/10/g34015
+Brunch|城市公牛(锦延路店)|sml-str35|359|￥144|世纪公园|锦延路286号|7.2|7.5|7.6|http://www.dianping.com/shop/2852947|http://www.dianping.com/search/category/1/10/g34015
+Brunch|CafeDuVillage乡村咖啡馆|sml-str40|195|￥66|华漕|保乐路620号|8.1|7.9|8.0|http://www.dianping.com/shop/3205897|http://www.dianping.com/search/category/1/10/g34015
+Brunch|LUCCIO'S|sml-str35|274|￥171|新天地|淡水路240-242号|7.3|7.6|7.4|http://www.dianping.com/shop/8000706|http://www.dianping.com/search/category/1/10/g34015
+Brunch|821 Young简餐红酒吧|sml-str40|234|￥66|同乐坊|西康路821号|7.8|8.2|8.0|http://www.dianping.com/shop/19403528|http://www.dianping.com/search/category/1/10/g34015
+Brunch|壹巢|sml-str40|15||梅川路|金沙江路1678号绿洲中环中心6号楼106B|7.8|7.8|7.8|http://www.dianping.com/shop/92589120|http://www.dianping.com/search/category/1/10/g34015
+Brunch|FormulaPilota(1933购物中心店)|sml-str35|80|￥41|海宁路/七浦路|沙泾路10号1933购物中心1F|7.2|7.8|7.6|http://www.dianping.com/shop/5144573|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Enoterra红酒吧(静安店)|sml-str35|233|￥175|静安区|胶州路343号|7.5|8.2|8.0|http://www.dianping.com/shop/72478715|http://www.dianping.com/search/category/1/10/g34015
+Brunch|裕景咖啡厅|sml-str30|1001|￥147|陆家嘴|浦东大道535号裕景大饭店3楼|6.2|7.0|6.7|http://www.dianping.com/shop/2009452|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Munchies梦奇屋(武定路店)|sml-str40|325|￥72|同乐坊|武定路974号|7.5|7.1|7.0|http://www.dianping.com/shop/2679838|http://www.dianping.com/search/category/1/10/g34015
+Brunch|ZOO COFFEE(汇阳广场店)|sml-str35|638|￥44|漕河泾/田林|田林东路55号|7.2|7.5|7.0|http://www.dianping.com/shop/21932498|http://www.dianping.com/search/category/1/10/g34015
+Brunch|沙拉疯saladfun|sml-str40|14||杨浦区|殷行路1388号上海悠方B1盒马生鲜内|7.9|7.9|7.9|http://www.dianping.com/shop/92681009|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Fix Espresso  啡客咖啡|sml-str40|185|￥99|肇嘉浜路沿线|建国西路283号尚街LOFT内|7.8|8.0|7.9|http://www.dianping.com/shop/18269570|http://www.dianping.com/search/category/1/10/g34015
+Brunch|沙拉boom|sml-str35|21|￥25|闵行区|宜山路2356号|7.3|7.6|7.8|http://www.dianping.com/shop/92528039|http://www.dianping.com/search/category/1/10/g34015
+Brunch|泠七|sml-str35|20|￥48|静安寺|长乐路685-1号|7.4|7.5|7.6|http://www.dianping.com/shop/77281993|http://www.dianping.com/search/category/1/10/g34015
+Brunch|LETS BURGER&LOBSTER(兴业太古汇店)|sml-str35|2||南京西路|南京西路789号兴业太古汇1层L131||||http://www.dianping.com/shop/91599682|http://www.dianping.com/search/category/1/10/g34015
+Brunch|公社咖啡|sml-str35|971|￥77|瑞金宾馆区|泰康路210弄7号|6.8|7.0|6.6|http://www.dianping.com/shop/578643|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Bastiaan’s(虹梅路店)|sml-str35|245|￥81|虹梅路|虹梅路3338弄2号虹梅休闲街18号|7.0|7.2|6.8|http://www.dianping.com/shop/505655|http://www.dianping.com/search/category/1/10/g34015
+Brunch|真锅艺术咖啡館(共和新路店)|sml-str35|567|￥52|闸北公园|共和新路1481号|7.3|7.8|7.4|http://www.dianping.com/shop/4670101|http://www.dianping.com/search/category/1/10/g34015
+Brunch|真锅咖啡馆(马戏城店)|sml-str35|155|￥52|大宁地区|共和新路2431号|6.8|7.1|6.9|http://www.dianping.com/shop/2645185|http://www.dianping.com/search/category/1/10/g34015
+Brunch|食草沙拉|sml-str40|17|￥25|浦东新区|东园二村南张家宅40号|8.0|7.8|7.8|http://www.dianping.com/shop/92342332|http://www.dianping.com/search/category/1/10/g34015
+Brunch|DV西餐厅|sml-str35|615|￥194|音乐学院|富民路291号|6.9|7.4|6.7|http://www.dianping.com/shop/37927479|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Antoni Restaurant HOST|sml-str35|482|￥218|静安寺|巨鹿路794号|7.0|7.7|7.4|http://www.dianping.com/shop/6103759|http://www.dianping.com/search/category/1/10/g34015
+Brunch|大马可意大利西餐厅|sml-str30|81|￥66|碧云社区|碧云路875号|6.8|6.9|6.8|http://www.dianping.com/shop/9172037|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Jamaica Blue(中华艺术宫店)|sml-str35|168|￥57|上南地区|上南路161号中华艺术宫西门外|7.1|7.8|6.8|http://www.dianping.com/shop/18241988|http://www.dianping.com/search/category/1/10/g34015
+Brunch|永久咖啡(兰花路店)|sml-str35|177|￥40|世纪公园|兰花路235号|7.0|7.6|7.0|http://www.dianping.com/shop/17987380|http://www.dianping.com/search/category/1/10/g34015
+Brunch|真锅咖啡馆(羽山路店)|sml-str30|81|￥59|源深体育中心|羽山路158号|6.6|6.8|6.5|http://www.dianping.com/shop/2222077|http://www.dianping.com/search/category/1/10/g34015
+Brunch|黑吻咖啡|sml-str35|272|￥33|打浦桥|思南路107号国信创意园内|7.7|7.7|7.6|http://www.dianping.com/shop/3378550|http://www.dianping.com/search/category/1/10/g34015
+Brunch|艾尚咖啡 I SUN COFFEE|sml-str35|104|￥87|七宝|航中路19号三楼|7.2|7.3|7.1|http://www.dianping.com/shop/75166474|http://www.dianping.com/search/category/1/10/g34015
+Brunch|味佳色拉(陕西南路店)|sml-str35|1||肇嘉浜路沿线|陕西南路888号汇景苑6号楼02商铺|7.1|7.1|7.1|http://www.dianping.com/shop/93613836|http://www.dianping.com/search/category/1/10/g34015
+Brunch|一本蔬沙拉(国定东路店)|sml-str35|2||杨浦区|国定东路273弄8号102|7.4|7.4|7.4|http://www.dianping.com/shop/92785324|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Coffebound|sml-str35|2||龙华|凯旋南路202号|7.4|7.4|7.4|http://www.dianping.com/shop/67128640|http://www.dianping.com/search/category/1/10/g34015
+Brunch|嫩绿box(1088店)|sml-str35|||八佰伴|1088号1088广场B2-021||||http://www.dianping.com/shop/92240538|http://www.dianping.com/search/category/1/10/g34015
+Brunch|沙拉密语|sml-str30|1||五角场/大学区|淞沪路8号第六层G09-F06-1-020室|6.8|7.2|7.2|http://www.dianping.com/shop/91028980|http://www.dianping.com/search/category/1/10/g34015
+Brunch|甜言蜜语|sml-str30|1||上海国家会展中心|虹桥国家会展中心|6.8|6.8|6.8|http://www.dianping.com/shop/79260286|http://www.dianping.com/search/category/1/10/g34015
+Brunch|liquid laundry|sml-str0|1||南京西路|南京西路||||http://www.dianping.com/shop/93964445|http://www.dianping.com/search/category/1/10/g34015
+Brunch|KOOKY Kitchen 果奇美式餐厅|sml-str0|||虹桥镇|虹井路188号新华红星国际广场一号楼1FC102||||http://www.dianping.com/shop/93480642|http://www.dianping.com/search/category/1/10/g34015
+Brunch|TOP CHOICE|sml-str0|||黄浦区|外马路454号14号楼||||http://www.dianping.com/shop/93766541|http://www.dianping.com/search/category/1/10/g34015
+Brunch|HUB|sml-str0|||张江|张江镇张江高科技园区创新河附近||||http://www.dianping.com/shop/80115605|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Tiki China夏威夷餐厅酒吧(徐家汇店)|sml-str45|3230|￥162|徐家汇|天平路320弄衡山坊22-23号，近衡山路口|8.1|9.0|8.4|http://www.dianping.com/shop/18675134|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Mr Nice好好先生餐厅(金虹桥国际中心店)|sml-str0|10395|￥122|天山|茅台路179号金虹桥国际中心4层|8.1|8.7|8.0|http://www.dianping.com/shop/21037013|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Blue Feaster 蓝饕|sml-str40|1228|￥125|同乐坊|康定路361号|7.9|8.5|8.2|http://www.dianping.com/shop/67138250|http://www.dianping.com/search/category/1/10/g34015
+Brunch|VELLUTO意大利餐厅(外滩店)|sml-str45|1160|￥275|外滩|南京东路66号3楼Bund66外滩五席|8.3|8.8|8.6|http://www.dianping.com/shop/22426071|http://www.dianping.com/search/category/1/10/g34015
+Brunch|wagas沃歌斯(96广场店)|sml-str40|1779|￥73|百联世纪/96广场|东方路796号96广场171-172室|7.5|7.7|7.4|http://www.dianping.com/shop/43947981|http://www.dianping.com/search/category/1/10/g34015
+Brunch|莱甘地异国料理|sml-str40|1881|￥112|五角场/大学区|大学路135号|8.0|8.5|8.2|http://www.dianping.com/shop/8977492|http://www.dianping.com/search/category/1/10/g34015
+Brunch|Morganfield’s摩根菲(仲盛世界商城店)|sml-str40|1296|￥148|莘庄|都市路5001号仲盛世界商城4层|7.7|8.5|8.1|http://www.dianping.com/shop/32711153|http://www.dianping.com/search/category/1/10/g34015
+Brunch|THRINK|sml-str40|683|￥48|静安寺|南阳路216号-2|8.3|7.9|8.3|http://www.dianping.com/shop/24331332|http://www.dianping.com/search/category/1/10/g34015
+Brunch|WATTZ|sml-str35|306|￥65|静安寺|武定路999号|7.7|7.6|7.7|http://www.dianping.com/shop/14717844|http://www.dianping.com/search/category/1/10/g34015
+Brunch|NO.91|sml-str40|161|￥64|复兴西路/丁香花园|五原路91号|7.9|8.3|8.3|http://www.dianping.com/shop/32879729|http://www.dianping.com/search/category/1/10/g34015
+Brunch|玛蕾西餐厅|sml-str35|706|￥149|海宁路/七浦路|吴淞路299号宝御酒店2楼|6.9|7.7|7.3|http://www.dianping.com/shop/4668650|http://www.dianping.com/search/category/1/10/g34015
+Brunch|El Patio|sml-str0|973|￥325|音乐学院|汾阳路110号1楼||||http://www.dianping.com/shop/4188567|http://www.dianping.com/search/category/1/10/g34015
+Brunch|wagas(大宁国际店)|sml-str0|||大宁地区|商场南路||||http://www.dianping.com/shop/93570715|http://www.dianping.com/search/category/1/10/g34015

@@ -1,0 +1,47 @@
+中部西部|湖南|衡阳县|||||||||Error: options.uri is a required argument
+中部西部|湖南|衡阳县||||||||||Error: Invalid URI "p1"
+中部西部|湖南|衡阳县|||||||||404
+中部西部|湖南|衡阳县|更多运动场馆|||||||||404
+中部西部|湖南|衡阳县|||||||||404
+中部西部|湖南|衡阳县|篮球场|||||||||404
+中部西部|湖南|衡阳县|健身中心|力健国际健身俱乐部|sml-str35|2||帝龙时代广场|帝龙时代广场|http://www.dianping.com/shop/22383612|http://www.dianping.com/search/category/1409/45/g147
+中部西部|湖南|衡阳县|健身中心|动岚健身(蒸阳店)|sml-str0|||衡阳县其他|西渡镇公园路尚都A栋三楼|http://www.dianping.com/shop/48271647|http://www.dianping.com/search/category/1409/45/g147
+中部西部|湖南|衡阳县|健身中心|船山门球馆|sml-str0|||衡阳县其他|广通路与明湘路交叉口东南200米|http://www.dianping.com/shop/73457016|http://www.dianping.com/search/category/1409/45/g147
+中部西部|湖南|衡阳县|||||||||404
+中部西部|湖南|衡阳县|体育场馆|||||||||404
+中部西部|湖南|衡阳县|游泳馆|神雁水乡|sml-str35|2||夏明翰广场|新正街30-10号|http://www.dianping.com/shop/67477087|http://www.dianping.com/search/category/1409/45/g151
+中部西部|湖南|衡阳县|||||||||404
+中部西部|湖南|衡阳县|羽毛球馆|||||||||404
+中部西部|湖南|衡阳县|||||||||404
+中部西部|湖南|衡阳县|网球场|||||||||404
+中部西部|湖南|衡阳县|||||||||404
+中部西部|湖南|衡阳县|高尔夫场|||||||||404
+中部西部|湖南|衡阳县|||||||||404
+中部西部|湖南|衡阳县|保龄球馆|||||||||404
+中部西部|湖南|衡阳县|桌球馆|角度台球吧|sml-str35|1||衡阳县其他|滨江西路32号附近|http://www.dianping.com/shop/32623237|http://www.dianping.com/search/category/1409/45/g156
+中部西部|湖南|衡阳县|桌球馆|球友台球会所|sml-str0|||衡阳县其他|滨江西路32号|http://www.dianping.com/shop/69650301|http://www.dianping.com/search/category/1409/45/g156
+中部西部|湖南|衡阳县|桌球馆|俊晖台球俱乐部|sml-str0|||衡阳县其他|蒸阳大道旁商业城29栋地室|http://www.dianping.com/shop/58850714|http://www.dianping.com/search/category/1409/45/g156
+中部西部|湖南|衡阳县|桌球馆|DK Club|sml-str0|||夏明翰广场|向阳北路2-6号附近|http://www.dianping.com/shop/73467423|http://www.dianping.com/search/category/1409/45/g156
+中部西部|湖南|衡阳县|桌球馆|君爵台球室|sml-str0|||衡阳县其他|西渡镇商业城29幢博雅教育对面|http://www.dianping.com/shop/79012080|http://www.dianping.com/search/category/1409/45/g156
+中部西部|湖南|衡阳县|武术场馆|力奥健身时空|sml-str35|3||衡阳县中心城区|向阳南路12-11号|http://www.dianping.com/shop/11992644|http://www.dianping.com/search/category/1409/45/g6701
+中部西部|湖南|衡阳县|||||||||404
+中部西部|湖南|衡阳县|足球场|||||||||404
+中部西部|湖南|衡阳县|壁球馆|贺记特色高钙筒骨粉馆|sml-str0|||衡阳县其他|新正街东方幼儿园对面|http://www.dianping.com/shop/39611083|http://www.dianping.com/search/category/1409/45/g6706
+中部西部|湖南|衡阳县|||||||||404
+中部西部|湖南|衡阳县|攀岩馆|||||||||404
+中部西部|湖南|衡阳县|||||||||404
+中部西部|湖南|衡阳县|射箭馆|||||||||404
+中部西部|湖南|衡阳县|||||||||404
+中部西部|湖南|衡阳县|马术场|||||||||404
+中部西部|湖南|衡阳县|乒乓球馆|衡阳县乒乓球馆|sml-str0|||西渡镇|西渡镇红山路2号|http://www.dianping.com/shop/56575051|http://www.dianping.com/search/category/1409/45/g6712
+中部西部|湖南|衡阳县|溜冰场|天马溜冰场|sml-str0|||衡阳县其他|新正街28号|http://www.dianping.com/shop/81209786|http://www.dianping.com/search/category/1409/45/g6713
+中部西部|湖南|衡阳县|瑜伽|天瑜伽园|sml-str35|||衡阳县中心城区|新正街51号|http://www.dianping.com/shop/26066619|http://www.dianping.com/search/category/1409/45/g148
+中部西部|湖南|衡阳县|舞蹈|艺星文化艺术中心|sml-str35|||衡阳县其他|商业城|http://www.dianping.com/shop/57478525|http://www.dianping.com/search/category/1409/45/g149
+中部西部|湖南|衡阳县|舞蹈|小天鹅舞蹈学校(商城路)|sml-str30|||衡阳县其他|公园路13号附近|http://www.dianping.com/shop/48390851|http://www.dianping.com/search/category/1409/45/g149
+中部西部|湖南|衡阳县|舞蹈|馨慧舞蹈工作室|sml-str30|||衡阳县其他|清江北路东200米|http://www.dianping.com/shop/70301281|http://www.dianping.com/search/category/1409/45/g149
+中部西部|湖南|衡阳县|舞蹈|生源俱乐部库宗分部拉丁舞培训中心|sml-str30|||衡阳县其他|衡宝路|http://www.dianping.com/shop/11991874|http://www.dianping.com/search/category/1409/45/g149
+中部西部|湖南|衡阳县|舞蹈|小明星舞蹈培训中心(清江路)|sml-str30|1||衡阳县其他|新正街124-6附近|http://www.dianping.com/shop/47464737|http://www.dianping.com/search/category/1409/45/g149
+中部西部|湖南|衡阳县|舞蹈|生源俱乐部舞蹈培训班|sml-str30|||演陂镇|210省道|http://www.dianping.com/shop/11991633|http://www.dianping.com/search/category/1409/45/g149
+中部西部|湖南|衡阳县|漂流|金兰龙王峡漂流|sml-str35|13||金兰镇|金兰镇龙王村|http://www.dianping.com/shop/9314312|http://www.dianping.com/search/category/1409/45/g2838
+中部西部|湖南|衡阳县|||||||||404
+中部西部|湖南|衡阳县|滑雪|||||||||404

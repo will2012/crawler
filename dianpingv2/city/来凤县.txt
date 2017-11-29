@@ -1,0 +1,44 @@
+中部西部|湖北|来凤县|||||||||Error: options.uri is a required argument
+中部西部|湖北|来凤县||||||||||Error: Invalid URI "p1"
+中部西部|湖北|来凤县|更多运动场馆|哈里威赛车族|sml-str0|||来凤县其他|凤翔大道环保局西北侧|http://www.dianping.com/shop/41158679|http://www.dianping.com/search/category/1374/45/g145
+中部西部|湖北|来凤县|||||||||404
+中部西部|湖北|来凤县|篮球场|||||||||404
+中部西部|湖北|来凤县|健身中心|全民健身房|sml-str0|||来凤县其他|解放大道|http://www.dianping.com/shop/91891032|http://www.dianping.com/search/category/1374/45/g147
+中部西部|湖北|来凤县|健身中心|一杆台吧俱乐部|sml-str0|||来凤县其他|东和平路与凤翔大道交叉口西50米|http://www.dianping.com/shop/73442685|http://www.dianping.com/search/category/1374/45/g147
+中部西部|湖北|来凤县|体育场馆|体育馆|sml-str0|||来凤县其他|东和平路|http://www.dianping.com/shop/14507261|http://www.dianping.com/search/category/1374/45/g150
+中部西部|湖北|来凤县|||||||||404
+中部西部|湖北|来凤县|游泳馆|||||||||404
+中部西部|湖北|来凤县|||||||||404
+中部西部|湖北|来凤县|羽毛球馆|||||||||404
+中部西部|湖北|来凤县|||||||||404
+中部西部|湖北|来凤县|网球场|||||||||404
+中部西部|湖北|来凤县|||||||||404
+中部西部|湖北|来凤县|高尔夫场|||||||||404
+中部西部|湖北|来凤县|||||||||404
+中部西部|湖北|来凤县|保龄球馆|||||||||404
+中部西部|湖北|来凤县|桌球馆|精英台球会所|sml-str0|||来凤县其他|邱家巷2解放大道|http://www.dianping.com/shop/77851991|http://www.dianping.com/search/category/1374/45/g156
+中部西部|湖北|来凤县|桌球馆|a8台球俱乐部|sml-str0|||来凤县其他|翔凤镇248省道环西花园西南250米|http://www.dianping.com/shop/80924757|http://www.dianping.com/search/category/1374/45/g156
+中部西部|湖北|来凤县|桌球馆|8090台球俱乐部|sml-str0|||来凤县其他|喳西泰水城餐饮街2号楼负1层|http://www.dianping.com/shop/81044017|http://www.dianping.com/search/category/1374/45/g156
+中部西部|湖北|来凤县|桌球馆|黑8桌球娱乐会所|sml-str0|||来凤县其他|中百来凤购物中心7楼|http://www.dianping.com/shop/32625521|http://www.dianping.com/search/category/1374/45/g156
+中部西部|湖北|来凤县|||||||||404
+中部西部|湖北|来凤县|武术场馆|||||||||404
+中部西部|湖北|来凤县|||||||||404
+中部西部|湖北|来凤县|足球场|||||||||404
+中部西部|湖北|来凤县|||||||||404
+中部西部|湖北|来凤县|壁球馆|||||||||404
+中部西部|湖北|来凤县|||||||||404
+中部西部|湖北|来凤县|攀岩馆|||||||||404
+中部西部|湖北|来凤县|射箭馆|dream house|sml-str0|||来凤县其他|书院路与凤翔大道交叉口西50米|http://www.dianping.com/shop/64299695|http://www.dianping.com/search/category/1374/45/g6709
+中部西部|湖北|来凤县|||||||||404
+中部西部|湖北|来凤县|马术场|||||||||404
+中部西部|湖北|来凤县|||||||||404
+中部西部|湖北|来凤县|乒乓球馆|||||||||404
+中部西部|湖北|来凤县|||||||||404
+中部西部|湖北|来凤县|溜冰场|||||||||404
+中部西部|湖北|来凤县|瑜伽|梵雅瑜伽|sml-str30|||来凤县其他|华龙城1期3栋901|http://www.dianping.com/shop/92846083|http://www.dianping.com/search/category/1374/45/g148
+中部西部|湖北|来凤县|舞蹈|月痕音乐街舞工作室|sml-str35|||来凤县其他|凤中路65号3楼|http://www.dianping.com/shop/79588080|http://www.dianping.com/search/category/1374/45/g149
+中部西部|湖北|来凤县|舞蹈|黑池梦专业舞蹈艺术学校|sml-str30|||来凤县其他|翔凤镇凤翔大道72号|http://www.dianping.com/shop/77834929|http://www.dianping.com/search/category/1374/45/g149
+中部西部|湖北|来凤县|||||||||404
+中部西部|湖北|来凤县|漂流|||||||||404
+中部西部|湖北|来凤县|||||||||404
+中部西部|湖北|来凤县|滑雪|||||||||404

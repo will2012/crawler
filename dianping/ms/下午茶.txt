@@ -1,0 +1,750 @@
+下午茶|RIVIERA SHANGHAI 意式和食|sml-str50|523|￥633|外滩|中山东二路505号RIVIERA松鹤楼1楼|8.7|9.1|8.7|http://www.dianping.com/shop/32713184|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Top Choice|sml-str35|485|￥156|外滩|中山南路505弄老码头9号楼|6.7|7.4|7.0|http://www.dianping.com/shop/3507013|http://www.dianping.com/search/category/1/10/g34014
+下午茶|肥猫甜品(静安嘉里中心店)|sml-str40|874|￥31|静安寺|南京西路1515号静安嘉里中心南区B1层1号|8.1|8.3|8.1|http://www.dianping.com/shop/67357564|http://www.dianping.com/search/category/1/10/g34014
+下午茶|HOODOGCAFE宠物咖啡(狗狗咖啡馆)|sml-str45|616|￥81|金桥|碧云路108号|8.3|8.9|8.9|http://www.dianping.com/shop/66832113|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Le Gateau戛朵法式蛋糕|sml-str45|423|￥55|八佰伴|南泉北路528号新大陆广场北楼1层42号|8.5|8.7|8.6|http://www.dianping.com/shop/23480624|http://www.dianping.com/search/category/1/10/g34014
+下午茶|W+S CAFE by NAPOLEON|sml-str45|2715|￥158|音乐学院|淮海中路1298号1楼|8.0|9.0|8.5|http://www.dianping.com/shop/18487457|http://www.dianping.com/search/category/1/10/g34014
+下午茶|蒲石小点(愚园路店)|sml-str35|2284|￥46|静安寺|愚园路98号|7.5|8.2|7.7|http://www.dianping.com/shop/65548077|http://www.dianping.com/search/category/1/10/g34014
+下午茶|豫园·海上梨园雅宴|sml-str50|115|￥430|城隍庙|文昌路10号4楼|8.5|9.1|9.0|http://www.dianping.com/shop/28598276|http://www.dianping.com/search/category/1/10/g34014
+下午茶|西郊壹号Terrace露台|sml-str45|142|￥191|虹桥|虹桥路1950号|8.5|9.1|8.1|http://www.dianping.com/shop/23216954|http://www.dianping.com/search/category/1/10/g34014
+下午茶|A PEACE OF CAKE(尚浦领世店)|sml-str45|173|￥54|五角场/大学区|江湾城路99号6幢1层108A|8.3|8.9|8.9|http://www.dianping.com/shop/32348667|http://www.dianping.com/search/category/1/10/g34014
+下午茶|THE CUT Steak&Fries(环贸iapm商场店)|sml-str45|3616|￥274|音乐学院|淮海中路999号环贸iapm商场6层|8.3|9.0|9.0|http://www.dianping.com/shop/13785587|http://www.dianping.com/search/category/1/10/g34014
+下午茶|融 Lavant gout西餐|sml-str45|344|￥244|古北|水城南路96号|8.2|9.1|8.6|http://www.dianping.com/shop/23914119|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Ladies洛媛燕窝下午茶(缤谷文化休闲广场店)|sml-str45|494|￥164|天山|天山路341号缤谷文化休闲广场东区2层|9.0|9.0|9.0|http://www.dianping.com/shop/65625961|http://www.dianping.com/search/category/1/10/g34014
+下午茶|吉米的厨房|sml-str40|88|￥179|人民广场|www.jmcake.com|7.7|7.7|7.8|http://www.dianping.com/shop/24955992|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Ultraviolet by Paul Pairet|sml-str50|479|￥5351|外滩|中山东一路18号6楼|9.2|9.3|9.3|http://www.dianping.com/shop/6184500|http://www.dianping.com/search/category/1/10/g34014
+下午茶|弦月窗.LUNETTE BY AMANDA(露台洋房店)|sml-str50|1274|￥498|淮海路|复兴中路532号|8.8|9.1|9.1|http://www.dianping.com/shop/67330730|http://www.dianping.com/search/category/1/10/g34014
+下午茶|一炉匠心(海珀店)|sml-str50|222|￥99|龙华|瑞平路99弄106号|9.2|9.1|8.9|http://www.dianping.com/shop/92659982|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Fop pizza 火焱披萨|sml-str50|284|￥119|南京西路|大沽路390号|9.2|9.3|9.3|http://www.dianping.com/shop/92480891|http://www.dianping.com/search/category/1/10/g34014
+下午茶|腩舍|sml-str50|231|￥37|五角场/大学区|国庠路53号五角丰达商务广场|9.1|9.2|9.2|http://www.dianping.com/shop/92520134|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Reve Kitchen创意法式料理|sml-str50|164|￥301|虹桥枢纽|申长路988号|9.2|9.3|9.3|http://www.dianping.com/shop/77249373|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Molo榕|sml-str50|428|￥558|虹桥镇|古羊路1129号名都城名都俱乐部一楼|9.2|9.3|9.3|http://www.dianping.com/shop/66376265|http://www.dianping.com/search/category/1/10/g34014
+下午茶|壳里西餐厅Coquille Seafood Bistro(壳里西餐厅)|sml-str45|1899|￥643|打浦桥|蒙自路29号|8.9|9.0|9.0|http://www.dianping.com/shop/15095024|http://www.dianping.com/search/category/1/10/g34014
+下午茶|莫尔顿海鲜牛排坊(浦西iapm店)|sml-str50|2472|￥778|音乐学院|淮海中路999号环贸iapm商场L4-403|9.0|9.1|9.1|http://www.dianping.com/shop/13784786|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Aurora  绚景楼|sml-str50|193|￥859|迪士尼|上海迪士尼乐园酒店八楼|9.1|9.4|9.4|http://www.dianping.com/shop/66631888|http://www.dianping.com/search/category/1/10/g34014
+下午茶|The Pump 樂汸(新天地店)|sml-str50|541|￥373|新天地|太仓路68号|9.0|9.2|9.2|http://www.dianping.com/shop/65693086|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Mercato by Jean-Georges|sml-str50|2012|￥558|外滩|中山东一路3号外滩三号6楼|8.9|9.1|8.9|http://www.dianping.com/shop/6119146|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Hakkasan|sml-str45|3751|￥670|外滩|中山东一路18号外滩18号5层|8.7|9.1|8.9|http://www.dianping.com/shop/8914295|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Le Bistrot de Racine|sml-str50|143|￥447|静安寺|常德路609-1楼|9.0|9.1|8.9|http://www.dianping.com/shop/92529171|http://www.dianping.com/search/category/1/10/g34014
+下午茶|金色三麦主题餐厅(上海静安店)|sml-str45|3778|￥174|静安寺|愚园路96号愚园108美食广场2楼二号线静安寺三号口|8.8|9.0|8.8|http://www.dianping.com/shop/24078657|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Coffee Demon|sml-str45|316|￥27|南京西路|奉贤路96号|8.7|8.6|9.1|http://www.dianping.com/shop/91606868|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Miss Poke波奇鲜食饭|sml-str50|568|￥46|南京西路|大沽路511号|9.1|8.9|9.2|http://www.dianping.com/shop/79449804|http://www.dianping.com/search/category/1/10/g34014
+下午茶|O2ZONE氧舍(中山北路店)|sml-str50|676|￥77|北区汽车站|中山北路756号|9.1|9.2|9.3|http://www.dianping.com/shop/69290600|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Mustache|sml-str45|2806|￥330|静安寺|巨鹿路768号1楼|8.8|9.0|8.9|http://www.dianping.com/shop/21584597|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Café Brio咖啡厅·天禧嘉福璞缇客酒店|sml-str45|3447|￥214|虹桥|虹许路358号天禧嘉福璞缇客酒店1楼|8.7|9.1|9.0|http://www.dianping.com/shop/2087029|http://www.dianping.com/search/category/1/10/g34014
+下午茶|BORAGE生活馆|sml-str50|254|￥176|龙华|东安路562号绿地缤纷城5层501|9.0|9.2|8.8|http://www.dianping.com/shop/76998819|http://www.dianping.com/search/category/1/10/g34014
+下午茶|利苑酒家(淮海755店)|sml-str50|246|￥222|卢湾区|淮海中路755号6层|9.1|9.2|9.2|http://www.dianping.com/shop/92412442|http://www.dianping.com/search/category/1/10/g34014
+下午茶|夏朵花园|sml-str50|1591|￥258|复兴西路/丁香花园|复兴西路268号|8.9|9.2|9.0|http://www.dianping.com/shop/1926859|http://www.dianping.com/search/category/1/10/g34014
+下午茶|堡革BURGREAT|sml-str50|125|￥57|淮海路|马当路388号复兴sohoB2-19|9.1|9.1|9.1|http://www.dianping.com/shop/93279824|http://www.dianping.com/search/category/1/10/g34014
+下午茶|金玉满堂潮州夜宵酒楼(无限极荟购物广场店)|sml-str45|896|￥231|新天地|湖滨路168号无限极荟购物广场1层|8.8|9.0|8.7|http://www.dianping.com/shop/67798316|http://www.dianping.com/search/category/1/10/g34014
+下午茶|乐忻皇朝(上海中心大厦店)|sml-str45|1628|￥106|陆家嘴|陆家嘴环路479号上海中心大厦B2层|8.8|9.0|8.9|http://www.dianping.com/shop/77457970|http://www.dianping.com/search/category/1/10/g34014
+下午茶|誉八仙茶室酒楼(新天地店)|sml-str45|2075|￥329|新天地|太仓路181弄8号新天地|8.4|9.1|9.0|http://www.dianping.com/shop/76678586|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Jean-Georges|sml-str50|3910|￥1081|外滩|中山东一路3号外滩三号4楼|8.5|9.1|9.0|http://www.dianping.com/shop/503113|http://www.dianping.com/search/category/1/10/g34014
+下午茶|汤若是你|sml-str50|78|￥44|五角场/大学区|五角场大学路307号201|9.0|9.1|9.3|http://www.dianping.com/shop/92711214|http://www.dianping.com/search/category/1/10/g34014
+下午茶|AFTER SEVEN - 今7|sml-str50|245|￥361|打浦桥|丽园路1017号|9.0|9.1|9.1|http://www.dianping.com/shop/72476515|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Alan Wong’s Shanghai|sml-str50|803|￥616|南京西路|南京西路1376号上海商城2层|8.7|9.1|9.1|http://www.dianping.com/shop/53874382|http://www.dianping.com/search/category/1/10/g34014
+下午茶|tea funny泡茶店|sml-str45|1281|￥70|音乐学院|永康路46号|8.8|8.8|9.0|http://www.dianping.com/shop/76999732|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Joy Cafe(宝马上海体验中心店)|sml-str45|291|￥148|上南地区|世博园区雪野路35号宝马上海体验中心1层|8.6|9.1|8.9|http://www.dianping.com/shop/80616249|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Bianchi & Bella Ciao|sml-str50|743|￥341|打浦桥|建国中路155弄7号田子坊|9.1|9.1|9.1|http://www.dianping.com/shop/66596123|http://www.dianping.com/search/category/1/10/g34014
+下午茶|luckid亲子餐厅|sml-str50|326|￥221|龙柏地区|虹井路225号先锋大厦4楼-C区|8.4|9.1|9.2|http://www.dianping.com/shop/92614673|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Circles圈米拉|sml-str50|347|￥47|人民广场|黄陂北路1号电信世界101室|9.0|9.1|9.1|http://www.dianping.com/shop/69109343|http://www.dianping.com/search/category/1/10/g34014
+下午茶|查局粤菜馆(凯旋路店)|sml-str50|1986|￥137|上海影城/新华路|凯旋路1272号|9.0|8.9|9.1|http://www.dianping.com/shop/65327127|http://www.dianping.com/search/category/1/10/g34014
+下午茶|晶采轩(芮欧百货店)|sml-str45|3637|￥431|静安寺|南京西路1601号芮欧百货3-4楼|9.0|9.1|8.6|http://www.dianping.com/shop/13820289|http://www.dianping.com/search/category/1/10/g34014
+下午茶|龙庭琇厨(上海店)|sml-str50|938|￥332|五角场/大学区|国定东路88号凯悦酒店7楼|9.0|9.2|9.0|http://www.dianping.com/shop/59139977|http://www.dianping.com/search/category/1/10/g34014
+下午茶|VANILLA(洛克外滩源店)|sml-str45|595|￥287|外滩|北京东路130号虎丘路路口中实大楼1层|8.6|9.2|9.0|http://www.dianping.com/shop/90967143|http://www.dianping.com/search/category/1/10/g34014
+下午茶|7cake榴莲千层蛋糕(上海工厂)|sml-str50|190|￥66|松江大学城|文汇路708号|9.3|9.2|9.2|http://www.dianping.com/shop/77274955|http://www.dianping.com/search/category/1/10/g34014
+下午茶|瑞华樟园|sml-str50|326|￥558|月星环球港|凯旋北路1555弄66号|9.0|9.3|9.0|http://www.dianping.com/shop/65999943|http://www.dianping.com/search/category/1/10/g34014
+下午茶|IL BAMBINO班比诺意大利餐厅|sml-str50|285|￥363|外滩|外马路458弄7号3楼|8.7|9.1|9.1|http://www.dianping.com/shop/83535159|http://www.dianping.com/search/category/1/10/g34014
+下午茶|誉八仙酒楼(大悦城店)|sml-str45|7992|￥208|大悦城|西藏北路198号大悦城北座7楼|8.6|9.0|9.0|http://www.dianping.com/shop/45831338|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Sky Restaurant & Lounge|sml-str50|416|￥242|五角场/大学区|星汇广场国安路758弄28号|9.0|9.2|9.3|http://www.dianping.com/shop/67138913|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Avenue Joffre Bar|sml-str50|303|￥174|衡山路|永嘉路570号永嘉庭5号楼1楼|9.0|9.2|9.2|http://www.dianping.com/shop/10341059|http://www.dianping.com/search/category/1/10/g34014
+下午茶|高跟73小时(巨鹿路店)|sml-str45|3513|￥120|南京西路|巨鹿路502号|8.0|9.1|9.0|http://www.dianping.com/shop/21909188|http://www.dianping.com/search/category/1/10/g34014
+下午茶|鸢尾天空法餐厅 iris le ciel by choc|sml-str45|94|￥293|大悦城|西藏北路198号大悦城北楼802-11号|9.0|9.1|8.5|http://www.dianping.com/shop/92949297|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Jstone.Italian KITCHEN&Bar(襄阳公园店)|sml-str50|1448|￥257|淮海路|襄阳北路100号襄阳坊2楼|8.9|9.1|9.1|http://www.dianping.com/shop/37942497|http://www.dianping.com/search/category/1/10/g34014
+下午茶|香港百合居(百联世纪店)|sml-str45|2308|￥170|百联世纪/96广场|世纪大道1217号百联世纪购物中心5层|8.7|9.0|8.4|http://www.dianping.com/shop/67796738|http://www.dianping.com/search/category/1/10/g34014
+下午茶|王品牛排(上海世博源店)|sml-str50|3248|￥385|世博源|上南路168号世博源3区2层202B号|9.1|9.2|9.2|http://www.dianping.com/shop/18518363|http://www.dianping.com/search/category/1/10/g34014
+下午茶|翠园(兴业太古汇店)|sml-str45|567|￥271|南京西路|南京西路789号兴业太古汇LG1层|8.9|9.0|8.5|http://www.dianping.com/shop/91623164|http://www.dianping.com/search/category/1/10/g34014
+下午茶|潮堂(环球金融中心店)|sml-str45|5731|￥155|陆家嘴|世纪大道100号环球金融商务中心3层|8.7|8.6|9.0|http://www.dianping.com/shop/22824497|http://www.dianping.com/search/category/1/10/g34014
+下午茶|DATING达庭西餐厅&酒吧&棋牌|sml-str50|469|￥163|梅川路|金沙江路1628号2号楼6楼绿洲中环中心|9.1|9.3|9.1|http://www.dianping.com/shop/76854134|http://www.dianping.com/search/category/1/10/g34014
+下午茶|尚9·一滴水中餐江景包房|sml-str50|456|￥743|北外滩|东大名路500号|8.9|9.2|8.9|http://www.dianping.com/shop/16798938|http://www.dianping.com/search/category/1/10/g34014
+下午茶|恬嬉 法式甜品 | Tanci Patisserie|sml-str45|244|￥82|人民广场|武胜路469号|8.8|8.8|9.0|http://www.dianping.com/shop/91595497|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Eden coffee 伊甸园|sml-str45|268|￥100|同乐坊|巨鹿路786弄66号|8.6|9.0|9.1|http://www.dianping.com/shop/80528963|http://www.dianping.com/search/category/1/10/g34014
+下午茶|ph+概念店|sml-str50|1127|￥103|陆家嘴|银城中路501号B2-1室|9.1|9.2|9.2|http://www.dianping.com/shop/74602502|http://www.dianping.com/search/category/1/10/g34014
+下午茶|AMANDA餐厅(长乐路店)|sml-str50|5392|￥338|淮海路|长乐路205号|8.9|9.0|9.1|http://www.dianping.com/shop/19290716|http://www.dianping.com/search/category/1/10/g34014
+下午茶|World of Beer(WOB精酿啤酒餐厅)|sml-str45|707|￥149|静安寺|富民路85号巨富大厦1楼|8.8|9.0|9.0|http://www.dianping.com/shop/58560231|http://www.dianping.com/search/category/1/10/g34014
+下午茶|金轩中餐厅|sml-str50|695|￥943|陆家嘴|世纪大道8号上海国金中心丽思卡尔顿酒店53楼|8.6|9.3|9.2|http://www.dianping.com/shop/4074034|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Highline|sml-str45|1331|￥313|淮海路|淮海中路282号香港广场北座雅诗阁酒店6层|8.3|9.1|8.3|http://www.dianping.com/shop/69202191|http://www.dianping.com/search/category/1/10/g34014
+下午茶|醇之语甜品工作室|sml-str50|356|￥421|庙行/共康|共泉路82号|9.1|9.2|9.2|http://www.dianping.com/shop/5260219|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Brownstone Tapas & Lounge布朗石西班牙餐厅酒吧(陆家嘴店)|sml-str45|341|￥204|陆家嘴|富城路28号|8.8|9.0|8.9|http://www.dianping.com/shop/77218611|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Rhythm美式餐厅|sml-str50|340|￥116|七宝|漕宝路3299号七宝宝龙城市广场东区1层|9.0|9.1|9.0|http://www.dianping.com/shop/79420355|http://www.dianping.com/search/category/1/10/g34014
+下午茶|翡冷翠1835意大利餐厅|sml-str50|843|￥416|淮海路|陕西南路35-4号|9.1|8.8|9.2|http://www.dianping.com/shop/32548173|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Brownstone Tapas & Lounge布朗石西班牙餐厅酒吧(永嘉庭店)|sml-str50|2758|￥233|衡山路|永嘉路570号永嘉庭311单元|8.8|9.0|9.1|http://www.dianping.com/shop/4599475|http://www.dianping.com/search/category/1/10/g34014
+下午茶|罗斯福色戒餐厅|sml-str45|2957|￥785|外滩|中山东一路27号罗斯福8楼|7.9|9.2|8.7|http://www.dianping.com/shop/4208943|http://www.dianping.com/search/category/1/10/g34014
+下午茶|LE VERRE à vin|sml-str50|731|￥237|静安寺|长乐路1221号|8.8|8.7|8.5|http://www.dianping.com/shop/22240542|http://www.dianping.com/search/category/1/10/g34014
+下午茶|CAGES凯吉思餐厅棒球馆(静安店)|sml-str45|1196|￥144|同乐坊|江宁路428号|8.1|9.1|8.3|http://www.dianping.com/shop/17945788|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Green&Safe(新天地店)|sml-str45|2962|￥190|新天地|太仓路181弄上海新天地北里22号1层|8.4|8.8|8.1|http://www.dianping.com/shop/67519205|http://www.dianping.com/search/category/1/10/g34014
+下午茶|唐阁|sml-str45|1317|￥1092|新天地|马当路99号新天地朗廷酒店5楼|8.4|9.0|8.9|http://www.dianping.com/shop/4667684|http://www.dianping.com/search/category/1/10/g34014
+下午茶|WIN HOUSE(月星环球港店)|sml-str45|1201|￥129|月星环球港|中山北路3300号L1023-L1026|8.7|9.1|8.9|http://www.dianping.com/shop/69664731|http://www.dianping.com/search/category/1/10/g34014
+下午茶|POP美式餐厅与酒吧|sml-str45|3281|￥327|外滩|中山东一路3号外滩三号7楼|7.8|9.2|8.2|http://www.dianping.com/shop/22200756|http://www.dianping.com/search/category/1/10/g34014
+下午茶|KeyGreen Oyster&Lounge会蚝友生蚝酒吧|sml-str50|539|￥380|世纪公园|芳甸路300号联洋广场B区1层B16号|9.1|8.8|9.0|http://www.dianping.com/shop/22585879|http://www.dianping.com/search/category/1/10/g34014
+下午茶|TOMOS 土木水(长乐路店)|sml-str50|600|￥31|静安寺|长乐路1035号|9.1|9.1|9.2|http://www.dianping.com/shop/93098066|http://www.dianping.com/search/category/1/10/g34014
+下午茶|遇见牛排|sml-str50|302|￥64|浦东新区|南泉北路588号新大陆广场南楼1层S1-18室|8.8|9.0|9.0|http://www.dianping.com/shop/91945656|http://www.dianping.com/search/category/1/10/g34014
+下午茶|I SWEET蛋糕甜品定制|sml-str50|128|￥459|肇嘉浜路沿线|肇嘉浜路与瑞金路交叉口|9.2|9.2|9.2|http://www.dianping.com/shop/92176219|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Sweet Wonderland|sml-str45|306|￥65|音乐学院|永康路39号|8.7|9.0|9.0|http://www.dianping.com/shop/92383698|http://www.dianping.com/search/category/1/10/g34014
+下午茶|煲王之王(华宁弘基生活中心店)|sml-str45|1015|￥125|中山公园|宣化路300号华宁弘基生活中心3层|8.7|8.7|8.7|http://www.dianping.com/shop/67134254|http://www.dianping.com/search/category/1/10/g34014
+下午茶|肥仔文澳门猪骨煲(南京西路店)|sml-str45|9465|￥113|南京西路|南汇路77号|8.5|7.9|7.8|http://www.dianping.com/shop/8048444|http://www.dianping.com/search/category/1/10/g34014
+下午茶|LaBamba(三号湾广场店)|sml-str45|1648|￥70|五角场/大学区|国定路333号三号湾广场2层|8.8|8.9|8.7|http://www.dianping.com/shop/18338783|http://www.dianping.com/search/category/1/10/g34014
+下午茶|夏朵餐厅(天山店)|sml-str45|937|￥144|天山|天山路341号缤谷文化休闲广场东区4层|8.8|9.2|8.9|http://www.dianping.com/shop/65615698|http://www.dianping.com/search/category/1/10/g34014
+下午茶|lavender意面|sml-str50|953|￥71|打浦桥|瑞金二路225弄21号|9.1|9.1|9.2|http://www.dianping.com/shop/27248517|http://www.dianping.com/search/category/1/10/g34014
+下午茶|香港龙凤楼(巨鹿路店)|sml-str45|9653|￥180|静安寺|巨鹿路889号7-8号楼|8.5|8.7|8.1|http://www.dianping.com/shop/8910946|http://www.dianping.com/search/category/1/10/g34014
+下午茶|王家蛇庄(阳曲路店)|sml-str50|1531|￥189|彭浦新村|阳曲路596号-1|9.2|8.4|9.1|http://www.dianping.com/shop/65931512|http://www.dianping.com/search/category/1/10/g34014
+下午茶|M1NT|sml-str45|2338|￥557|南京东路|福州路318号浦汇大厦24楼|8.2|9.1|8.3|http://www.dianping.com/shop/2792152|http://www.dianping.com/search/category/1/10/g34014
+下午茶|The Plump Oyster bar|sml-str50|1139|￥649|打浦桥|建国中路169弄3楼|9.1|9.0|8.6|http://www.dianping.com/shop/5638819|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Wanna feel Restaurant &Bar至觉|sml-str45|520|￥157|徐家汇|宛平南路104号永丰国际广场1楼|8.8|8.8|8.9|http://www.dianping.com/shop/73398005|http://www.dianping.com/search/category/1/10/g34014
+下午茶|北海道sweet's(南京西路店)|sml-str45|1249|￥59|南京西路|泰兴路89号裸心社一楼|8.7|8.1|8.7|http://www.dianping.com/shop/67059521|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Alley CAFE|sml-str50|446|￥37|打浦桥|瑞金二路260号|9.0|8.9|9.1|http://www.dianping.com/shop/66621749|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Lilliput粒粒堡亲子餐厅(大宁店)|sml-str45|195|￥182|闸北区|万荣路777弄大宁音乐广场G座4楼|8.3|9.2|8.8|http://www.dianping.com/shop/92868132|http://www.dianping.com/search/category/1/10/g34014
+下午茶|空鱼空宠物咖啡狗狗主题咖啡厅|sml-str50|410|￥63|四川北路|四川北路1851号荣欣大厦608室|8.8|9.1|9.2|http://www.dianping.com/shop/67722897|http://www.dianping.com/search/category/1/10/g34014
+下午茶|宝燕海货工场二店港式茶点(大宁店)|sml-str45|2219|￥273|大宁地区|灵石路716号C1幢4楼|8.8|8.4|7.9|http://www.dianping.com/shop/76836701|http://www.dianping.com/search/category/1/10/g34014
+下午茶|OTTIMO欧迪姆进口生蚝吧西餐厅(永嘉路总店)|sml-str50|1246|￥503|衡山路|永嘉路570号1栋4楼（永嘉庭）|9.0|9.1|9.1|http://www.dianping.com/shop/17999384|http://www.dianping.com/search/category/1/10/g34014
+下午茶|翠园(静安嘉里店)|sml-str45|12713|￥282|静安寺|南京西路1515号静安嘉里中心南区4层01号|8.5|9.0|8.5|http://www.dianping.com/shop/14180269|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Ermans Kitchen 珥玛厨房|sml-str50|2390|￥255|北外滩|公平路36号星乐汇商业街9-4、9-5、9-6号|9.0|9.1|9.1|http://www.dianping.com/shop/22303119|http://www.dianping.com/search/category/1/10/g34014
+下午茶|榭福屋(静安店)|sml-str50|202|￥605|同乐坊|胶州路149弄|8.8|9.1|8.8|http://www.dianping.com/shop/29517682|http://www.dianping.com/search/category/1/10/g34014
+下午茶|半岛酒店|sml-str45|756|￥371|外滩|中山东一路32号半岛酒店2层|8.3|9.2|9.0|http://www.dianping.com/shop/3513457|http://www.dianping.com/search/category/1/10/g34014
+下午茶|food place|sml-str50|673|￥94|嘉定镇|金沙路8号|9.0|9.0|9.1|http://www.dianping.com/shop/57411148|http://www.dianping.com/search/category/1/10/g34014
+下午茶|night夜店露天花园下午茶|sml-str50|102|￥92|瑞金宾馆区|重庆南路298弄9号|9.1|9.0|9.1|http://www.dianping.com/shop/92464310|http://www.dianping.com/search/category/1/10/g34014
+下午茶|斯比特花园·意大利餐厅(新世界大丸百货店)|sml-str45|4682|￥130|南京东路|南京东路228号新世界大丸百货6层|8.6|8.9|8.7|http://www.dianping.com/shop/22344022|http://www.dianping.com/search/category/1/10/g34014
+下午茶|意味轩 SCENA(浦东丽思卡尔顿酒店)|sml-str50|1995|￥714|陆家嘴|世纪大道8号国金中心52楼丽思卡尔顿酒店|8.3|9.3|9.1|http://www.dianping.com/shop/4091239|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Ritz Carlton Buffet|sml-str50|545|￥398|陆家嘴|世纪大道8号国金中心丽思卡尔顿酒店52楼|8.5|9.3|9.1|http://www.dianping.com/shop/17704112|http://www.dianping.com/search/category/1/10/g34014
+下午茶|浦江荟|sml-str50|186|￥591|陆家嘴|滨江大道1850号A楼|8.9|9.1|9.1|http://www.dianping.com/shop/66870444|http://www.dianping.com/search/category/1/10/g34014
+下午茶|慕·法式铁板烧lamu(美罗城店)|sml-str50|6678|￥443|徐家汇|肇嘉浜路1111号美罗城A区8层|9.0|9.1|9.1|http://www.dianping.com/shop/8065402|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Magnet磁石(静安寺店)|sml-str45|5057|￥166|静安寺|南京西路1818号（1788广场1楼06单元）近华山路|8.3|8.9|8.7|http://www.dianping.com/shop/14192855|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Monga Bistro|sml-str45|1058|￥150|新天地|淡水路210号|8.8|8.3|8.9|http://www.dianping.com/shop/24508627|http://www.dianping.com/search/category/1/10/g34014
+下午茶|OPS CAFE|sml-str50|120|￥44|衡山路|太原路177弄1号临|9.0|8.5|9.1|http://www.dianping.com/shop/93378921|http://www.dianping.com/search/category/1/10/g34014
+下午茶|恒悦轩精致香港粤菜(徐家汇店)|sml-str45|4888|￥361|徐家汇|宛平路290号徐家汇公园内|8.3|8.9|8.1|http://www.dianping.com/shop/506354|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Jstone.Italian KITCHEN&Bar(虹梅路店)|sml-str50|215|￥199|虹桥|虹梅路3911号|9.1|8.9|9.1|http://www.dianping.com/shop/83500387|http://www.dianping.com/search/category/1/10/g34014
+下午茶|艾利爵士顶层餐厅|sml-str45|1202|￥1106|外滩|中山东一路32号半岛酒店13楼|8.2|9.2|8.7|http://www.dianping.com/shop/3513403|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Le Vin|sml-str50|697|￥205|静安寺|长乐路936号|8.9|8.4|9.0|http://www.dianping.com/shop/5733236|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Sunflour(安福路店)|sml-str45|8984|￥67|复兴西路/丁香花园|安福路308号104室|8.8|8.5|8.2|http://www.dianping.com/shop/5278796|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Burger it 鲸吞汉堡|sml-str45|280|￥87|淮海路|襄阳北路100号二楼|8.7|8.3|8.5|http://www.dianping.com/shop/92876078|http://www.dianping.com/search/category/1/10/g34014
+下午茶|一枝|sml-str45|104|￥101|淮海路|衡山路23号|8.8|9.1|9.1|http://www.dianping.com/shop/83431351|http://www.dianping.com/search/category/1/10/g34014
+下午茶|husk restaurant|sml-str45|1579|￥237|南京西路|奉贤路218号|8.7|9.0|9.0|http://www.dianping.com/shop/20877970|http://www.dianping.com/search/category/1/10/g34014
+下午茶|外滩源壹号|sml-str45|731|￥315|外滩|中山东一路33号|8.3|9.2|8.8|http://www.dianping.com/shop/58931227|http://www.dianping.com/search/category/1/10/g34014
+下午茶|EVER NAKED裸蛋糕|sml-str45|2698|￥85|静安寺|巨鹿路891号|8.6|8.2|8.4|http://www.dianping.com/shop/22121297|http://www.dianping.com/search/category/1/10/g34014
+下午茶|solo(衡山路店)|sml-str45|640|￥349|衡山路|衡山路237号2楼|8.8|8.8|8.8|http://www.dianping.com/shop/507368|http://www.dianping.com/search/category/1/10/g34014
+下午茶|上海往事怀旧照相咖啡馆需预订|sml-str50|386|￥264|北外滩|东外滩海州路83号|9.2|9.2|9.2|http://www.dianping.com/shop/23540188|http://www.dianping.com/search/category/1/10/g34014
+下午茶|王品牛排(上海徐家汇店)|sml-str50|4184|￥385|徐家汇|漕溪北路86号四楼|8.5|9.0|9.1|http://www.dianping.com/shop/4183869|http://www.dianping.com/search/category/1/10/g34014
+下午茶|8 1/2 Otto e Mezzo BOMBANA|sml-str45|1183|￥1947|外滩|圆明园路169号协进大楼6-7楼|8.5|9.1|9.0|http://www.dianping.com/shop/5573597|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Light & Salt On The Bund|sml-str45|2315|￥348|外滩|圆明园路133号女青年会大楼6楼|8.2|9.1|9.0|http://www.dianping.com/shop/15096387|http://www.dianping.com/search/category/1/10/g34014
+下午茶|义面屋(大拇指广场店)|sml-str50|3940|￥81|世纪公园|芳甸路199弄33号2层210室201单元|9.0|9.1|9.1|http://www.dianping.com/shop/6379236|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Jstone.Grill&Lounge杰意大利扒房及酒廊|sml-str50|1906|￥381|八佰伴|东方路778号紫金山大酒店2楼|8.8|9.1|9.1|http://www.dianping.com/shop/8981853|http://www.dianping.com/search/category/1/10/g34014
+下午茶|米莉西餐厅|sml-str50|212|￥100|庙行/共康|呼玛路红太阳商业广场一楼109-110号|8.6|9.2|9.2|http://www.dianping.com/shop/76838361|http://www.dianping.com/search/category/1/10/g34014
+下午茶|fine cafe&canteen|sml-str45|1274|￥88|复兴西路/丁香花园|乌鲁木齐中路192号|8.5|8.4|8.8|http://www.dianping.com/shop/90098841|http://www.dianping.com/search/category/1/10/g34014
+下午茶|CrazyOnes西班牙海鲜饭(日月光店)|sml-str45|1457|￥116|打浦桥|徐家汇路618号日月光中心广场徐家汇区2层12号|8.5|8.8|9.0|http://www.dianping.com/shop/69208935|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Light & Salt Daily(陕西北路店)|sml-str45|1479|￥286|南京西路|陕西北路407号|8.2|9.1|9.0|http://www.dianping.com/shop/22743778|http://www.dianping.com/search/category/1/10/g34014
+下午茶|The Bull & Claw 鳌足汇|sml-str50|147|￥305|音乐学院|汾阳路110号|8.9|9.1|8.5|http://www.dianping.com/shop/91607397|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Macarena 玛卡莲娜西班牙餐厅|sml-str50|604|￥355|徐泾|高泾路888弄|9.1|9.3|9.1|http://www.dianping.com/shop/19322600|http://www.dianping.com/search/category/1/10/g34014
+下午茶|OH Cafe欧巧西餐酒吧|sml-str50|203|￥164|静安寺|南京西路久光百货二楼珠宝区S207-208|9.0|9.2|9.2|http://www.dianping.com/shop/79282973|http://www.dianping.com/search/category/1/10/g34014
+下午茶|瑞酷 RuiKu|sml-str45|128|￥1062|外滩|中山东二路538号上海万达瑞华酒店21楼|8.0|9.2|9.1|http://www.dianping.com/shop/67184911|http://www.dianping.com/search/category/1/10/g34014
+下午茶|SVEA 现代北欧餐厅(瑞虹月亮湾店)|sml-str45|768|￥260|临平路/和平公园|瑞虹路188号瑞虹天地月亮湾L1-21b|8.6|9.1|9.0|http://www.dianping.com/shop/70445375|http://www.dianping.com/search/category/1/10/g34014
+下午茶|小成哥广东茶点|sml-str45|166|￥71|莘庄|七莘路338号|8.8|8.6|8.5|http://www.dianping.com/shop/93461828|http://www.dianping.com/search/category/1/10/g34014
+下午茶|滨寿司(威宁路店)|sml-str45|6493|￥82|天山|天山路341号缤谷文化休闲广场西区3层|8.7|8.8|8.7|http://www.dianping.com/shop/18714439|http://www.dianping.com/search/category/1/10/g34014
+下午茶|皇朝会|sml-str50|605|￥471|外滩|中山东一路5号外滩五号3楼|8.9|9.1|9.0|http://www.dianping.com/shop/48089742|http://www.dianping.com/search/category/1/10/g34014
+下午茶|汉来轩(七宝万科广场店)|sml-str45|1473|￥173|七宝|漕宝路3366号七宝万科广场4层408号|8.6|9.2|8.8|http://www.dianping.com/shop/67972167|http://www.dianping.com/search/category/1/10/g34014
+下午茶|THE CANNERY|sml-str45|947|￥371|中山公园|愚园路1107号|8.4|9.0|8.4|http://www.dianping.com/shop/66886490|http://www.dianping.com/search/category/1/10/g34014
+下午茶|蝶舍·MAISON PAPILLON|sml-str45|3503|￥437|静安寺|胶州路149弄2号-2层|8.6|9.0|9.1|http://www.dianping.com/shop/67672216|http://www.dianping.com/search/category/1/10/g34014
+下午茶|西郊壹号·南苑铁板烧|sml-str50|560|￥815|虹桥|虹桥路1950号|9.2|9.3|9.2|http://www.dianping.com/shop/19643664|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Manner coffee(铜仁路菜场店)|sml-str50|162|￥18|静安寺|铜仁路329号|9.1|8.4|9.0|http://www.dianping.com/shop/92662079|http://www.dianping.com/search/category/1/10/g34014
+下午茶|天比高新概念粤菜|sml-str50|184|￥100|虹桥|金钟路968号凌空soho8号楼105|8.9|9.1|8.9|http://www.dianping.com/shop/91627825|http://www.dianping.com/search/category/1/10/g34014
+下午茶|非常时髦餐厅|sml-str45|2995|￥584|北外滩|黄浦路199号上海外滩茂悦大酒店西楼30楼|7.6|9.1|7.8|http://www.dianping.com/shop/2458900|http://www.dianping.com/search/category/1/10/g34014
+下午茶|MRS.ZHENG BAKING郑太太烘焙(万达广场宝山店)|sml-str50|437|￥58|庙行/共康|一二八纪念路988弄万达金街3楼366号|9.1|9.1|9.1|http://www.dianping.com/shop/66967345|http://www.dianping.com/search/category/1/10/g34014
+下午茶|大勝胡同|sml-str45|536|￥79|音乐学院|陕西南路490号|8.9|8.5|9.1|http://www.dianping.com/shop/77455621|http://www.dianping.com/search/category/1/10/g34014
+下午茶|小芳廷|sml-str45|3461|￥179|长寿路|长寿路652号国际时尚教育中心K栋|8.2|9.2|8.5|http://www.dianping.com/shop/16000419|http://www.dianping.com/search/category/1/10/g34014
+下午茶|食荳集市CHO-COLLECTOR(大悦城店)|sml-str45|650|￥79|大悦城|西藏北路198号大悦城北区1层116单元|8.5|8.9|9.0|http://www.dianping.com/shop/92058331|http://www.dianping.com/search/category/1/10/g34014
+下午茶|花苑茶餐厅|sml-str50|2352|￥96|惠南镇|沪南公路9356弄汇展广场1号|9.0|9.1|8.9|http://www.dianping.com/shop/52348336|http://www.dianping.com/search/category/1/10/g34014
+下午茶|尚牛社会 Beef & Liberty|sml-str50|102|￥128|音乐学院|襄阳北路108号101B嘉华中心近淮海中路襄阳公园|9.0|9.2|9.1|http://www.dianping.com/shop/92438407|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Nico's Oyster法式创意海鲜餐厅|sml-str50|217|￥443|复兴西路/丁香花园|湖南路287弄甲1号|8.8|8.9|8.9|http://www.dianping.com/shop/66508455|http://www.dianping.com/search/category/1/10/g34014
+下午茶|INDOOR OASIS 绿洲间|sml-str45|808|￥32|中山公园|愚园路1388号|8.8|8.9|9.1|http://www.dianping.com/shop/67027650|http://www.dianping.com/search/category/1/10/g34014
+下午茶|MolyShake|sml-str50|157|￥42|淮海路|长乐路462号联合谷集社E305|9.1|9.1|9.2|http://www.dianping.com/shop/92700505|http://www.dianping.com/search/category/1/10/g34014
+下午茶|WINHOUSE(正大广场店)|sml-str45|5369|￥130|陆家嘴|陆家嘴西路168号正大广场1层|8.4|8.5|8.5|http://www.dianping.com/shop/22466925|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Liquid Laundry|sml-str45|3011|￥175|音乐学院|淮海中路1028号嘉华坊2楼|8.4|8.9|8.1|http://www.dianping.com/shop/18102801|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Maya玛雅墨西哥餐厅(四方新城店)|sml-str45|1395|￥236|静安寺|巨鹿路568弄四方新城俱乐部2楼|8.6|9.0|9.0|http://www.dianping.com/shop/2713810|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Favorita意大利餐厅(新闸路店)|sml-str50|180|￥273|南京西路|新闸路1315号|9.0|8.8|9.0|http://www.dianping.com/shop/68226631|http://www.dianping.com/search/category/1/10/g34014
+下午茶|泡咖西餐厅|sml-str50|305|￥87|大宁地区|灵石路716号宝燕商城|9.1|9.2|9.2|http://www.dianping.com/shop/93335446|http://www.dianping.com/search/category/1/10/g34014
+下午茶|桥底辣蟹(soho复兴广场店)|sml-str45|6550|￥396|新天地|复兴中路soho复兴广场1层|8.6|8.6|8.3|http://www.dianping.com/shop/21351023|http://www.dianping.com/search/category/1/10/g34014
+下午茶|浦江宴|sml-str45|114|￥210|上南地区|世博大道1200号梅赛德斯奔驰中心6楼|8.5|9.1|8.9|http://www.dianping.com/shop/92163161|http://www.dianping.com/search/category/1/10/g34014
+下午茶|KIWIANA奇异安娜新西兰主题餐厅(世博源店)|sml-str45|5243|￥170|世博源|上南路168号世博源2区B层15室|8.6|9.0|8.7|http://www.dianping.com/shop/21679210|http://www.dianping.com/search/category/1/10/g34014
+下午茶|御宝至尊烤鸭店(虹桥天地店)|sml-str45|855|￥370|虹桥枢纽|申长路688号虹桥天地购物中心L3-26|8.8|9.1|9.1|http://www.dianping.com/shop/32598676|http://www.dianping.com/search/category/1/10/g34014
+下午茶|野猪先森榴莲披萨 mr.boar|sml-str50|301|￥77|人民广场|淮海东路99号6楼602室|9.2|8.3|9.2|http://www.dianping.com/shop/74605692|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Mayita小玛雅墨西哥餐厅|sml-str50|482|￥201|新天地|寿宁路98号6楼辉盛庭国际公寓|8.9|9.1|9.1|http://www.dianping.com/shop/18021257|http://www.dianping.com/search/category/1/10/g34014
+下午茶|林奶奶炖汤|sml-str50|209|￥99|肇嘉浜路沿线|襄阳南路578号乙|9.0|9.2|9.1|http://www.dianping.com/shop/69513964|http://www.dianping.com/search/category/1/10/g34014
+下午茶|TONO'S海鲜波奇轻食(天山店)|sml-str50|142|￥43|长宁区|天山路1111号B1-46B|9.2|9.1|9.1|http://www.dianping.com/shop/92266093|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Charlie's Burger|sml-str45|2406|￥84|静安寺|常熟路89号|8.5|8.5|8.1|http://www.dianping.com/shop/4523627|http://www.dianping.com/search/category/1/10/g34014
+下午茶|凡町个性化蛋糕&甜品桌定制|sml-str50|320|￥1368|上海影城/新华路|番禺路381号幸福里E座103室|9.1|9.1|9.1|http://www.dianping.com/shop/21293795|http://www.dianping.com/search/category/1/10/g34014
+下午茶|粤麓轩餐厅(中信泰富广场店)|sml-str45|743|￥165|南京西路|南京西路1168号中信泰富广场4层|8.9|9.1|9.0|http://www.dianping.com/shop/67661750|http://www.dianping.com/search/category/1/10/g34014
+下午茶|御花园(虹桥元一店)|sml-str45|1334|￥179|古北|红松东路1116号|8.8|8.9|8.2|http://www.dianping.com/shop/11559655|http://www.dianping.com/search/category/1/10/g34014
+下午茶|一米香潮汕砂锅粥(黄河路店)|sml-str45|226|￥101|人民广场|黄河路103号|9.0|8.3|8.6|http://www.dianping.com/shop/92354039|http://www.dianping.com/search/category/1/10/g34014
+下午茶|莫尔顿牛排坊(浦东ifc店)|sml-str45|6155|￥819|陆家嘴|世纪大道8号国金中心商场4层|8.4|9.0|8.5|http://www.dianping.com/shop/4088803|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Odelice!欧膳(永新坊店)|sml-str45|650|￥153|徐家汇|天钥桥路133号永新坊1层13-15号店|8.6|8.9|8.9|http://www.dianping.com/shop/67849927|http://www.dianping.com/search/category/1/10/g34014
+下午茶|RIVIERA SHANGHAI 意式和食|sml-str50|523|￥633|外滩|中山东二路505号RIVIERA松鹤楼1楼|8.7|9.1|8.7|http://www.dianping.com/shop/32713184|http://www.dianping.com/search/category/1/10/g34014
+下午茶|鹅庄(新天地店)|sml-str45|11298|￥56|新天地|太仓路70号|8.5|7.6|8.0|http://www.dianping.com/shop/17191341|http://www.dianping.com/search/category/1/10/g34014
+下午茶|白日梦奶茶|sml-str50|161|￥18|五角场/大学区|大学路299号302室|8.9|9.1|9.1|http://www.dianping.com/shop/91640794|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Taco Bell 塔可贝尔(陆家嘴店)|sml-str45|1113|￥45|陆家嘴|世纪大道55号东方浮庭1F-1室|8.8|8.9|8.9|http://www.dianping.com/shop/72466727|http://www.dianping.com/search/category/1/10/g34014
+下午茶|KIWIANA奇异安娜新西兰主题餐厅(虹口龙之梦购物中心店)|sml-str45|1846|￥189|虹口足球场|西江湾路388号龙之梦购物中心A座5层|8.6|9.0|8.9|http://www.dianping.com/shop/67500465|http://www.dianping.com/search/category/1/10/g34014
+下午茶|食索SALE&PEPE(800show)|sml-str45|2420|￥201|同乐坊|常德路800号A2-1F|8.6|9.1|9.1|http://www.dianping.com/shop/24972421|http://www.dianping.com/search/category/1/10/g34014
+下午茶|好山海鲜&烧烤自助餐|sml-str45|14527|￥227|五角场/大学区|黄兴路1800号东方蓝海国际广场3号楼B1层|8.3|9.1|8.8|http://www.dianping.com/shop/19670205|http://www.dianping.com/search/category/1/10/g34014
+下午茶|蔡嘉法式甜品(新天地旗舰店)|sml-str45|910|￥120|淮海路|黄陂南路380号新天地新里3楼301&306|8.6|8.7|8.5|http://www.dianping.com/shop/68230554|http://www.dianping.com/search/category/1/10/g34014
+下午茶|富临轩(梅龙镇广场店)|sml-str50|1451|￥211|南京西路|南京西路1038号梅龙镇广场4层|8.9|8.9|8.9|http://www.dianping.com/shop/24940942|http://www.dianping.com/search/category/1/10/g34014
+下午茶|esee LOUNGE & BAR|sml-str50|406|￥271|淮海路|淮海中路93-99号大上海时代广场3层|8.6|9.2|9.0|http://www.dianping.com/shop/73553342|http://www.dianping.com/search/category/1/10/g34014
+下午茶|燕桂堂(世博源店)|sml-str50|144|￥77|上南地区|上南路168号世博源3区G层10A号|9.1|9.1|9.1|http://www.dianping.com/shop/90436897|http://www.dianping.com/search/category/1/10/g34014
+下午茶|恰餐厅酒吧|sml-str45|1267|￥784|外滩|中山东二路585号外滩英迪格酒店顶层|8.3|9.2|8.4|http://www.dianping.com/shop/4736136|http://www.dianping.com/search/category/1/10/g34014
+下午茶|da Ivo 威尼斯魔镜 下午茶|sml-str45|2243|￥412|外滩|金陵东路1号23楼|8.1|9.0|8.9|http://www.dianping.com/shop/19575411|http://www.dianping.com/search/category/1/10/g34014
+下午茶|麒麟阁|sml-str50|177|￥200|张江|金科路东郊宾馆内|8.7|9.3|8.5|http://www.dianping.com/shop/76918587|http://www.dianping.com/search/category/1/10/g34014
+下午茶|BistroFresCo颖·简餐(沃弗1846店)|sml-str50|474|￥136|董家渡|外马路601号沃弗1846商业中心1层|9.1|8.4|9.1|http://www.dianping.com/shop/21596832|http://www.dianping.com/search/category/1/10/g34014
+下午茶|摩罗街(兴业太古汇店)|sml-str45|453|￥105|南京西路|南京西路789号兴业太古汇LG181|8.5|8.8|8.3|http://www.dianping.com/shop/90524003|http://www.dianping.com/search/category/1/10/g34014
+下午茶|义面屋(久金广场店)|sml-str50|2503|￥83|金桥|张杨路与中环路交口久金广场1层|8.9|9.1|9.1|http://www.dianping.com/shop/59400195|http://www.dianping.com/search/category/1/10/g34014
+下午茶|红花铁板烧|sml-str50|928|￥730|虹梅路|古羊路1129号名都城俱乐部后廊|9.3|9.1|9.4|http://www.dianping.com/shop/9033708|http://www.dianping.com/search/category/1/10/g34014
+下午茶|见个面·上海|sml-str50|206|￥56|虹梅路|华光路280号|9.1|9.0|9.3|http://www.dianping.com/shop/63236083|http://www.dianping.com/search/category/1/10/g34014
+下午茶|王品牛排(仙乐斯店)|sml-str50|5399|￥386|南京西路|南京西路388号仙乐斯广场3楼|8.7|9.1|9.1|http://www.dianping.com/shop/4228627|http://www.dianping.com/search/category/1/10/g34014
+下午茶|La Vendee|sml-str45|462|￥36|世纪公园|东绣路1154号|9.0|8.6|8.8|http://www.dianping.com/shop/24740224|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Chateau Dionne红酒西餐厅(建国西路店)|sml-str45|297|￥375|徐家汇|建国西路486弄建业里|8.5|9.1|9.1|http://www.dianping.com/shop/67976616|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Atto Primo|sml-str45|1013|￥394|外滩|外滩5号广东路20号2楼|8.4|9.1|8.7|http://www.dianping.com/shop/22679794|http://www.dianping.com/search/category/1/10/g34014
+下午茶|摩食 MO'S|sml-str50|683|￥257|衡山路|岳阳路1号戊|8.6|9.1|9.1|http://www.dianping.com/shop/65721417|http://www.dianping.com/search/category/1/10/g34014
+下午茶|王品牛排(上海松江店)|sml-str50|1424|￥385|嘉和广场|文诚路500弄1号阳光新生活广场一楼|9.1|9.3|9.2|http://www.dianping.com/shop/17228166|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Miss Mustache|sml-str45|816|￥162|南京西路|茂名北路223号|8.5|8.6|8.5|http://www.dianping.com/shop/90025940|http://www.dianping.com/search/category/1/10/g34014
+下午茶|摩罗街(新天地店)|sml-str45|4561|￥115|新天地|兴业路123弄新天地南里商场3楼|8.5|8.7|8.3|http://www.dianping.com/shop/6829275|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Shake|sml-str45|309|￥292|淮海路|茂名南路46号3楼|8.6|9.0|8.8|http://www.dianping.com/shop/67681229|http://www.dianping.com/search/category/1/10/g34014
+下午茶|粤来记(打浦路店)|sml-str45|7905|￥95|打浦桥|打浦路399号|8.5|7.9|8.1|http://www.dianping.com/shop/6378140|http://www.dianping.com/search/category/1/10/g34014
+下午茶|AnnemoRRow  安陌咖品|sml-str50|63|￥84|淮海路|长乐路462号集社园区w203|9.1|9.1|9.1|http://www.dianping.com/shop/90549949|http://www.dianping.com/search/category/1/10/g34014
+下午茶|fat cow|sml-str45|1078|￥134|静安寺|延平路135号1F103室|8.7|8.8|8.2|http://www.dianping.com/shop/65801209|http://www.dianping.com/search/category/1/10/g34014
+下午茶|WIN HOUSE(静安店)|sml-str45|10317|￥133|静安寺|愚园路68号晶品中心6楼6-12m|8.4|8.8|8.6|http://www.dianping.com/shop/19291525|http://www.dianping.com/search/category/1/10/g34014
+下午茶|星期末末牛排西餐厅|sml-str45|563|￥99|康桥/周浦|周浦万达美食街18号|8.6|8.9|9.0|http://www.dianping.com/shop/68075166|http://www.dianping.com/search/category/1/10/g34014
+下午茶|The Caxton|sml-str50|117|￥115|南京西路|大沽路374号|8.8|9.1|9.1|http://www.dianping.com/shop/76676515|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Las Tapas(思南公馆店)|sml-str45|5342|￥233|淮海路|思南路45号32幢1-2楼|8.6|9.0|8.4|http://www.dianping.com/shop/8866928|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Azul Tapas & Lounge(武康路店)|sml-str45|457|￥223|复兴西路/丁香花园|武康路378号8楼|8.5|9.1|8.6|http://www.dianping.com/shop/5995444|http://www.dianping.com/search/category/1/10/g34014
+下午茶|JR Recipe 共禾食谱(丁香店)|sml-str45|155|￥118|浦东新区|丁香路880弄丁香国际商业广场LG101-2号|8.5|9.1|8.6|http://www.dianping.com/shop/92090049|http://www.dianping.com/search/category/1/10/g34014
+下午茶|HOODOGCAFE宠物咖啡(狗狗咖啡馆)|sml-str45|616|￥81|金桥|碧云路108号|8.3|8.9|8.9|http://www.dianping.com/shop/66832113|http://www.dianping.com/search/category/1/10/g34014
+下午茶|潮堂(来福士广场店)|sml-str45|482|￥142|中山公园|长宁路与凯旋路交叉口|8.4|8.6|9.0|http://www.dianping.com/shop/77272827|http://www.dianping.com/search/category/1/10/g34014
+下午茶|潮堂(久光百货店)|sml-str45|5562|￥154|静安寺|南京西路1618号（近静安寺）久光百货8楼|8.6|8.5|8.7|http://www.dianping.com/shop/23336336|http://www.dianping.com/search/category/1/10/g34014
+下午茶|VANILLA(仲盛世界商城店)|sml-str45|1132|￥141|莘庄|莘庄都市路5001号仲盛世界商城4层|8.6|9.1|8.7|http://www.dianping.com/shop/66890179|http://www.dianping.com/search/category/1/10/g34014
+下午茶|雞棧(玫瑰坊店)|sml-str45|527|￥90|中山公园|长宁路890号玫瑰坊2楼F73|8.8|8.6|9.1|http://www.dianping.com/shop/74560162|http://www.dianping.com/search/category/1/10/g34014
+下午茶|SU. Colours Coffee Roaster|sml-str50|86|￥26|五角场/大学区|政德东路53号Z18生活商场308室|9.1|9.1|9.0|http://www.dianping.com/shop/79670268|http://www.dianping.com/search/category/1/10/g34014
+下午茶|恬café|sml-str50|220|￥47|肇嘉浜路沿线|乌鲁木齐南路205-1号|8.9|9.1|9.1|http://www.dianping.com/shop/76733837|http://www.dianping.com/search/category/1/10/g34014
+下午茶|名城煲王 · 明星粤菜馆|sml-str45|3409|￥207|南京西路|延安中路802号|8.7|7.8|8.0|http://www.dianping.com/shop/17179979|http://www.dianping.com/search/category/1/10/g34014
+下午茶|JR Recipe 共禾食谱(南京西路店)|sml-str45|2395|￥136|南京西路|泰兴路84弄1号1楼b单元|8.4|8.7|8.7|http://www.dianping.com/shop/67369061|http://www.dianping.com/search/category/1/10/g34014
+下午茶|悦·中餐厅|sml-str50|306|￥301|漕河泾/田林|浦北路1号上海中星铂尔曼大酒店2楼|9.1|9.2|9.0|http://www.dianping.com/shop/14191970|http://www.dianping.com/search/category/1/10/g34014
+下午茶|王品牛排(上海仙霞店)|sml-str45|5882|￥364|虹桥|仙霞路80号|8.0|8.4|8.7|http://www.dianping.com/shop/501895|http://www.dianping.com/search/category/1/10/g34014
+下午茶|猫公主的喵星猫咪咖啡馆|sml-str50|812|￥62|四川北路|溧阳路1088号龙邸大厦506室|9.0|8.7|9.0|http://www.dianping.com/shop/23078486|http://www.dianping.com/search/category/1/10/g34014
+下午茶|食荳集市CHO-COLLECTOR(合生汇店)|sml-str45|365|￥56|五角场/大学区|黄兴路2228号合生汇1楼33号铺|8.4|8.8|8.9|http://www.dianping.com/shop/92058409|http://www.dianping.com/search/category/1/10/g34014
+下午茶|卯时法式甜品Cinq Heure Du Matin|sml-str45|338|￥76|淮海路|茂名南路114号|8.7|8.6|8.6|http://www.dianping.com/shop/90404000|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Charlie's Burger(静安嘉里中心店)|sml-str45|787|￥86|南京西路|南京西路1515号静安嘉里中心南区B1层|8.7|8.2|8.2|http://www.dianping.com/shop/68201768|http://www.dianping.com/search/category/1/10/g34014
+下午茶|蘇小粤|sml-str45|91|￥53|浦东新区|崂山路684号|8.8|9.1|9.1|http://www.dianping.com/shop/91583949|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Phénix eatery & bar|sml-str45|363|￥587|静安寺|常德路1号璞丽酒店2楼|8.6|9.2|9.1|http://www.dianping.com/shop/58746038|http://www.dianping.com/search/category/1/10/g34014
+下午茶|王品牛排(正大广场店)|sml-str45|4354|￥398|陆家嘴|陆家嘴西路168号正大广场8层|8.4|9.1|9.0|http://www.dianping.com/shop/5735627|http://www.dianping.com/search/category/1/10/g34014
+下午茶|美誉餐室|sml-str45|1686|￥77|虹桥|娄山关路122号|8.6|8.2|7.8|http://www.dianping.com/shop/19362263|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Captain Oyster Bar 船长蚝吧西餐厅|sml-str45|1137|￥447|淮海路|茂名南路56号|8.8|8.6|8.9|http://www.dianping.com/shop/18418588|http://www.dianping.com/search/category/1/10/g34014
+下午茶|喜茶(日月光店)|sml-str40|4613|￥28|打浦桥|徐家汇路618号日月光中心广场泰康区1层|8.4|7.9|8.0|http://www.dianping.com/shop/79715043|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Ladies洛媛燕窝下午茶(月亮湾概念店)|sml-str50|196|￥143|临平路/和平公园|瑞虹天地月亮湾L3-11|9.0|9.1|9.1|http://www.dianping.com/shop/80538352|http://www.dianping.com/search/category/1/10/g34014
+下午茶|THE CUT Steak&Fries(环贸iapm商场店)|sml-str45|3616|￥274|音乐学院|淮海中路999号环贸iapm商场6层|8.3|9.0|9.0|http://www.dianping.com/shop/13785587|http://www.dianping.com/search/category/1/10/g34014
+下午茶|蔚景阁(外滩华尔道夫酒店)|sml-str45|708|￥440|外滩|中山东一路2号华尔道夫酒店5楼|8.2|9.2|8.8|http://www.dianping.com/shop/5198343|http://www.dianping.com/search/category/1/10/g34014
+下午茶|小方块sweetbox|sml-str45|1806|￥29|静安寺|新闸路1933号|8.8|7.9|8.6|http://www.dianping.com/shop/22912565|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Paris Rouge Restaurant Traditionnel巴黎红|sml-str45|2395|￥595|外滩|圆明园路133号洛克·外滩源女青年会大楼1楼102铺|8.2|9.0|9.0|http://www.dianping.com/shop/15875621|http://www.dianping.com/search/category/1/10/g34014
+下午茶|晶浦会(上海中心大厦店)|sml-str45|140|￥262|陆家嘴|陆家嘴环路479号上海中心大厦4层|8.9|9.1|8.0|http://www.dianping.com/shop/79050372|http://www.dianping.com/search/category/1/10/g34014
+下午茶|CHEF PAPA(万科海上传奇店)|sml-str50|1012|￥153|北蔡|御桥路1949号万科2049海上传奇L402室|9.0|9.1|9.0|http://www.dianping.com/shop/23967372|http://www.dianping.com/search/category/1/10/g34014
+下午茶|T-Plus Restaurant&bar|sml-str45|647|￥218|南京西路|威海路425号1层|8.7|8.3|8.7|http://www.dianping.com/shop/32513687|http://www.dianping.com/search/category/1/10/g34014
+下午茶|taco(聚丰园店)|sml-str50|515|￥45|上海大学|聚丰园路上坤城市广场|9.1|8.7|9.0|http://www.dianping.com/shop/15871581|http://www.dianping.com/search/category/1/10/g34014
+下午茶|食索SALE&PEPE(金虹桥国际中心店)|sml-str45|4351|￥187|天山|茅台路179号金虹桥国际中心4层|8.6|9.0|8.9|http://www.dianping.com/shop/19477701|http://www.dianping.com/search/category/1/10/g34014
+下午茶|博多新记(复兴店)|sml-str45|11498|￥126|音乐学院|复兴中路1252弄15号|8.4|7.5|7.6|http://www.dianping.com/shop/501065|http://www.dianping.com/search/category/1/10/g34014
+下午茶|holyhigh轻食(人民广场店)|sml-str45|223|￥52|人民广场|北京西路61号甲|8.8|8.8|8.9|http://www.dianping.com/shop/77348511|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Johnny Moo(晶品店)|sml-str45|2442|￥112|静安寺|愚园路68号晶品4层|8.6|9.0|9.0|http://www.dianping.com/shop/23218537|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Oyster EXPO江月蚝庭西餐生蚝吧(世博店)|sml-str45|945|￥476|世博源|上南路168号世博源1区LM层01号|9.0|9.1|9.1|http://www.dianping.com/shop/57698657|http://www.dianping.com/search/category/1/10/g34014
+下午茶|宴公馆|sml-str45|1236|￥294|静安寺|巨鹿路889号16号楼|8.8|9.1|8.8|http://www.dianping.com/shop/5579924|http://www.dianping.com/search/category/1/10/g34014
+下午茶|小红楼La Villa Rouge|sml-str45|221|￥250|徐家汇|衡山路811号|7.8|9.1|8.8|http://www.dianping.com/shop/90509345|http://www.dianping.com/search/category/1/10/g34014
+下午茶|The Commune Social|sml-str45|1463|￥278|南京西路|江宁路511号|8.6|8.9|8.1|http://www.dianping.com/shop/9025811|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Salon de Thé de Joël Robuchon(外滩18号店)|sml-str45|1343|￥158|外滩|中山东一路18号外滩18号1层|8.4|8.6|8.2|http://www.dianping.com/shop/22447552|http://www.dianping.com/search/category/1/10/g34014
+下午茶|减餐不简单(东方店)|sml-str50|134|￥41|塘桥|东方路985号1楼25铺|8.9|8.8|9.0|http://www.dianping.com/shop/79215975|http://www.dianping.com/search/category/1/10/g34014
+下午茶|食索SALE&PEPE(日月光)|sml-str45|5369|￥180|打浦桥|徐家汇路618号日月光中心广场徐家汇区2层05号|8.3|8.8|8.8|http://www.dianping.com/shop/23874511|http://www.dianping.com/search/category/1/10/g34014
+下午茶|THE ISLES 小岛鱼薯 FISH & CHIPS(淮海中路店)|sml-str45|962|￥118|人民广场|淮海中路1号H1美食不夜城底商|8.8|9.1|9.1|http://www.dianping.com/shop/67658739|http://www.dianping.com/search/category/1/10/g34014
+下午茶|OUTBACK 澳拜客(soho复兴广场店)|sml-str45|3882|￥198|新天地|复兴中路soho复兴广场1层|8.5|9.0|8.9|http://www.dianping.com/shop/22730400|http://www.dianping.com/search/category/1/10/g34014
+下午茶|La casetta意式私家厨房(南京西路店)|sml-str50|840|￥409|南京西路|泰兴路89号张园99东区2楼|9.0|9.1|8.9|http://www.dianping.com/shop/21341829|http://www.dianping.com/search/category/1/10/g34014
+下午茶|爵士码头异国餐厅|sml-str50|915|￥118|安亭|安亭博园路7001号汽车公园东大门|8.9|9.1|9.1|http://www.dianping.com/shop/23722274|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Chez Maurice|sml-str45|415|￥416|上海影城/新华路|泰安路50号2、3、4层|8.9|8.9|9.0|http://www.dianping.com/shop/52348739|http://www.dianping.com/search/category/1/10/g34014
+下午茶|BIANCHI白昂其(浦东嘉里城店)|sml-str45|558|￥270|世纪公园|花木路1378号浦东嘉里城1层L122|8.7|8.9|8.7|http://www.dianping.com/shop/68191998|http://www.dianping.com/search/category/1/10/g34014
+下午茶|CASANOVA意大利餐厅(外滩店)|sml-str40|3343|￥331|外滩|中山东一路6号4楼|7.8|9.0|8.4|http://www.dianping.com/shop/11559364|http://www.dianping.com/search/category/1/10/g34014
+下午茶|小南国花园酒店 MI·HOUSE|sml-str50|236|￥301|黄兴公园|佳木斯路777号小南国花园酒店26楼|8.6|9.3|9.0|http://www.dianping.com/shop/58260952|http://www.dianping.com/search/category/1/10/g34014
+下午茶|TABLE12 Specialty Coffee|sml-str50|97|￥27|塘桥|东方路1367号富都广场5层|9.0|8.7|9.1|http://www.dianping.com/shop/79211553|http://www.dianping.com/search/category/1/10/g34014
+下午茶|粤来记(凯旋路店)|sml-str45|3856|￥80|上海影城/新华路|凯旋路1392号|8.4|8.4|8.6|http://www.dianping.com/shop/3496627|http://www.dianping.com/search/category/1/10/g34014
+下午茶|gemma|sml-str45|258|￥181|音乐学院|东湖路20号|8.7|9.0|8.9|http://www.dianping.com/shop/79450382|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Magnet磁石(大悦城店)|sml-str45|2672|￥162|大悦城|西藏北路198号大悦城北楼901|8.3|8.9|8.8|http://www.dianping.com/shop/37801742|http://www.dianping.com/search/category/1/10/g34014
+下午茶|SIMPLY BETTER(新闸路店)|sml-str45|354|￥42|南京西路|新闸路1321号|8.3|8.4|8.9|http://www.dianping.com/shop/90441539|http://www.dianping.com/search/category/1/10/g34014
+下午茶|wode沃德面包(陆家嘴览海国际广场店)|sml-str50|217|￥41|陆家嘴|世纪大道160号览海国际一楼|9.0|9.0|9.0|http://www.dianping.com/shop/69197173|http://www.dianping.com/search/category/1/10/g34014
+下午茶|JR Recipe 共禾食谱(淮海店)|sml-str45|3816|￥144|音乐学院|汾阳路3号2号楼一楼|8.3|9.0|8.4|http://www.dianping.com/shop/23099769|http://www.dianping.com/search/category/1/10/g34014
+下午茶|PizzaD|sml-str50|285|￥58|陆家嘴|东昌路508号|9.2|8.2|9.3|http://www.dianping.com/shop/33575469|http://www.dianping.com/search/category/1/10/g34014
+下午茶|PRIMO1(无限极荟购物广场店)|sml-str45|255|￥525|新天地|湖滨路168号无限极荟购物广场3层|8.6|9.1|9.0|http://www.dianping.com/shop/82878164|http://www.dianping.com/search/category/1/10/g34014
+下午茶|BOOM BOOM BAGELS|sml-str45|1242|￥77|复兴西路/丁香花园|安福路39号|8.8|8.3|8.2|http://www.dianping.com/shop/22701693|http://www.dianping.com/search/category/1/10/g34014
+下午茶|翠园(港汇恒隆广场店)|sml-str45|6663|￥267|徐家汇|虹桥路1号港汇恒隆广场6楼|8.5|8.7|8.3|http://www.dianping.com/shop/17873296|http://www.dianping.com/search/category/1/10/g34014
+下午茶|王品牛排(上海五角场店)|sml-str45|3089|￥387|五角场/大学区|淞沪路8号百联又一城7F|8.5|9.1|9.0|http://www.dianping.com/shop/10343688|http://www.dianping.com/search/category/1/10/g34014
+下午茶|惟亚VIA Bar & Restaurant|sml-str45|1406|￥191|新天地|马当路388号SOHO复兴广场B座1层102|8.4|9.0|8.8|http://www.dianping.com/shop/21270700|http://www.dianping.com/search/category/1/10/g34014
+下午茶|SNAPPY GREENS|sml-str50|70|￥54|静安区|成都北路131号|9.1|9.1|8.9|http://www.dianping.com/shop/92095132|http://www.dianping.com/search/category/1/10/g34014
+下午茶|PizzaExpress 马上诺(IFC 国金中心店)|sml-str45|2405|￥131|陆家嘴|世纪大道8号陆家嘴国金中心A座B1楼LG1-40室|8.8|9.0|8.5|http://www.dianping.com/shop/21109684|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Mr & Mrs Bund|sml-str45|2109|￥908|外滩|中山东一路18号外滩18号6层|8.2|8.9|8.5|http://www.dianping.com/shop/3100177|http://www.dianping.com/search/category/1/10/g34014
+下午茶|宝莱纳餐厅(陆家嘴店)|sml-str40|6710|￥220|陆家嘴|浦东滨江大道滨江风光亭|7.8|8.4|7.5|http://www.dianping.com/shop/501556|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Wine Harbor Restaurant & Bar|sml-str50|423|￥208|五角场/大学区|星汇广场国安路758弄51号|8.7|9.1|9.1|http://www.dianping.com/shop/32308884|http://www.dianping.com/search/category/1/10/g34014
+下午茶|行运港式烧腊|sml-str50|67|￥28|徐家汇|天钥桥路68号四楼汇吃汇喝广场|9.1|8.5|9.0|http://www.dianping.com/shop/92961652|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Green&Safe(东平路店)|sml-str45|4515|￥131|衡山路|东平路6号|8.3|8.6|7.8|http://www.dianping.com/shop/6182504|http://www.dianping.com/search/category/1/10/g34014
+下午茶|邻家市集|sml-str50|113|￥108|世纪公园|锦延路329号地下一层|9.0|8.9|8.9|http://www.dianping.com/shop/77451677|http://www.dianping.com/search/category/1/10/g34014
+下午茶|TAMATI(虹泉路店)|sml-str50|691|￥91|虹桥镇|虹泉路1078号井亭天地生活广场西区1层|9.1|9.1|9.1|http://www.dianping.com/shop/5165502|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Ole kitchen|sml-str45|700|￥67|南京西路|吴江路178号2楼|8.8|8.5|9.0|http://www.dianping.com/shop/67639566|http://www.dianping.com/search/category/1/10/g34014
+下午茶|花花姐姐亲子餐厅(七宝店)|sml-str50|1320|￥116|七宝|七宝镇七莘路3573-2号|8.6|9.1|9.2|http://www.dianping.com/shop/19280305|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Salad Formula 沙拉方程式(大学路店)|sml-str50|942|￥49|五角场/大学区|大学路272号302室|9.0|9.1|9.0|http://www.dianping.com/shop/59116703|http://www.dianping.com/search/category/1/10/g34014
+下午茶|靓港點(日月光店)|sml-str45|451|￥87|打浦桥|徐家汇路618号日月光中心广场瑞金区3层5号|8.5|8.6|8.6|http://www.dianping.com/shop/90924627|http://www.dianping.com/search/category/1/10/g34014
+下午茶|必胜客(松江新理想店)|sml-str50|502|￥83|新理想广场|松江区荣乐西路860号新理想广场1号门|9.4|9.4|9.4|http://www.dianping.com/shop/67630135|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Awfully Chocolate(国金中心商场店)|sml-str45|1658|￥52|陆家嘴|世纪大道8号国金中心商场LG-B-1室|8.7|8.5|8.6|http://www.dianping.com/shop/27268384|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Anteroom|sml-str50|90|￥167|静安寺|长乐路1222号104|8.9|9.0|8.9|http://www.dianping.com/shop/21553425|http://www.dianping.com/search/category/1/10/g34014
+下午茶|手作功夫茶(百脑汇店)|sml-str50|539|￥15|徐家汇|漕溪北路339号百脑汇2期B1层0Y13|9.0|9.1|9.2|http://www.dianping.com/shop/90411302|http://www.dianping.com/search/category/1/10/g34014
+下午茶|宴庭中餐厅|sml-str50|75|￥458|南京西路|北京西路1008号瑞吉酒店二层|9.1|9.4|9.3|http://www.dianping.com/shop/91045823|http://www.dianping.com/search/category/1/10/g34014
+下午茶|TC(新天地店)|sml-str45|1136|￥63|新天地|湖滨路168号无限极荟购物广场2层|8.5|8.7|8.6|http://www.dianping.com/shop/69917736|http://www.dianping.com/search/category/1/10/g34014
+下午茶|罗斯福酒窖餐厅|sml-str45|797|￥630|外滩|中山东一路27号罗斯福公馆2楼|8.2|9.2|8.8|http://www.dianping.com/shop/4217941|http://www.dianping.com/search/category/1/10/g34014
+下午茶|泰安门 Taian Table|sml-str45|133|￥1628|静安寺|镇宁路465弄161号1号楼101室|8.7|9.1|8.8|http://www.dianping.com/shop/66026559|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Hungry Lung'sKitchen饿龙(晶品店)|sml-str45|2482|￥133|静安寺|愚园路68号晶品5层|8.3|8.9|8.6|http://www.dianping.com/shop/66079795|http://www.dianping.com/search/category/1/10/g34014
+下午茶|AM Aquarium|sml-str45|152|￥216|淮海路|巨鹿路158号下沉式广场5182-5184号|8.9|9.0|8.8|http://www.dianping.com/shop/92074989|http://www.dianping.com/search/category/1/10/g34014
+下午茶|彼得家厨房(美罗城店)|sml-str45|2293|￥90|徐家汇|肇嘉浜路1111号美罗城B区2层2-5|8.7|7.8|8.5|http://www.dianping.com/shop/66647473|http://www.dianping.com/search/category/1/10/g34014
+下午茶|fuego费戈|sml-str45|145|￥160|临平路/和平公园|瑞虹路188号瑞虹天地月亮湾L1-117A|8.5|9.1|9.0|http://www.dianping.com/shop/91896951|http://www.dianping.com/search/category/1/10/g34014
+下午茶|外滩茂悦大酒店 ·悦府|sml-str45|447|￥242|外滩|黄浦路199号外滩茂悦大酒店西楼31楼|8.2|9.2|8.7|http://www.dianping.com/shop/24335060|http://www.dianping.com/search/category/1/10/g34014
+下午茶|香草山西餐厅(徐汇汇金店)|sml-str45|7304|￥174|徐家汇|肇嘉浜路1000号汇金百货5楼|8.5|9.1|9.0|http://www.dianping.com/shop/19791288|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Joy's Wish蛋糕定制(乐虹坊精致生活广场店)|sml-str50|124|￥258|虹桥镇|虹桥镇虹井路288号燎申国际商业广场205-206号乐虹坊精致生活广场A座2层|9.0|8.9|9.0|http://www.dianping.com/shop/69209189|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Le Rivage|sml-str50|213|￥1450|外滩|中山东一路425-429号|9.1|9.1|9.3|http://www.dianping.com/shop/66617137|http://www.dianping.com/search/category/1/10/g34014
+下午茶|肥仔文澳门猪骨煲(人民广场店)|sml-str40|6333|￥113|人民广场|福州路666号华鑫海欣大厦1楼|8.4|7.8|8.0|http://www.dianping.com/shop/18172441|http://www.dianping.com/search/category/1/10/g34014
+下午茶|衡山99 Francis|sml-str45|281|￥283|衡山路|衡山路99号|8.5|9.1|9.1|http://www.dianping.com/shop/72556891|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Beautiful Concept|sml-str50|440|￥33|音乐学院|永康路25号|9.0|8.7|9.0|http://www.dianping.com/shop/43549632|http://www.dianping.com/search/category/1/10/g34014
+下午茶|La Moda Lounge|sml-str45|717|￥130|静安寺|巨鹿路895号|8.1|9.0|8.8|http://www.dianping.com/shop/24096328|http://www.dianping.com/search/category/1/10/g34014
+下午茶|这里|sml-str45|371|￥23|虹口足球场|3号线虹口足球场站3号口小时代美食城|8.5|8.5|9.0|http://www.dianping.com/shop/75196150|http://www.dianping.com/search/category/1/10/g34014
+下午茶|食荳集市CHO-COLLECTOR(新天地店)|sml-str45|1443|￥73|新天地|马当路119号103单元新天地北里|8.3|8.8|8.8|http://www.dianping.com/shop/75107553|http://www.dianping.com/search/category/1/10/g34014
+下午茶|浦东嘉里大酒店The COOK∙厨餐厅|sml-str45|1901|￥289|世纪公园|花木路1388号浦东嘉里大酒店1楼|8.4|9.0|8.4|http://www.dianping.com/shop/4684764|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Wonderland|sml-str50|70|￥109|南京西路|新闸路1311号|8.7|9.1|9.2|http://www.dianping.com/shop/73609085|http://www.dianping.com/search/category/1/10/g34014
+下午茶|晶浦会(虹桥路店)|sml-str50|275|￥862|虹梅路|虹桥路1970号|9.0|9.1|8.5|http://www.dianping.com/shop/4296516|http://www.dianping.com/search/category/1/10/g34014
+下午茶|OSTRA贝龙湾|sml-str50|363|￥665|静安寺|铜仁路68号|8.9|9.1|9.0|http://www.dianping.com/shop/74620823|http://www.dianping.com/search/category/1/10/g34014
+下午茶|巢·hallelujah生活社|sml-str50|120|￥77|音乐学院|岳阳路79弄25号后院|9.0|9.1|9.1|http://www.dianping.com/shop/91686100|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Alma餐厅|sml-str45|1979|￥198|大悦城|西藏北路198号大悦城北座9楼910店铺|8.2|9.0|8.9|http://www.dianping.com/shop/58725800|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Homeless音乐餐厅酒吧(瑞虹店)|sml-str50|126|￥120|临平路/和平公园|天宝路280弄27号瑞虹新天地星星堂1层|9.0|9.1|8.9|http://www.dianping.com/shop/91884643|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Las Tapas(金桥店)|sml-str45|5039|￥192|金桥|金桥红枫路259号|8.7|9.0|8.4|http://www.dianping.com/shop/2297992|http://www.dianping.com/search/category/1/10/g34014
+下午茶|grinder（绞肉机）burger|sml-str45|1678|￥85|静安寺|武定路1097号|8.6|7.9|8.3|http://www.dianping.com/shop/58203180|http://www.dianping.com/search/category/1/10/g34014
+下午茶|W+S CAFE by NAPOLEON|sml-str45|2715|￥158|音乐学院|淮海中路1298号1楼|8.0|9.0|8.5|http://www.dianping.com/shop/18487457|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Ribone steak house弗兰克牛排馆(外滩店)|sml-str45|967|￥276|外滩|南京东路98号锦江都城酒店二楼|8.7|9.1|8.5|http://www.dianping.com/shop/69482454|http://www.dianping.com/search/category/1/10/g34014
+下午茶|WHITE 白餐厅(创智天地大学路店)|sml-str45|887|￥146|五角场/大学区|智星路93-95-97号|8.4|9.1|8.6|http://www.dianping.com/shop/38070900|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Ribone steak house弗兰克牛排馆(愚园路店)|sml-str45|3654|￥281|中山公园|愚园路1107号|8.5|9.0|8.4|http://www.dianping.com/shop/26208889|http://www.dianping.com/search/category/1/10/g34014
+下午茶|DIONNE红酒西餐厅(天钥桥路店)|sml-str50|710|￥276|徐家汇|天钥桥路133-12号永新坊一层|8.9|8.9|9.1|http://www.dianping.com/shop/21343952|http://www.dianping.com/search/category/1/10/g34014
+下午茶|喜粤8号|sml-str40|2507|￥177|打浦桥|汝南街63号|8.3|8.1|7.9|http://www.dianping.com/shop/58213493|http://www.dianping.com/search/category/1/10/g34014
+下午茶|晶采轩(虹桥路店)|sml-str50|672|￥783|动物园/虹桥机场|虹桥路1937号|9.0|9.1|8.9|http://www.dianping.com/shop/506665|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Babbo|sml-str50|1165|￥217|曹家渡|康定路1023号|9.0|8.9|9.1|http://www.dianping.com/shop/9071330|http://www.dianping.com/search/category/1/10/g34014
+下午茶|ALAMI(富荟广场店)|sml-str45|630|￥90|世纪公园|樱花路80弄富荟广场B区L1层8号|8.8|8.9|8.8|http://www.dianping.com/shop/67251491|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Pelham's法餐厅(外滩华尔道夫酒店)|sml-str45|902|￥776|外滩|中山东一路2号华尔道夫会所一层|8.2|9.1|9.1|http://www.dianping.com/shop/4511837|http://www.dianping.com/search/category/1/10/g34014
+下午茶|HunterGatherer悦衡食集(兴业太古汇店)|sml-str45|268|￥82|南京西路|南京西路789号兴业太古汇LG161|8.4|9.0|8.9|http://www.dianping.com/shop/91627994|http://www.dianping.com/search/category/1/10/g34014
+下午茶|飞行比萨Pizza Alvolo(远景路店)|sml-str50|107|￥77|中山北路/甘泉地区|远景路616号A栋104号商铺|9.3|9.2|9.2|http://www.dianping.com/shop/90501384|http://www.dianping.com/search/category/1/10/g34014
+下午茶|le Comptoir de Pierre Gagnaire(建业里嘉佩乐酒店)|sml-str45|130|￥775|肇嘉浜路沿线|建国西路480号|8.4|9.0|8.5|http://www.dianping.com/shop/77268529|http://www.dianping.com/search/category/1/10/g34014
+下午茶|维记港式餐厅|sml-str45|2183|￥117|虹桥|虹桥路1665号星空广场4楼B404-405|8.6|8.5|8.3|http://www.dianping.com/shop/21805121|http://www.dianping.com/search/category/1/10/g34014
+下午茶|唐宋小馆|sml-str50|38|￥546|武宁地区|莫干山路50号M50创意园8号楼|8.9|8.8|8.9|http://www.dianping.com/shop/90970881|http://www.dianping.com/search/category/1/10/g34014
+下午茶|香港龙凤楼(蒙自路店)|sml-str45|5726|￥153|打浦桥|蒙自东路75号|8.4|8.4|8.2|http://www.dianping.com/shop/8910932|http://www.dianping.com/search/category/1/10/g34014
+下午茶|鹅岛精酿啤酒餐厅GOOSE ISLAND BREWHOUSE|sml-str45|954|￥206|南京西路|茂名北路209号|8.2|9.0|8.4|http://www.dianping.com/shop/76998781|http://www.dianping.com/search/category/1/10/g34014
+下午茶|百特喜鹅肝比萨意大利餐厅(日月光中心广场店)|sml-str45|1743|￥88|打浦桥|徐家汇路618号日月光中心广场徐家汇区2层|8.7|9.1|9.1|http://www.dianping.com/shop/23086186|http://www.dianping.com/search/category/1/10/g34014
+下午茶|PiuPiu(静安店)|sml-str50|427|￥15|静安寺|巨鹿路735弄1号甲|9.0|8.7|9.1|http://www.dianping.com/shop/24757056|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Something Sweet|sml-str45|671|￥75|复兴西路/丁香花园|长乐路1238号|8.2|8.5|8.9|http://www.dianping.com/shop/76892168|http://www.dianping.com/search/category/1/10/g34014
+下午茶|See Food(原眩隐酒吧店)|sml-str45|42|￥202|新天地|马当路245号新天地时尚1层L110|8.8|8.9|9.0|http://www.dianping.com/shop/93406259|http://www.dianping.com/search/category/1/10/g34014
+下午茶|必胜客(中冶祥腾城市广场店)|sml-str50|1526|￥74|南翔|真南路4500号中冶祥腾城市广场1层|9.2|9.2|9.1|http://www.dianping.com/shop/8868389|http://www.dianping.com/search/category/1/10/g34014
+下午茶|OZ MADE澳思牛排(瑞虹天地月亮湾店)|sml-str50|95|￥127|临平路/和平公园|瑞虹路188号瑞虹天地月亮湾B1-35-F-5|9.0|8.1|8.8|http://www.dianping.com/shop/77259872|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Raw Plus源+轻食|sml-str45|2090|￥104|淮海路|陕西南路35号-2|8.5|8.7|8.6|http://www.dianping.com/shop/23429998|http://www.dianping.com/search/category/1/10/g34014
+下午茶|惠食佳(美丽园分店)|sml-str45|2097|￥170|静安寺|延安西路396号美丽园大酒店3楼|8.5|8.8|7.7|http://www.dianping.com/shop/17185827|http://www.dianping.com/search/category/1/10/g34014
+下午茶|酒池星座 Bar Constellation(兴业太古汇店)|sml-str45|237|￥159|南京西路|石门一路288号兴业太古汇香港兴业中心1座1层L161|8.6|9.0|8.6|http://www.dianping.com/shop/91002765|http://www.dianping.com/search/category/1/10/g34014
+下午茶|叁和院台湾风格饮食|sml-str40|1792|￥139|淮海路|淮海中路1号1-2楼|8.0|8.6|9.0|http://www.dianping.com/shop/66556105|http://www.dianping.com/search/category/1/10/g34014
+下午茶|holyhigh轻食(静安寺店)|sml-str50|233|￥50|静安寺|武定西路1180号|9.0|8.9|8.8|http://www.dianping.com/shop/65812944|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Pret A Manger(上海国金中心店)|sml-str45|305|￥52|陆家嘴|世纪大道8号上海国金中心LG1－37|8.6|9.0|9.0|http://www.dianping.com/shop/71413162|http://www.dianping.com/search/category/1/10/g34014
+下午茶|禅一·静观堂|sml-str50|416|￥654|长寿路|长寿路97号世纪商务大厦B1层|8.6|9.2|9.0|http://www.dianping.com/shop/8691320|http://www.dianping.com/search/category/1/10/g34014
+下午茶|看得到风景的天台|sml-str40|1479|￥77|静安寺|华山路2号高和大厦7楼初创空间|7.7|8.8|7.9|http://www.dianping.com/shop/56574034|http://www.dianping.com/search/category/1/10/g34014
+下午茶|望秦精酿啤酒餐厅 WITCHCRAFT|sml-str50|177|￥95|北蔡|五星路406号A03|9.1|9.2|9.2|http://www.dianping.com/shop/90101493|http://www.dianping.com/search/category/1/10/g34014
+下午茶|補時 Cafe & Lounge|sml-str45|970|￥97|同乐坊|常德路888号地下室|8.3|8.8|8.5|http://www.dianping.com/shop/68207266|http://www.dianping.com/search/category/1/10/g34014
+下午茶|h2|sml-str45|3135|￥50|衡山路|永嘉路595号|8.8|7.6|7.6|http://www.dianping.com/shop/4703887|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Royal Banquet Hall 皇家宴会厅|sml-str45|676|￥460|迪士尼|上海迪士尼乐园-奇幻童话城堡|7.8|9.2|9.1|http://www.dianping.com/shop/66570716|http://www.dianping.com/search/category/1/10/g34014
+下午茶|拉亚汉堡经典餐厅(商城路店)|sml-str45|17802|￥102|八佰伴|浦东商城路889号B3栋|8.6|8.8|8.3|http://www.dianping.com/shop/5205627|http://www.dianping.com/search/category/1/10/g34014
+下午茶|OPPOSITE by Jenson&Hu|sml-str45|328|￥477|徐家汇|建国西路222号|8.8|9.0|9.1|http://www.dianping.com/shop/67398601|http://www.dianping.com/search/category/1/10/g34014
+下午茶|喜茶(正大广场店)|sml-str40|1950|￥27|陆家嘴|陆家嘴西路168号正大广场5F|8.2|7.9|7.8|http://www.dianping.com/shop/92092721|http://www.dianping.com/search/category/1/10/g34014
+下午茶|唐宫海鲜舫(悦达889广场店)|sml-str45|7605|￥141|曹家渡|万航渡路889号悦达889广场4-5层|8.7|8.6|8.0|http://www.dianping.com/shop/9462534|http://www.dianping.com/search/category/1/10/g34014
+下午茶|BFIC小红帽的甜品屋|sml-str45|237|￥38|淮海路|思南路48号|8.6|9.0|9.0|http://www.dianping.com/shop/70425772|http://www.dianping.com/search/category/1/10/g34014
+下午茶|秋雪Autumn snow|sml-str50|159|￥43|音乐学院|淮海中路1251弄3号花园|9.0|9.0|9.1|http://www.dianping.com/shop/79294870|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Once|sml-str45|228|￥39|长宁区|愚园路1391-1号|8.6|8.7|8.8|http://www.dianping.com/shop/79437810|http://www.dianping.com/search/category/1/10/g34014
+下午茶|卿点|sml-str40|977|￥111|静安寺|愚园路150-152号|8.0|8.6|8.4|http://www.dianping.com/shop/82690995|http://www.dianping.com/search/category/1/10/g34014
+下午茶|LOVEGIFT爱礼|sml-str45|510|￥63|虹桥枢纽|绍虹路虹桥天地购物中心L1层|8.7|9.0|8.6|http://www.dianping.com/shop/90887714|http://www.dianping.com/search/category/1/10/g34014
+下午茶|LINE FRIENDS(淮海中路店)|sml-str40|3744|￥85|淮海路|淮海中路666号|7.7|8.8|7.9|http://www.dianping.com/shop/72470771|http://www.dianping.com/search/category/1/10/g34014
+下午茶|THE PRESS|sml-str45|1911|￥120|南京东路|汉口路309号申报馆1楼A1-03|8.1|9.1|8.4|http://www.dianping.com/shop/21718853|http://www.dianping.com/search/category/1/10/g34014
+下午茶|云意Yun Italia|sml-str45|408|￥334|静安寺|南京西路1399号|8.4|9.1|9.0|http://www.dianping.com/shop/77539388|http://www.dianping.com/search/category/1/10/g34014
+下午茶|惠食佳(静安店)|sml-str45|134|￥87|静安区|陕西北路66号科恩国际中心1至3层|8.5|9.0|8.2|http://www.dianping.com/shop/90560686|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Bistro 321 villa Le Bec|sml-str40|1295|￥684|上海影城/新华路|新华路321号|8.6|9.0|8.1|http://www.dianping.com/shop/17648024|http://www.dianping.com/search/category/1/10/g34014
+下午茶|乐昌牛奶公司(丽宝广场店)|sml-str45|601|￥74|莘庄|莘松路58号东苑丽宝广场2号楼1层108室|8.8|8.9|9.1|http://www.dianping.com/shop/69128849|http://www.dianping.com/search/category/1/10/g34014
+下午茶|味摩牛排(上海广场店)|sml-str45|483|￥99|淮海路|淮海中路138号上海广场1层|8.8|8.6|9.0|http://www.dianping.com/shop/75637828|http://www.dianping.com/search/category/1/10/g34014
+下午茶|The Felicity 费斯缇地中海餐厅(绿地正大乐城店)|sml-str45|1930|￥128|顾村公园|陆翔路111号绿地正大乐城1层|8.7|9.0|8.8|http://www.dianping.com/shop/23402964|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Pizza Express 马上诺(中山公园店)|sml-str45|2514|￥123|中山公园|长宁路1018号龙之梦购物中心蓝中庭7层|8.7|9.1|8.8|http://www.dianping.com/shop/27238989|http://www.dianping.com/search/category/1/10/g34014
+下午茶|PINTXOS(静安嘉里中心店)|sml-str40|7129|￥142|静安寺|南京西路1515号静安嘉里中心南区B1层|8.5|8.2|8.1|http://www.dianping.com/shop/14911084|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Hongdae Bear Cafe 弘大熊咖啡|sml-str45|524|￥62|新天地|自忠路349号|8.8|8.8|9.0|http://www.dianping.com/shop/58873297|http://www.dianping.com/search/category/1/10/g34014
+下午茶|MARU玛露音乐餐厅酒吧(创智天地店)|sml-str45|1322|￥155|五角场/大学区|淞沪路303号一楼智星路政民路口|8.6|9.0|8.7|http://www.dianping.com/shop/23016135|http://www.dianping.com/search/category/1/10/g34014
+下午茶|夏朵餐厅(丁香店)|sml-str45|8668|￥180|复兴西路/丁香花园|华山路855号|7.4|8.5|7.6|http://www.dianping.com/shop/503746|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Blackbird|sml-str45|2717|￥159|衡山路|乌鲁木齐南路甲1号3楼|8.0|9.0|8.4|http://www.dianping.com/shop/45259500|http://www.dianping.com/search/category/1/10/g34014
+下午茶|末那寿司(玫瑰坊店)|sml-str45|3645|￥88|中山公园|长宁路890号玫瑰坊2楼|8.9|8.0|8.5|http://www.dianping.com/shop/11557516|http://www.dianping.com/search/category/1/10/g34014
+下午茶|必胜客(大华乐购店)|sml-str50|2259|￥71|大华地区|大华路518号|9.1|9.1|9.0|http://www.dianping.com/shop/3277699|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Hungry Lung's Kitchen饿龙(上海K11艺术中心店)|sml-str40|2923|￥130|淮海路|淮海中路300号上海K11购物艺术中心4层|8.3|8.4|8.2|http://www.dianping.com/shop/27033860|http://www.dianping.com/search/category/1/10/g34014
+下午茶|安嶙粤菜(南京西路818广场店)|sml-str50|91|￥95|南京西路|南京西路818号503|8.9|8.9|9.0|http://www.dianping.com/shop/67864464|http://www.dianping.com/search/category/1/10/g34014
+下午茶|wakewake|sml-str50|331|￥56|复兴西路/丁香花园|乌鲁木齐中路361号|8.9|8.8|8.9|http://www.dianping.com/shop/69186516|http://www.dianping.com/search/category/1/10/g34014
+下午茶|潮堂(丁香国际商业中心店)|sml-str45|148|￥145|世纪公园|丁香路858号丁香国际商业中心西塔LG1层|8.5|8.9|9.0|http://www.dianping.com/shop/76947393|http://www.dianping.com/search/category/1/10/g34014
+下午茶|檬舒舒MonChouChou(环球金融中心店)|sml-str45|6536|￥62|陆家嘴|世纪大道100号环球金融商务中心B1层|8.4|8.4|8.2|http://www.dianping.com/shop/4096520|http://www.dianping.com/search/category/1/10/g34014
+下午茶|国际饭店西饼屋(黄河路店)|sml-str45|10260|￥42|人民广场|黄河路28号国际饭店西饼屋|8.4|7.3|7.2|http://www.dianping.com/shop/569170|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Miss Taipei(来福士广场长宁店)|sml-str45|771|￥112|中山公园|长宁路凯旋路交叉口来福士广场东区6层|8.1|9.0|9.0|http://www.dianping.com/shop/90944310|http://www.dianping.com/search/category/1/10/g34014
+下午茶|阿细茶餐厅|sml-str45|1407|￥135|龙华|龙腾大道2879号|8.7|8.6|7.9|http://www.dianping.com/shop/57302960|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Mr.Lucky西餐啤酒吧|sml-str50|138|￥121|康桥/周浦|御青路1118室|9.1|9.1|9.2|http://www.dianping.com/shop/70767119|http://www.dianping.com/search/category/1/10/g34014
+下午茶|唐宫海鲜舫(花木店)|sml-str40|7678|￥141|世纪公园|芳甸路1188弄1-4号证大喜玛拉雅中心南区6层103-104|8.5|8.5|8.0|http://www.dianping.com/shop/8359005|http://www.dianping.com/search/category/1/10/g34014
+下午茶|调茶局|sml-str45|2089|￥31|打浦桥|徐家汇路618号日月光中心1F-CG-21B|8.4|8.7|8.8|http://www.dianping.com/shop/92052113|http://www.dianping.com/search/category/1/10/g34014
+下午茶|The Chop Chop Club | UNÏCO|sml-str45|274|￥570|外滩|外滩中山东一路3号2楼|8.1|9.1|8.7|http://www.dianping.com/shop/79268274|http://www.dianping.com/search/category/1/10/g34014
+下午茶|El Luchador(新天地店)|sml-str45|957|￥166|新天地|兴业路123弄5号107单元新天地新里|8.5|8.7|8.4|http://www.dianping.com/shop/45347925|http://www.dianping.com/search/category/1/10/g34014
+下午茶|THE LAB茶研|sml-str50|400|￥22|莘庄|都市路4477号|9.1|9.0|9.1|http://www.dianping.com/shop/80984135|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Sabor by Diego Guerrero|sml-str45|675|￥532|外滩|四川中路33号创业大楼1楼|8.5|8.8|8.9|http://www.dianping.com/shop/66589749|http://www.dianping.com/search/category/1/10/g34014
+下午茶|6号公馆|sml-str45|766|￥320|同乐坊|常德路1118号|8.9|9.1|8.6|http://www.dianping.com/shop/11572292|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Breatique璞缔健康面包|sml-str45|163|￥29|淮海路|雁荡路25号|8.8|8.7|9.0|http://www.dianping.com/shop/92078624|http://www.dianping.com/search/category/1/10/g34014
+下午茶|沙绿轻食(玫瑰坊店)|sml-str50|262|￥37|中山公园|长宁路890号玫瑰坊商业街B1-20号|8.9|8.8|9.0|http://www.dianping.com/shop/90569072|http://www.dianping.com/search/category/1/10/g34014
+下午茶|乐匠手作Le Chef’s Bakery|sml-str45|830|￥46|南京西路|大沽路378-3号|8.6|8.5|9.1|http://www.dianping.com/shop/92733684|http://www.dianping.com/search/category/1/10/g34014
+下午茶|MEAT PLUS 尚肉(安化路店)|sml-str45|191|￥39|中山公园|安化路492号|8.6|9.0|8.7|http://www.dianping.com/shop/77272474|http://www.dianping.com/search/category/1/10/g34014
+下午茶|天堂太远,人间正好|sml-str45|433|￥44|虹口足球场|山阴路132弄6号|8.7|8.9|9.0|http://www.dianping.com/shop/23712412|http://www.dianping.com/search/category/1/10/g34014
+下午茶|阿拉福羹|sml-str45|257|￥125|老西门|丽园路48号|9.0|8.6|8.9|http://www.dianping.com/shop/79585103|http://www.dianping.com/search/category/1/10/g34014
+下午茶|乐宠屋宠物主题餐厅|sml-str50|417|￥123|庙行/共康|纪蕴路320弄和欣商业广场七号楼|8.9|9.2|9.1|http://www.dianping.com/shop/75157285|http://www.dianping.com/search/category/1/10/g34014
+下午茶|逸春园海鲜酒家|sml-str45|503|￥234|徐家汇|宛平南路88号永丰国际广场银座2楼|8.8|9.1|8.7|http://www.dianping.com/shop/66860291|http://www.dianping.com/search/category/1/10/g34014
+下午茶|ziin cafe 吱音咖啡生活馆|sml-str45|197|￥60|五角场/大学区|锦嘉路88号|8.3|9.1|8.6|http://www.dianping.com/shop/92108310|http://www.dianping.com/search/category/1/10/g34014
+下午茶|悦·6|sml-str40|2281|￥425|外滩|中山东一路6号外滩6号3楼B座|7.9|8.9|8.0|http://www.dianping.com/shop/26972773|http://www.dianping.com/search/category/1/10/g34014
+下午茶|馆子House198|sml-str45|2957|￥113|淮海路|进贤路198号|8.2|8.8|8.5|http://www.dianping.com/shop/17623634|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Pizza Express 马上诺(永嘉庭店)|sml-str50|1571|￥130|衡山路|永嘉路570号111单元|8.9|9.0|8.9|http://www.dianping.com/shop/5453740|http://www.dianping.com/search/category/1/10/g34014
+下午茶|查厘士(紫荆店)|sml-str40|10068|￥88|控江地区|控江路1628号紫荆广场西区8层802号|8.4|8.4|8.3|http://www.dianping.com/shop/27015518|http://www.dianping.com/search/category/1/10/g34014
+下午茶|GOOD FELLAS(延安东路店)|sml-str50|862|￥349|外滩|延安东路7号外滩|8.9|8.8|9.2|http://www.dianping.com/shop/11560210|http://www.dianping.com/search/category/1/10/g34014
+下午茶|海上旧梦主题演艺西餐厅|sml-str50|2009|￥242|静安寺|延安西路200号二号楼二楼|8.2|9.1|9.1|http://www.dianping.com/shop/5277410|http://www.dianping.com/search/category/1/10/g34014
+下午茶|赛仂薇西餐厅 C’est La Vie Restaurant&Bar(长泰广场店)|sml-str45|350|￥178|张江|金科路2889弄17号长泰广场酒吧街|8.5|8.9|8.8|http://www.dianping.com/shop/77470579|http://www.dianping.com/search/category/1/10/g34014
+下午茶|尚席|sml-str50|558|￥605|陆家嘴|世纪大道210号四季酒店2楼|9.0|9.1|9.0|http://www.dianping.com/shop/6182586|http://www.dianping.com/search/category/1/10/g34014
+下午茶|HowFun Paella Bar好饭食堂(上海商城南京西路店)|sml-str45|4230|￥148|南京西路|南京西路1376号上海商城2层|8.1|8.7|8.7|http://www.dianping.com/shop/20768157|http://www.dianping.com/search/category/1/10/g34014
+下午茶|唐宫海鲜舫(汇京店)|sml-str40|3658|￥147|徐家汇|虹桥路777号汇京国际广场三楼|8.5|8.8|7.9|http://www.dianping.com/shop/27289801|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Acqua Pazza|sml-str45|1656|￥187|打浦桥|建国中路6号|8.6|8.5|8.7|http://www.dianping.com/shop/4179666|http://www.dianping.com/search/category/1/10/g34014
+下午茶|T12 Lab|sml-str45|348|￥37|衡山路|吴兴路5号|8.8|8.6|8.5|http://www.dianping.com/shop/76717227|http://www.dianping.com/search/category/1/10/g34014
+下午茶|争鲜回转寿司(黄兴路店)|sml-str50|3259|￥55|黄兴公园|黄兴路1618号大润发超市1楼|9.0|9.0|8.9|http://www.dianping.com/shop/3120751|http://www.dianping.com/search/category/1/10/g34014
+下午茶|C-UP Coffee|sml-str50|378|￥92|三林镇|御桥路270弄21号|9.1|9.1|9.0|http://www.dianping.com/shop/15094438|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Onirii Coffee|sml-str45|514|￥38|淮海路|南昌路240号|8.7|9.0|9.0|http://www.dianping.com/shop/69594587|http://www.dianping.com/search/category/1/10/g34014
+下午茶|万丽轩|sml-str45|250|￥298|虹梅路|田林路397号，漕河泾万丽酒店2楼|8.6|9.1|8.6|http://www.dianping.com/shop/6295717|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Mr Nice好好先生餐厅(日月光中心广场店)|sml-str40|20097|￥120|打浦桥|徐家汇路618号日月光中心广场泰康区4层05号|7.9|8.4|7.9|http://www.dianping.com/shop/15864424|http://www.dianping.com/search/category/1/10/g34014
+下午茶|南翔公馆|sml-str45|1465|￥146|南翔|南翔镇共和街1号|8.8|9.0|8.6|http://www.dianping.com/shop/5138320|http://www.dianping.com/search/category/1/10/g34014
+下午茶|KARTEL|sml-str45|589|￥145|静安寺|襄阳北路1号4楼|8.3|9.0|8.0|http://www.dianping.com/shop/5285625|http://www.dianping.com/search/category/1/10/g34014
+下午茶|恒悦轩精致香港粤菜(陆家嘴店)|sml-str45|3321|￥267|陆家嘴|世纪大道201号渣打银行大厦3-4楼|8.3|8.9|8.3|http://www.dianping.com/shop/3181987|http://www.dianping.com/search/category/1/10/g34014
+下午茶|WHY TEA&JUICE|sml-str45|265|￥26|董家渡|普育西路190号|8.7|8.3|8.8|http://www.dianping.com/shop/92532079|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Mr.cat创意主题餐厅|sml-str45|323|￥65|五角场/大学区|殷高东路703号沿街星汇广场|8.3|9.0|8.9|http://www.dianping.com/shop/76742903|http://www.dianping.com/search/category/1/10/g34014
+下午茶|德格里THE GILI Tomahawk(虹桥店)|sml-str50|120|￥410|虹桥|虹桥路1665号星空广场别墅C6座|9.0|9.1|9.0|http://www.dianping.com/shop/76658118|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Scarpetta|sml-str45|1412|￥294|打浦桥|蒙自路33号|8.6|8.8|8.7|http://www.dianping.com/shop/6054945|http://www.dianping.com/search/category/1/10/g34014
+下午茶|January Cafe & Restaurant一月花园|sml-str45|1417|￥145|肇嘉浜路沿线|高安路101号漪霏庭D区|8.3|9.1|9.0|http://www.dianping.com/shop/9284696|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Settebello|sml-str45|972|￥153|复兴西路/丁香花园|安福路193号|8.7|9.0|9.0|http://www.dianping.com/shop/5113348|http://www.dianping.com/search/category/1/10/g34014
+下午茶|唐宫壹号(长乐路店)|sml-str45|5430|￥197|淮海路|长乐路400号锦江国际旅游中心3-4楼|8.4|8.5|8.2|http://www.dianping.com/shop/2892061|http://www.dianping.com/search/category/1/10/g34014
+下午茶|PIER39(静安嘉里中心店)|sml-str45|4629|￥93|静安寺|南京西路1515号静安嘉里中心东区1层|8.7|7.8|7.8|http://www.dianping.com/shop/13715753|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Makan|sml-str45|279|￥162|徐家汇|漕溪北路45号2楼|8.1|9.1|8.8|http://www.dianping.com/shop/66858176|http://www.dianping.com/search/category/1/10/g34014
+下午茶|33AD ATTOS|sml-str50|56|￥188|徐汇区|瑞平路99号105-1|8.6|9.0|9.1|http://www.dianping.com/shop/92451871|http://www.dianping.com/search/category/1/10/g34014
+下午茶|上海世茂皇家艾美酒店Favola法沃莱意大利餐厅|sml-str45|468|￥364|人民广场|南京东路789号世茂皇家艾美酒店8楼|8.2|9.0|8.7|http://www.dianping.com/shop/57842782|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Jstone.Italian KITCHEN Bar(世茂滨江店)|sml-str50|780|￥220|八佰伴|潍坊西路88号|9.0|9.0|9.1|http://www.dianping.com/shop/5326628|http://www.dianping.com/search/category/1/10/g34014
+下午茶|乐凯撒·榴莲比萨(月星环球港店)|sml-str45|2691|￥79|月星环球港|中山北路3300号环球港花园大厅B1层B1166|8.9|8.7|8.8|http://www.dianping.com/shop/43558256|http://www.dianping.com/search/category/1/10/g34014
+下午茶|浦东四季酒店Camelia|sml-str45|1100|￥417|陆家嘴|世纪大道210号上海浦东四季酒店1楼|7.9|9.1|8.7|http://www.dianping.com/shop/6182580|http://www.dianping.com/search/category/1/10/g34014
+下午茶|厝内小眷村(七宝青年店)|sml-str45|71|￥13|七宝|七宝镇青年路221号|8.8|8.9|8.8|http://www.dianping.com/shop/92098612|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Caffè MARYLING(八佰伴店)|sml-str50|257|￥59|八佰伴|张杨路501号第一八佰伴2楼|9.0|9.2|8.9|http://www.dianping.com/shop/90585209|http://www.dianping.com/search/category/1/10/g34014
+下午茶|尚一汤私厨(世博源店)|sml-str45|503|￥166|世博源|上南路168号世博源1区1层03号|8.6|8.4|8.6|http://www.dianping.com/shop/75125409|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Tie coffee|sml-str45|219|￥24|徐家汇|天钥桥路323号-1临|8.9|8.4|9.0|http://www.dianping.com/shop/57425348|http://www.dianping.com/search/category/1/10/g34014
+下午茶|seul&SEUL(兴业太古汇店)|sml-str40|202|￥552|南京西路|南京西路789号兴业太古汇3层N301|8.4|8.7|8.3|http://www.dianping.com/shop/76952651|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Odelice!欧膳(新乐路店)|sml-str45|903|￥103|音乐学院|新乐路208号|8.7|8.4|8.6|http://www.dianping.com/shop/13932333|http://www.dianping.com/search/category/1/10/g34014
+下午茶|香港麒麟阁夜宵早茶酒楼(七莘路店)|sml-str45|700|￥108|莘庄|七莘路1696号1-3层|8.9|8.4|8.8|http://www.dianping.com/shop/65791882|http://www.dianping.com/search/category/1/10/g34014
+下午茶|浦东香格里拉怡咖啡|sml-str40|8234|￥315|陆家嘴|富城路33号浦东香格里拉大酒店紫金楼2楼|7.9|8.6|8.2|http://www.dianping.com/shop/506785|http://www.dianping.com/search/category/1/10/g34014
+下午茶|B612亲子馆餐厅(星空广场店)|sml-str45|270|￥183|虹桥|虹桥路1665号星空广场1层|8.6|8.9|9.1|http://www.dianping.com/shop/66914883|http://www.dianping.com/search/category/1/10/g34014
+下午茶|THE LAB茶研|sml-str50|108|￥25|淞南|淞发路901弄祥腾生活广场七号楼一层107室中原地产旁边|9.1|9.0|9.2|http://www.dianping.com/shop/92077298|http://www.dianping.com/search/category/1/10/g34014
+下午茶|OUTBACK澳拜客(长泰广场店)|sml-str45|2738|￥194|张江|祖冲之路1239号长泰广场一楼西区48号|8.3|9.0|8.9|http://www.dianping.com/shop/22895778|http://www.dianping.com/search/category/1/10/g34014
+下午茶|泰康食品有限公司食品厂|sml-str45|127|￥42|黄浦区|云南南路101号7楼|8.5|8.3|8.3|http://www.dianping.com/shop/58748652|http://www.dianping.com/search/category/1/10/g34014
+下午茶|CHICKEN&EGG葡式霹雳烤鸡|sml-str45|1124|￥102|静安寺|长乐路街道富民路291号悟锦世纪大楼|8.6|8.4|8.4|http://www.dianping.com/shop/58288115|http://www.dianping.com/search/category/1/10/g34014
+下午茶|浦东嘉里大酒店∙The MEAT扒餐厅|sml-str45|774|￥716|世纪公园|花木路1388号浦东嘉里大酒店2楼|8.6|9.1|8.7|http://www.dianping.com/shop/4684767|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Pink Tears|sml-str45|246|￥39|淮海路|复兴中路590号|8.4|8.6|9.0|http://www.dianping.com/shop/92673024|http://www.dianping.com/search/category/1/10/g34014
+下午茶|calando卡兰多餐厅(大学路店)|sml-str45|809|￥71|五角场/大学区|大学路170号201室|8.7|8.6|8.9|http://www.dianping.com/shop/51846558|http://www.dianping.com/search/category/1/10/g34014
+下午茶|MeoWorld猫咪咖啡馆&拼豆DIY蝴蝶结|sml-str50|102|￥52|庙行/共康|共和新路5288号2幢132室|8.5|9.1|9.1|http://www.dianping.com/shop/92038211|http://www.dianping.com/search/category/1/10/g34014
+下午茶|夏朵餐厅(中原店)|sml-str45|2170|￥134|中原地区|国和路709号中原城市广场1座2楼|8.6|9.2|8.8|http://www.dianping.com/shop/6440653|http://www.dianping.com/search/category/1/10/g34014
+下午茶|粤鼎蒸|sml-str45|487|￥176|大华地区|真华路1110号|9.1|7.8|8.6|http://www.dianping.com/shop/59162913|http://www.dianping.com/search/category/1/10/g34014
+下午茶|巧厨粤菜馆|sml-str45|1185|￥71|平凉路|双阳支路115号|8.9|8.7|8.8|http://www.dianping.com/shop/18763383|http://www.dianping.com/search/category/1/10/g34014
+下午茶|58° 扒房|sml-str45|947|￥511|陆家嘴|浦东南路111号文华东方酒店行政公寓大堂1层|8.5|9.1|9.0|http://www.dianping.com/shop/8876725|http://www.dianping.com/search/category/1/10/g34014
+下午茶|星期五餐厅(富都店)|sml-str45|4289|￥164|陆家嘴|富城路16号|8.5|8.8|8.4|http://www.dianping.com/shop/8929854|http://www.dianping.com/search/category/1/10/g34014
+下午茶|唐宫(银河店)|sml-str45|5647|￥156|虹桥|中山西路888号新业中心2楼|8.2|7.6|7.5|http://www.dianping.com/shop/1896469|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Seesaw Coffee(百联世纪店)|sml-str45|401|￥43|百联世纪/96广场|世纪大道1217号百联世纪购物中心1层|8.7|8.8|8.8|http://www.dianping.com/shop/69843152|http://www.dianping.com/search/category/1/10/g34014
+下午茶|罗斯福牛排馆|sml-str45|1632|￥940|音乐学院|太原路160号太原别墅内|8.3|8.5|8.3|http://www.dianping.com/shop/2271727|http://www.dianping.com/search/category/1/10/g34014
+下午茶|厝内小眷村(大华店)|sml-str45|136|￥13|大华地区|大华二路268号澳特来商场店|8.5|8.7|8.7|http://www.dianping.com/shop/93214891|http://www.dianping.com/search/category/1/10/g34014
+下午茶|逸荟(外滩店)|sml-str45|872|￥436|外滩|圆明园路133号洛克外滩源女青年会大楼8-9楼|8.6|9.0|8.8|http://www.dianping.com/shop/10012360|http://www.dianping.com/search/category/1/10/g34014
+下午茶|1900 Coffee & Bar|sml-str45|293|￥67|上海影城/新华路|定西路465号「上海银行对面」|8.4|8.8|8.7|http://www.dianping.com/shop/58361708|http://www.dianping.com/search/category/1/10/g34014
+下午茶|21cake廿一客蛋糕(张杨路店)|sml-str45|343|￥211|浦东新区|张杨路2606号|8.5|8.4|8.8|http://www.dianping.com/shop/26204731|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Ellen’s西餐酒吧(陕西南路店)|sml-str45|201|￥51|淮海路|陕西南路117号2楼|8.7|9.0|9.0|http://www.dianping.com/shop/74068550|http://www.dianping.com/search/category/1/10/g34014
+下午茶|维园悦谱(乌鲁木齐店)|sml-str45|607|￥165|衡山路|乌鲁木齐南路298号2楼|8.6|9.0|8.6|http://www.dianping.com/shop/67431364|http://www.dianping.com/search/category/1/10/g34014
+下午茶|乐凯撒·榴莲比萨(静安大悦城店)|sml-str45|2412|￥75|大悦城|西藏北路166号大悦城北区B1层|8.9|8.6|8.8|http://www.dianping.com/shop/32703033|http://www.dianping.com/search/category/1/10/g34014
+下午茶|一米香潮汕砂锅粥(四川北路店)|sml-str45|833|￥107|四川北路|四川北路1885号2楼|8.9|7.9|8.1|http://www.dianping.com/shop/67103305|http://www.dianping.com/search/category/1/10/g34014
+下午茶|DO RESTAURANT & LIVE MUSIC(DO COFFEE)|sml-str45|1497|￥117|五角场/大学区|政学路80号|8.2|9.1|8.5|http://www.dianping.com/shop/24821699|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Hey there|sml-str45|93|￥35|中山公园|愚园路1088弄39号|8.3|8.9|8.6|http://www.dianping.com/shop/93010952|http://www.dianping.com/search/category/1/10/g34014
+下午茶|bluefrog蓝蛙(五角场万达店)|sml-str45|566|￥136|五角场/大学区|淞沪路77号万达广场B区1层D-22、23、25-1号|8.3|8.7|8.7|http://www.dianping.com/shop/76998277|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Mr Nice好好先生餐厅(五角场店)|sml-str40|10981|￥125|五角场/大学区|淞沪路8号百联又一城4楼S4-T25室|8.0|8.8|8.2|http://www.dianping.com/shop/23999832|http://www.dianping.com/search/category/1/10/g34014
+下午茶|碳匠音乐餐厅酒吧|sml-str50|210|￥290|新桥|新南路560号|9.1|9.3|9.1|http://www.dianping.com/shop/67556261|http://www.dianping.com/search/category/1/10/g34014
+下午茶|云朵上的鱼(莘庄店)|sml-str50|453|￥114|莘庄|莘朱路415号|9.1|9.0|9.1|http://www.dianping.com/shop/66427230|http://www.dianping.com/search/category/1/10/g34014
+下午茶|新天地朗廷酒店凯旋餐厅|sml-str40|2856|￥338|淮海路|马当路99号新天地朗廷酒店1楼|7.9|8.9|8.6|http://www.dianping.com/shop/4549515|http://www.dianping.com/search/category/1/10/g34014
+下午茶|La Vite意大利餐厅酒馆(建国西路店)|sml-str50|112|￥178|肇嘉浜路沿线|建国西路221号2楼201室|9.0|9.0|9.1|http://www.dianping.com/shop/69675620|http://www.dianping.com/search/category/1/10/g34014
+下午茶|柴田西点(紫云西路店)|sml-str45|4107|￥61|虹桥|紫云西路24号|8.4|8.0|8.1|http://www.dianping.com/shop/3373984|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Blacksheep Espresso|sml-str45|507|￥27|打浦桥|建国中路169-4号|8.8|8.9|8.8|http://www.dianping.com/shop/76980198|http://www.dianping.com/search/category/1/10/g34014
+下午茶|谧蜜甜品(安业路店)|sml-str45|3958|￥41|彭浦新村|安业路153-155号1F|8.5|8.2|8.2|http://www.dianping.com/shop/5497675|http://www.dianping.com/search/category/1/10/g34014
+下午茶|上海环球港凯悦酒店·咖啡厅|sml-str40|898|￥164|月星环球港|宁夏路718号上海环球港凯悦酒店七楼|8.3|9.1|8.5|http://www.dianping.com/shop/90099021|http://www.dianping.com/search/category/1/10/g34014
+下午茶|CHEF PAPA(协信星光店)|sml-str45|570|￥179|静安区|江场路1228号协信星光广场北区1层146室|8.8|9.0|8.5|http://www.dianping.com/shop/69448371|http://www.dianping.com/search/category/1/10/g34014
+下午茶|伊秀寿司(淮海店)|sml-str45|4542|￥111|淮海路|淮海中路918号淮海百盛8楼|8.7|8.8|9.1|http://www.dianping.com/shop/20904711|http://www.dianping.com/search/category/1/10/g34014
+下午茶|香草山西餐厅(星空广场店)|sml-str50|701|￥157|虹桥|虹桥路1665号星空广场5层|8.8|9.1|9.0|http://www.dianping.com/shop/67900484|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Rina丽娜意式扒房|sml-str45|53|￥308|静安寺|铜仁路146号|9.0|8.9|9.0|http://www.dianping.com/shop/93465632|http://www.dianping.com/search/category/1/10/g34014
+下午茶|伯衡55|sml-str50|51||衡山路|乌鲁木齐南路55号|8.7|9.0|8.9|http://www.dianping.com/shop/80614063|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Charles Kitchen|sml-str50|1434|￥247|控江地区|周家嘴路1888号瀚海明玉大酒店1楼|8.9|8.8|9.2|http://www.dianping.com/shop/17893329|http://www.dianping.com/search/category/1/10/g34014
+下午茶|咫尺阳光西餐厅|sml-str45|564|￥87|漕河泾/田林|桂林路402号76幢115室|8.4|9.1|9.0|http://www.dianping.com/shop/67025201|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Country Chalet 嗄蕾餐厅(徐汇正大乐城店)|sml-str45|286|￥114|龙华|中山南二路699号正大乐城6区1层102-1|8.6|8.8|9.1|http://www.dianping.com/shop/69962829|http://www.dianping.com/search/category/1/10/g34014
+下午茶|RAW EATERY AND WOOD GRILL|sml-str45|292|￥358|静安寺|延平路98创意园6号铺|8.8|8.8|9.0|http://www.dianping.com/shop/58753905|http://www.dianping.com/search/category/1/10/g34014
+下午茶|La Bambina|sml-str45|971|￥194|复兴西路/丁香花园|巨鹿路907号|8.5|8.6|9.0|http://www.dianping.com/shop/21213567|http://www.dianping.com/search/category/1/10/g34014
+下午茶|TUK土耳其地中海餐厅(静安寺店)|sml-str40|1812|￥143|静安寺|万航渡路1号环球世界大厦B座地铺|8.0|8.7|8.4|http://www.dianping.com/shop/59157354|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Lost Bakery|sml-str45|730|￥70|静安寺|巨鹿路758号|8.4|8.9|8.2|http://www.dianping.com/shop/67634446|http://www.dianping.com/search/category/1/10/g34014
+下午茶|EDR北美菜|sml-str50|68|￥68|南京西路|愚园东路38号|8.9|9.0|9.0|http://www.dianping.com/shop/79435671|http://www.dianping.com/search/category/1/10/g34014
+下午茶|夏宫|sml-str40|4314|￥298|静安寺|延安中路1218号静安香格里拉酒店3楼|8.2|8.9|7.7|http://www.dianping.com/shop/10647622|http://www.dianping.com/search/category/1/10/g34014
+下午茶|喜茶(兴业太古汇店)|sml-str40|2304|￥28|南京西路|南京西路789号兴业太古汇L377|8.1|7.9|7.8|http://www.dianping.com/shop/90027079|http://www.dianping.com/search/category/1/10/g34014
+下午茶|哆可牛乳茶(昌里路店)|sml-str45|191|￥24|上南地区|昌里路245号|8.6|8.4|8.6|http://www.dianping.com/shop/90516968|http://www.dianping.com/search/category/1/10/g34014
+下午茶|御宝南北小馆(虹桥天地店)|sml-str45|1550|￥170|虹桥枢纽|申长路688号虹桥天地购物中心南区L2-25|8.6|8.7|8.2|http://www.dianping.com/shop/43759274|http://www.dianping.com/search/category/1/10/g34014
+下午茶|纯饮轻断食代餐果蔬汁(静安配送点)|sml-str40|195|￥166|同乐坊|新丰路356号|8.6|8.6|9.0|http://www.dianping.com/shop/17977418|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Monster Pets Cafe宠物咖啡馆|sml-str45|338|￥65|大宁地区|泛欧现代大厦309室|8.4|9.0|9.1|http://www.dianping.com/shop/83502217|http://www.dianping.com/search/category/1/10/g34014
+下午茶|mu木咖啡(复兴中路店)|sml-str45|142|￥49|淮海路|复兴中路553弄13号|8.3|8.8|8.8|http://www.dianping.com/shop/57302497|http://www.dianping.com/search/category/1/10/g34014
+下午茶|潮堂(恒隆广场店)|sml-str45|3852|￥150|南京西路|南京西路1266号恒隆广场507店铺|8.5|8.7|8.8|http://www.dianping.com/shop/22065855|http://www.dianping.com/search/category/1/10/g34014
+下午茶|纯昌老虎灶(盛源生活广场店)|sml-str50|109|￥20|闸北公园|柳营路777号盛源生活广场1层|9.1|9.1|9.1|http://www.dianping.com/shop/77275475|http://www.dianping.com/search/category/1/10/g34014
+下午茶|PetitPree(长宁来福士店)|sml-str45|126|￥32|中山公园|长宁路1123号长宁来福士广场东区B1层|8.6|8.3|8.9|http://www.dianping.com/shop/92678800|http://www.dianping.com/search/category/1/10/g34014
+下午茶|HOTii 喫茶客(莘庄龙之梦店)|sml-str50|103|￥21|莘庄|沪闵路6088号莘庄龙之梦2楼|9.0|8.7|9.0|http://www.dianping.com/shop/93536844|http://www.dianping.com/search/category/1/10/g34014
+下午茶|乐凯撒·榴莲比萨(百联川沙店)|sml-str50|112|￥78|川沙|川沙路5398号百联川沙购物中心1层|9.0|9.1|9.1|http://www.dianping.com/shop/90000930|http://www.dianping.com/search/category/1/10/g34014
+下午茶|花媛私家甜品&蛋糕&甜品桌&diy|sml-str45|129|￥960|上海大学|锦秋路695弄锦秋新时代35号1层、2层|8.9|8.5|8.8|http://www.dianping.com/shop/66250128|http://www.dianping.com/search/category/1/10/g34014
+下午茶|LAZIE|sml-str45|2254|￥166|上海影城/新华路|番禺路381号|8.5|9.1|8.5|http://www.dianping.com/shop/24319651|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Le Gateau戛朵法式蛋糕|sml-str45|423|￥55|八佰伴|南泉北路528号新大陆广场北楼1层42号|8.5|8.7|8.6|http://www.dianping.com/shop/23480624|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Manner Coffee(奉贤路店)|sml-str45|1674|￥19|南京西路|奉贤路310号|8.9|7.6|8.6|http://www.dianping.com/shop/32472317|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Sunflour(正大广场店)|sml-str45|1075|￥45|陆家嘴|陆家嘴西路168号正大广场东区B2层25-26号|8.6|8.3|8.2|http://www.dianping.com/shop/57623766|http://www.dianping.com/search/category/1/10/g34014
+下午茶|霸道总裁肋排馆|sml-str45|1995|￥90|八佰伴|南泉北路528号新大陆广场北楼1层51号|8.4|8.6|8.6|http://www.dianping.com/shop/56510353|http://www.dianping.com/search/category/1/10/g34014
+下午茶|唐宫海鲜舫(维景店)|sml-str40|14185|￥119|中山公园|东诸安浜路103号维景酒店公寓1-2楼|8.1|7.4|7.2|http://www.dianping.com/shop/500526|http://www.dianping.com/search/category/1/10/g34014
+下午茶|WIN HOUSE(龙湖天街店)|sml-str45|501|￥138|虹桥枢纽|申长路869号龙湖虹桥天街A馆1层28a|8.7|9.0|8.8|http://www.dianping.com/shop/74628329|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Cii-Cup(合生汇店)|sml-str45|313|￥52|五角场/大学区|翔殷路1099号合生汇B2层-24号露天广场中|8.1|8.6|8.9|http://www.dianping.com/shop/69011525|http://www.dianping.com/search/category/1/10/g34014
+下午茶|ALBALUZ|sml-str45|1100|￥196|徐家汇|天平路320弄20号|8.6|8.7|8.5|http://www.dianping.com/shop/19296119|http://www.dianping.com/search/category/1/10/g34014
+下午茶|开巴(静安店)|sml-str45|350|￥108|同乐坊|武定路479号|8.6|8.5|8.6|http://www.dianping.com/shop/6233452|http://www.dianping.com/search/category/1/10/g34014
+下午茶|香港鹅颈桥辣蟹(金虹桥国际中心店)|sml-str45|803|￥217|天山|茅台路179号金虹桥国际中心3层|8.8|8.8|8.9|http://www.dianping.com/shop/66876535|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Ladies洛媛燕窝下午茶(缤谷文化休闲广场店)|sml-str45|494|￥164|天山|天山路341号缤谷文化休闲广场东区2层|9.0|9.0|9.0|http://www.dianping.com/shop/65625961|http://www.dianping.com/search/category/1/10/g34014
+下午茶|顺峰顺水|sml-str45|317|￥140|虹桥镇|吴中路668号2楼|8.7|8.5|9.0|http://www.dianping.com/shop/80839983|http://www.dianping.com/search/category/1/10/g34014
+下午茶|东郊丽园|sml-str45|127|￥219|金桥|金桥路银柳路路口东郊中心23号楼|9.0|9.1|8.9|http://www.dianping.com/shop/73619998|http://www.dianping.com/search/category/1/10/g34014
+下午茶|茶阁里的猫眼石(淮海中路巴黎春天店)|sml-str45|796|￥28|淮海路|淮海中路939-949号巴黎春天十1楼2楼|8.3|8.7|8.6|http://www.dianping.com/shop/80547239|http://www.dianping.com/search/category/1/10/g34014
+下午茶|看见咖啡|sml-str45|408|￥39|五角场/大学区|政民路196号|8.7|9.0|8.9|http://www.dianping.com/shop/66363977|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Le Bordelais Bund(外滩店)|sml-str45|581|￥210|外滩|北京东路99号益丰外滩源107室|8.3|9.0|8.6|http://www.dianping.com/shop/48008913|http://www.dianping.com/search/category/1/10/g34014
+下午茶|柴田西点(嘉善路店)|sml-str40|2803|￥70|瑞金宾馆区|嘉善路309号|8.3|8.5|8.1|http://www.dianping.com/shop/14716832|http://www.dianping.com/search/category/1/10/g34014
+下午茶|阿尔贝鲁西班牙餐厅|sml-str45|421|￥369|陆家嘴|陆家嘴环路1288号上海凯宾斯基大酒店2楼|8.4|9.1|9.2|http://www.dianping.com/shop/3994102|http://www.dianping.com/search/category/1/10/g34014
+下午茶|万昌福茶餐厅|sml-str45|564|￥78|火车站|梅园路228号|8.5|8.9|9.0|http://www.dianping.com/shop/69488114|http://www.dianping.com/search/category/1/10/g34014
+下午茶|人在茶在(怡丰城店)|sml-str50|180|￥18|莘庄|七莘路1507号怡丰城B2层|9.0|8.8|9.0|http://www.dianping.com/shop/92103489|http://www.dianping.com/search/category/1/10/g34014
+下午茶|LECHAMAX超级乐茶(美罗城店)|sml-str40|1335|￥28|徐家汇|肇嘉浜路1111号美罗城A区1层1-22B|8.4|8.1|8.3|http://www.dianping.com/shop/92148463|http://www.dianping.com/search/category/1/10/g34014
+下午茶|THE GREEN BISTRO 绿食集|sml-str40|879|￥144|大悦城|西藏北路198号大悦城二期北区9层902室|8.0|9.0|8.6|http://www.dianping.com/shop/76066928|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Little Huia(大沽路店)|sml-str45|384|￥162|南京西路|大沽路403号|8.6|8.4|8.6|http://www.dianping.com/shop/4232719|http://www.dianping.com/search/category/1/10/g34014
+下午茶|royaltea皇茶(七宝国际店)|sml-str50|129|￥19|七宝|新龙路七宝国际1333弄5号|9.2|9.2|9.2|http://www.dianping.com/shop/92287772|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Favorita意大利餐厅(蒙自路店)|sml-str45|342|￥271|打浦桥|蒙自路207号12号楼1楼12-001B室盟智创意园内|8.7|8.9|8.6|http://www.dianping.com/shop/59118553|http://www.dianping.com/search/category/1/10/g34014
+下午茶|LIL'GREEN 芥绿|sml-str45|84|￥72|松江区|三新北路900弄1031号|8.9|9.1|9.0|http://www.dianping.com/shop/91884831|http://www.dianping.com/search/category/1/10/g34014
+下午茶|唐宫海鲜舫(多媒体店)|sml-str40|8194|￥144|大宁地区|广中西路757号|8.5|8.4|7.8|http://www.dianping.com/shop/18260088|http://www.dianping.com/search/category/1/10/g34014
+下午茶|宝莱纳餐厅(世博店)|sml-str45|2225|￥202|临沂/南码头|世博大道555号1-2楼|8.1|8.9|8.2|http://www.dianping.com/shop/4099621|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Butchery36(36号扒房)|sml-str50|191|￥90|南京西路|南阳路36号|9.0|8.5|9.0|http://www.dianping.com/shop/76926807|http://www.dianping.com/search/category/1/10/g34014
+下午茶|天虹海鲜酒家(金桥店)|sml-str45|9062|￥172|金杨地区|张杨路3611号金桥国际商业广场6座3层|8.5|8.3|8.2|http://www.dianping.com/shop/3558658|http://www.dianping.com/search/category/1/10/g34014
+下午茶|唐宫壹号(虹桥万豪店)|sml-str45|1991|￥261|动物园/虹桥机场|虹桥路2270号万豪虹桥大酒店2楼|8.8|9.0|8.6|http://www.dianping.com/shop/6107046|http://www.dianping.com/search/category/1/10/g34014
+下午茶|粤1525|sml-str45|1691|￥222|中山公园|定西路1525号2楼|8.3|9.0|8.1|http://www.dianping.com/shop/4201484|http://www.dianping.com/search/category/1/10/g34014
+下午茶|CAPO At Rockbund|sml-str45|778|￥533|外滩|北京东路99号益丰外滩源5楼|8.6|9.0|9.0|http://www.dianping.com/shop/6365280|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Tock's|sml-str45|1118|￥94|南京东路|河南中路221号|8.6|8.5|8.6|http://www.dianping.com/shop/9027604|http://www.dianping.com/search/category/1/10/g34014
+下午茶|潮州府砂锅粥(长寿路店)|sml-str45|2466|￥135|长寿路|长寿路402号2楼|8.6|8.6|8.4|http://www.dianping.com/shop/63265104|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Ribonesteakhouse弗兰克牛排馆(瑞虹天地月亮湾店)|sml-str45|1213|￥217|临平路/和平公园|瑞虹路188号瑞虹天地月亮湾3层|8.4|9.0|8.6|http://www.dianping.com/shop/72350985|http://www.dianping.com/search/category/1/10/g34014
+下午茶|HEAT FRENCH ROTISSERIE & BISTRO|sml-str45|470|￥119|南京西路|茂名北路199号|8.4|8.4|8.4|http://www.dianping.com/shop/76860374|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Asitiman 阿斯堤曼(闻喜路店)|sml-str50|478|￥42|彭浦新村|彭浦新村闻喜路612号|9.1|8.8|9.1|http://www.dianping.com/shop/17187282|http://www.dianping.com/search/category/1/10/g34014
+下午茶|ON TIME|sml-str45|119|￥53|金桥|台儿庄路375号|8.3|9.0|9.1|http://www.dianping.com/shop/67684541|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Shook! Restaurant & Roof Terrace|sml-str40|3469|￥409|外滩|南京东路23号5-6楼|7.6|9.0|8.2|http://www.dianping.com/shop/4497864|http://www.dianping.com/search/category/1/10/g34014
+下午茶|外滩十八号|sml-str45|34||外滩|中山东一路18号|8.5|8.6|8.4|http://www.dianping.com/shop/20916695|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Patisserie Yan日式洋菓子西点烘焙(西点●蛋糕)|sml-str50|453|￥191|佘山|洞泾镇城隆路629弄3号|9.1|9.0|9.1|http://www.dianping.com/shop/21308298|http://www.dianping.com/search/category/1/10/g34014
+下午茶|彼德西餐(碧云店)|sml-str50|2101|￥130|碧云社区|碧云路633号碧云体育休闲中心B23-24号|8.9|9.0|8.9|http://www.dianping.com/shop/8685655|http://www.dianping.com/search/category/1/10/g34014
+下午茶|一炖|sml-str45|413|￥64|南京西路|茂名北路威海路口威海路628弄2号|8.4|9.0|8.7|http://www.dianping.com/shop/76873877|http://www.dianping.com/search/category/1/10/g34014
+下午茶|青耀园潮州菜馆(苏河湾店)|sml-str45|1365|￥189|大悦城|北苏州路1056号四行天地一楼|9.0|8.8|8.9|http://www.dianping.com/shop/24631385|http://www.dianping.com/search/category/1/10/g34014
+下午茶|港仔8号|sml-str45|835|￥74|光启城|中山西路2006-14临2楼|8.5|8.4|8.6|http://www.dianping.com/shop/57015380|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Dr.Beer(静安店)|sml-str45|2355|￥144|南京西路|富民路83号|8.3|8.6|7.8|http://www.dianping.com/shop/5447088|http://www.dianping.com/search/category/1/10/g34014
+下午茶|雪宜茶声Nevecha|sml-str45|256|￥157|大悦城|西藏北路166号大悦城南区1层107商铺|8.5|9.1|9.1|http://www.dianping.com/shop/90465836|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Mr Nice好好先生餐厅(静安寺店)|sml-str40|13157|￥104|静安寺|愚园路280号一二层|8.1|8.1|7.9|http://www.dianping.com/shop/8903730|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Pizza Marzano玛尚诺(来福士广场店)|sml-str45|5719|￥126|人民广场|西藏中路268号来福士广场03-12室|8.3|8.8|8.3|http://www.dianping.com/shop/19272169|http://www.dianping.com/search/category/1/10/g34014
+下午茶|唐宫膳(虹口店)|sml-str40|10935|￥113|临平路/和平公园|大连路555号|8.2|7.6|7.5|http://www.dianping.com/shop/2368495|http://www.dianping.com/search/category/1/10/g34014
+下午茶|COLCA 秘鲁西班牙餐厅(衡山路店)|sml-str45|265|￥266|衡山路|衡山路199号永平里|8.4|9.0|8.5|http://www.dianping.com/shop/73610906|http://www.dianping.com/search/category/1/10/g34014
+下午茶|ALL THE LOVERS|sml-str45|850|￥89|大宁地区|万荣路777号大宁音乐广场J座1层106-107室|8.3|9.0|8.6|http://www.dianping.com/shop/66616957|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Epices & Foie Gras|sml-str45|772|￥406|外滩|汉口路309号A1-05号|8.5|8.9|8.7|http://www.dianping.com/shop/20651014|http://www.dianping.com/search/category/1/10/g34014
+下午茶|私厨老爸餐厅|sml-str45|112|￥51|惠南镇|南门大街29号|8.5|8.3|8.6|http://www.dianping.com/shop/67625371|http://www.dianping.com/search/category/1/10/g34014
+下午茶|喜茶(美罗城店)|sml-str40|5370|￥28|徐家汇|肇嘉浜路1111号美罗城B区1层1-17|8.2|7.6|7.6|http://www.dianping.com/shop/79439249|http://www.dianping.com/search/category/1/10/g34014
+下午茶|甜问·香草甜品|sml-str50|106|￥33|卢湾区|马当路388号复兴sohoB1-30室|9.0|8.7|8.6|http://www.dianping.com/shop/92895852|http://www.dianping.com/search/category/1/10/g34014
+下午茶|诺诺茶NNtea|sml-str45|59|￥21|静安寺|武定路383号|8.5|9.1|8.9|http://www.dianping.com/shop/92000215|http://www.dianping.com/search/category/1/10/g34014
+下午茶|奉茶|sml-str50|125|￥18|大宁地区|万荣路48号|9.2|9.2|9.2|http://www.dianping.com/shop/92771574|http://www.dianping.com/search/category/1/10/g34014
+下午茶|憶糖|sml-str50|299|￥37|大宁地区|灵石路891号云仓商务A109|8.9|9.0|9.0|http://www.dianping.com/shop/58503050|http://www.dianping.com/search/category/1/10/g34014
+下午茶|bluefrog蓝蛙(正大店)|sml-str45|2623|￥154|陆家嘴|富城路12-14号|8.0|8.3|8.1|http://www.dianping.com/shop/15089712|http://www.dianping.com/search/category/1/10/g34014
+下午茶|文兴酒家|sml-str40|5371|￥157|静安寺|愚园路68号晶品CrystalGalleriaL6-05|8.4|8.2|8.1|http://www.dianping.com/shop/19291498|http://www.dianping.com/search/category/1/10/g34014
+下午茶|威斯汀舞台餐厅|sml-str40|4055|￥306|南京东路|河南中路88号上海威斯汀大饭店1楼|7.4|8.3|7.7|http://www.dianping.com/shop/502523|http://www.dianping.com/search/category/1/10/g34014
+下午茶|家府潮汕菜很正宗(长泰广场店)|sml-str40|3947|￥102|张江|金科路2889号长泰广场西区B1层|8.4|8.3|8.2|http://www.dianping.com/shop/27287329|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Picky Allien 作星人|sml-str50|108|￥26|大宁地区|广中路657号|9.1|9.1|9.1|http://www.dianping.com/shop/90506755|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Estia Greek Food|sml-str45|331|￥71|音乐学院|永康路51号|8.8|8.5|9.0|http://www.dianping.com/shop/73610847|http://www.dianping.com/search/category/1/10/g34014
+下午茶|HowFun Paella Bar好饭食堂(丁香店)|sml-str45|594|￥143|世纪公园|丁香路858号丁香国际商业中心东塔1层125|8.2|8.9|9.0|http://www.dianping.com/shop/48233889|http://www.dianping.com/search/category/1/10/g34014
+下午茶|KaoLa花园咖啡屋&生日餐厅|sml-str45|859|￥129|金桥|新金桥路775号高尔夫俱乐部一楼|8.3|9.2|8.8|http://www.dianping.com/shop/4217199|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Blue Tree 蓝之树(淮海路店)|sml-str45|672|￥74|淮海路|淮海中路191号|8.2|9.0|7.9|http://www.dianping.com/shop/67392157|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Lingo西餐厅(仙乐斯广场店)|sml-str40|9824|￥161|人民广场|南京西路388号仙乐斯广场1层|7.6|8.3|8.3|http://www.dianping.com/shop/2785468|http://www.dianping.com/search/category/1/10/g34014
+下午茶|柯里昂捷克自酿啤酒餐厅Krajanek Czech Beer Brewery|sml-str45|495|￥186|龙华|龙腾大道2879号3011|8.5|9.1|8.8|http://www.dianping.com/shop/27163071|http://www.dianping.com/search/category/1/10/g34014
+下午茶|伊秀寿司(浦东张杨店)|sml-str45|8224|￥104|八佰伴|张杨路588号中融国际1楼|8.8|8.9|9.0|http://www.dianping.com/shop/15130863|http://www.dianping.com/search/category/1/10/g34014
+下午茶|意创 Yolo|sml-str45|178|￥198|大宁地区|万荣路700号大宁中心广场C7栋1-3楼|8.1|8.9|9.0|http://www.dianping.com/shop/90400816|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Seesaw Coffee(愚园路店)|sml-str40|2340|￥48|南京西路|愚园路433弄8号静安设计中心内1F|8.2|8.5|8.2|http://www.dianping.com/shop/5699250|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Hunter Gatherer 悦衡食集(国金中心商场店)|sml-str45|280|￥89|陆家嘴|世纪大道8号国金中心商场4层|8.4|8.9|8.8|http://www.dianping.com/shop/74584607|http://www.dianping.com/search/category/1/10/g34014
+下午茶|玺粤轩(九号商场店)|sml-str45|1297|￥239|新天地|济南路9号九号商场2层|8.4|8.7|8.4|http://www.dianping.com/shop/18601539|http://www.dianping.com/search/category/1/10/g34014
+下午茶|LELECHA乐乐茶(中山公园龙之梦店)|sml-str40|3196|￥35|中山公园|长宁路1018号龙之梦购物中心蓝中庭1层1057号|8.3|8.1|7.9|http://www.dianping.com/shop/79233583|http://www.dianping.com/search/category/1/10/g34014
+下午茶|百合福·海鲜膳食总汇(第一八佰伴店)|sml-str40|2616|￥189|八佰伴|张杨路501号第一八佰伴9层|8.2|8.4|8.3|http://www.dianping.com/shop/52896178|http://www.dianping.com/search/category/1/10/g34014
+下午茶|W  CAFE|sml-str45|87|￥44|虹口足球场|甜爱路137号|8.2|8.9|8.9|http://www.dianping.com/shop/90524998|http://www.dianping.com/search/category/1/10/g34014
+下午茶|听说过创意韩式料理(宝乐汇店)|sml-str45|465|￥73|宝山城区|牡丹江路1569号宝乐汇B1层|8.4|8.5|8.8|http://www.dianping.com/shop/74103925|http://www.dianping.com/search/category/1/10/g34014
+下午茶|KUKO比利时松饼(虹口龙之梦店)|sml-str45|270|￥22|虹口足球场|西江湾路388号龙之梦购物中心B2层|8.6|8.9|9.0|http://www.dianping.com/shop/92364349|http://www.dianping.com/search/category/1/10/g34014
+下午茶|食臻牛排|sml-str45|395|￥158|嘉定新城|新城白银路288号4楼|8.7|9.0|8.9|http://www.dianping.com/shop/65304949|http://www.dianping.com/search/category/1/10/g34014
+下午茶|三花奶奶的甜品(来福士广场长宁店)|sml-str40|352|￥31|中山公园|长宁路凯旋路交叉口来福士广场东区6层|8.4|8.3|8.3|http://www.dianping.com/shop/91053714|http://www.dianping.com/search/category/1/10/g34014
+下午茶|宝莱纳餐厅(长宁来福士店)|sml-str40|182|￥202|中山公园|长宁路1197号长宁来福士广场H5思孙堂古建|8.0|9.0|8.0|http://www.dianping.com/shop/90593650|http://www.dianping.com/search/category/1/10/g34014
+下午茶|BREAD etc|sml-str40|1228|￥90|肇嘉浜路沿线|襄阳南路500号|8.2|8.5|8.1|http://www.dianping.com/shop/68239325|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Urban Grill城市烧烤土耳其地中海餐厅|sml-str45|297|￥167|南京西路|安远路127号|8.9|9.1|9.0|http://www.dianping.com/shop/66864968|http://www.dianping.com/search/category/1/10/g34014
+下午茶|PINK BEAR 粉熊餐吧|sml-str45|154|￥90|嘉定区|胜竹路2050号2楼|8.9|8.9|8.8|http://www.dianping.com/shop/91928037|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Porcellino小猪意大利餐厅|sml-str45|777|￥169|中山公园|愚园路753号B幢1楼|8.5|9.0|8.8|http://www.dianping.com/shop/18393390|http://www.dianping.com/search/category/1/10/g34014
+下午茶|荣城酒家|sml-str45|1113|￥420|音乐学院|复兴中路1315号|8.3|9.2|8.0|http://www.dianping.com/shop/18264604|http://www.dianping.com/search/category/1/10/g34014
+下午茶|喜茶(来福士店)|sml-str40|8494|￥28|人民广场|西藏中路268号上海来福士广场01-01D|8.1|7.6|7.7|http://www.dianping.com/shop/77124332|http://www.dianping.com/search/category/1/10/g34014
+下午茶|黑洞工作室|sml-str45|581|￥48|静安寺|安福路275弄9-B号|8.8|8.5|8.7|http://www.dianping.com/shop/18273502|http://www.dianping.com/search/category/1/10/g34014
+下午茶|UNDEFINE|sml-str45|775|￥42|长寿路|莫干山路50号6号楼105室|8.2|9.0|8.5|http://www.dianping.com/shop/21279916|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Patsy's前街纽约披萨餐厅|sml-str45|2257|￥124|徐家汇|天平路320弄24-25号衡山坊内|8.3|8.7|8.5|http://www.dianping.com/shop/19132290|http://www.dianping.com/search/category/1/10/g34014
+下午茶|逸龙阁|sml-str40|325|￥692|外滩|中山东一路32号半岛酒店内|7.9|9.3|8.9|http://www.dianping.com/shop/56685144|http://www.dianping.com/search/category/1/10/g34014
+下午茶|港義气香港冰室(大名路店)|sml-str50|245|￥38|北外滩|大名路78号|9.0|8.2|9.0|http://www.dianping.com/shop/66582323|http://www.dianping.com/search/category/1/10/g34014
+下午茶|澳门皇茶Macao Imperial Tea|sml-str50|116|￥20|黄浦区|淮海东路54号|9.0|9.0|9.1|http://www.dianping.com/shop/90340842|http://www.dianping.com/search/category/1/10/g34014
+下午茶|上海硬石餐厅Hard Rock Cafe|sml-str45|604|￥179|南京西路|茂名北路249号|8.1|8.8|8.5|http://www.dianping.com/shop/69202035|http://www.dianping.com/search/category/1/10/g34014
+下午茶|查厘士(近铁广场店)|sml-str40|7941|￥90|梅川路|真北路858号近铁城市广场南区4层|8.3|8.6|8.2|http://www.dianping.com/shop/27015545|http://www.dianping.com/search/category/1/10/g34014
+下午茶|ORITEA朴茶(汉口路店)|sml-str45|1220|￥22|南京东路|汉口路320号底层A-3商铺|8.5|8.7|8.6|http://www.dianping.com/shop/24889374|http://www.dianping.com/search/category/1/10/g34014
+下午茶|香港粗菜馆.明星粤菜(徐汇店)|sml-str40|8053|￥113|徐家汇|天钥桥路333号腾飞大厦内腾飞广场5层|7.5|7.1|7.0|http://www.dianping.com/shop/504860|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Alan Wong’s|sml-str0|278||南京西路|南京西路上海商城|8.0|9.0|9.0|http://www.dianping.com/shop/67635937|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Awfully Chocolate(美罗城店)|sml-str45|442|￥43|徐家汇|肇嘉浜路1111号美罗城A区1层1-22A|8.6|8.5|8.4|http://www.dianping.com/shop/76846390|http://www.dianping.com/search/category/1/10/g34014
+下午茶|茶巷|sml-str45|222|￥22|五角场/大学区|五角场邯郸路585号苏宁易购地下一层B-7-4|8.8|9.0|8.9|http://www.dianping.com/shop/92639992|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Blue Tree 蓝之树(七宝宝龙店)|sml-str45|81|￥72|七宝|漕宝路3299号七宝宝龙城市广场东区1层|8.8|9.0|9.0|http://www.dianping.com/shop/79413236|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Shanghai Brewery(东湖店)|sml-str45|795|￥125|音乐学院|东湖路20号|8.6|8.6|8.0|http://www.dianping.com/shop/23637303|http://www.dianping.com/search/category/1/10/g34014
+下午茶|食在56 – 意庐|sml-str45|1343|￥419|陆家嘴|世纪大道88号金茂君悦大酒店56楼|7.6|9.1|8.2|http://www.dianping.com/shop/500765|http://www.dianping.com/search/category/1/10/g34014
+下午茶|香草山西餐厅(仲盛世界商城店)|sml-str45|6272|￥163|莘庄|莘庄都市路5001号百盛购物中心3层|8.6|9.0|8.5|http://www.dianping.com/shop/14895992|http://www.dianping.com/search/category/1/10/g34014
+下午茶|味摩意大利简餐(静安1788店)|sml-str45|321|￥111|静安寺|南京西路1788号F1-18|8.3|8.5|8.5|http://www.dianping.com/shop/83496225|http://www.dianping.com/search/category/1/10/g34014
+下午茶|拉亚汉堡经典餐厅(金虹桥国际中心店)|sml-str45|3484|￥98|天山|茅台路179号金虹桥国际中心1层|8.5|8.9|8.5|http://www.dianping.com/shop/27490186|http://www.dianping.com/search/category/1/10/g34014
+下午茶|ink Coffee-墨咖啡(龙湖虹桥天街店)|sml-str50|191|￥26|虹桥枢纽|申滨南路1058号龙湖虹桥天街办公区D栋109室|9.1|9.0|9.2|http://www.dianping.com/shop/74580052|http://www.dianping.com/search/category/1/10/g34014
+下午茶|ruzzi如滋|sml-str50|271|￥54|黄兴公园|五角场镇营口路851号1层|8.7|9.0|9.1|http://www.dianping.com/shop/81888019|http://www.dianping.com/search/category/1/10/g34014
+下午茶|利再燃西班牙餐厅(日月光中心广场店)|sml-str45|4794|￥110|打浦桥|徐家汇路618号日月光中心广场徐家汇区2层|8.3|8.6|8.5|http://www.dianping.com/shop/23124787|http://www.dianping.com/search/category/1/10/g34014
+下午茶|星巴克臻选(思南公馆店)|sml-str45|1146|￥46|淮海路|思南路50号|8.6|9.0|8.6|http://www.dianping.com/shop/65776696|http://www.dianping.com/search/category/1/10/g34014
+下午茶|唐宫壹号(天禧店)|sml-str45|4326|￥226|虹梅路|虹许路358号天禧嘉福璞缇客酒店2楼|8.8|8.9|8.4|http://www.dianping.com/shop/4021330|http://www.dianping.com/search/category/1/10/g34014
+下午茶|躲猫猫主题宠物会所(总店)|sml-str50|287|￥55|浦江镇|浦星公路1969弄红星国际广场43幢商务楼连廊416室|9.2|9.3|9.4|http://www.dianping.com/shop/57205636|http://www.dianping.com/search/category/1/10/g34014
+下午茶|QMaku Dolce蜜丘|sml-str45|347|￥51|卢湾区|局门路153号千羽创意园底商|8.6|9.0|9.0|http://www.dianping.com/shop/75002636|http://www.dianping.com/search/category/1/10/g34014
+下午茶|三点三|sml-str45|251|￥20|淮海路|淮海路中段瑞金一路130号|8.5|9.0|9.1|http://www.dianping.com/shop/91971976|http://www.dianping.com/search/category/1/10/g34014
+下午茶|秘密花园(法华镇路店)|sml-str45|3534|￥131|上海影城/新华路|法华镇路525号创意树林入口处|7.7|8.7|7.9|http://www.dianping.com/shop/3330310|http://www.dianping.com/search/category/1/10/g34014
+下午茶|sweet gift精致手工烘培|sml-str50|66|￥98|张江|中科路2595号|9.1|9.0|9.1|http://www.dianping.com/shop/83619875|http://www.dianping.com/search/category/1/10/g34014
+下午茶|亚洲巴哈餐厅 Asia Baja Cafe(龙湖虹桥天街店)|sml-str50|134|￥116|虹桥枢纽|申长路869号虹桥天街购物中心A馆101A商铺|8.7|9.2|9.0|http://www.dianping.com/shop/75165277|http://www.dianping.com/search/category/1/10/g34014
+下午茶|和平饭店茉莉酒廊|sml-str45|533|￥284|外滩|南京东路20号和平饭店1层|8.3|9.2|8.8|http://www.dianping.com/shop/4118327|http://www.dianping.com/search/category/1/10/g34014
+下午茶|鹅夫人(上海五角场店)|sml-str40|8608|￥126|五角场/大学区|五角场万达广场特力时尚汇4楼|8.0|8.5|8.3|http://www.dianping.com/shop/65635246|http://www.dianping.com/search/category/1/10/g34014
+下午茶|斯比特花园·意大利餐厅(月星环球港店)|sml-str40|17656|￥123|月星环球港|中山北路3300号环球港中央广场2层2027室|8.2|8.5|8.3|http://www.dianping.com/shop/11571188|http://www.dianping.com/search/category/1/10/g34014
+下午茶|尚牛社会 Beef & Liberty(上海商城南京西路店)|sml-str45|2027|￥126|南京西路|南京西路1376号上海商城1层|8.2|8.4|8.2|http://www.dianping.com/shop/3302503|http://www.dianping.com/search/category/1/10/g34014
+下午茶|無邪日式甜品(正大广场店)|sml-str40|1676|￥41|陆家嘴|陆家嘴西路168号正大广场5层|8.0|8.1|7.7|http://www.dianping.com/shop/92057702|http://www.dianping.com/search/category/1/10/g34014
+下午茶|OZ MADE澳思牛排(189弄购物中心店)|sml-str50|244|￥113|长寿路|长寿路189弄189弄购物中心B1层|9.0|8.6|9.0|http://www.dianping.com/shop/75144868|http://www.dianping.com/search/category/1/10/g34014
+下午茶|勝八蛋包饭食堂|sml-str40|378|￥72|卢湾区|徐家汇路618号日月光中心广场泰康区5层06号|8.0|8.6|8.7|http://www.dianping.com/shop/92467807|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Turnbull Cuisine顶比牛排|sml-str45|200|￥85|平凉路|平凉路1399号滨江百联B1|8.6|8.2|8.9|http://www.dianping.com/shop/69621283|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Brut Cake Cafe|sml-str45|317|￥74|长宁区|愚园路698号|8.5|8.8|8.8|http://www.dianping.com/shop/79287446|http://www.dianping.com/search/category/1/10/g34014
+下午茶|翅品品 鱼翅捞饭(日月光店)|sml-str45|521|￥75|打浦桥|徐家汇路618号日月光中心广场瑞金区3层|8.4|8.1|8.3|http://www.dianping.com/shop/91960077|http://www.dianping.com/search/category/1/10/g34014
+下午茶|西堤厚牛排(上海紫荆广场)|sml-str45|1430|￥163|鞍山新村|控江路1628号紫荆广场东区6层603号|8.6|9.0|8.7|http://www.dianping.com/shop/33081600|http://www.dianping.com/search/category/1/10/g34014
+下午茶|THEISLES小岛鱼薯FISH&CHIPS(来福士广场长宁店)|sml-str45|502|￥144|中山公园|长宁路凯旋路交叉口来福士广场东区1层教堂旁|8.3|9.0|8.8|http://www.dianping.com/shop/90931063|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Dr.Beer(徐家汇店)|sml-str45|187|￥143|徐家汇|辛耕路117号|8.6|9.0|8.8|http://www.dianping.com/shop/73431311|http://www.dianping.com/search/category/1/10/g34014
+下午茶|牛排哈特|sml-str45|1888|￥432|五角场/大学区|国顺东路410号黄兴全民体育公园内|8.9|7.9|8.4|http://www.dianping.com/shop/6062484|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Bella Napoli(南汇路店)|sml-str45|1224|￥177|南京西路|南汇路73号|8.6|9.0|8.5|http://www.dianping.com/shop/8855259|http://www.dianping.com/search/category/1/10/g34014
+下午茶|PONY(大悦城店)|sml-str45|733|￥48|大悦城|西藏北路166号大悦城北区B1层|8.7|8.4|8.6|http://www.dianping.com/shop/43598840|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Perry’s(襄阳北路店)|sml-str45|522|￥107|静安寺|襄阳北路17号3楼|8.2|8.2|8.3|http://www.dianping.com/shop/20693300|http://www.dianping.com/search/category/1/10/g34014
+下午茶|DLAKE滴吧|sml-str50|336|￥72|南汇新城|南汇新城镇申港大道1号|8.8|9.2|9.0|http://www.dianping.com/shop/90963581|http://www.dianping.com/search/category/1/10/g34014
+下午茶|WIN HOUSE(浦东丁香店)|sml-str45|838|￥122|世纪公园|丁香路858号丁香国际商业中心西塔1层L1-12|8.4|8.8|8.8|http://www.dianping.com/shop/38113746|http://www.dianping.com/search/category/1/10/g34014
+下午茶|鹅夫人(中山公园店)|sml-str40|3117|￥129|中山公园|长宁路1018号龙之梦购物中心黄中庭6层|8.0|8.5|8.3|http://www.dianping.com/shop/76805812|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Yasmine’s  茉莉西餐厅(碧云路店)|sml-str45|3044|￥250|碧云社区|碧云路178号|8.2|8.8|8.5|http://www.dianping.com/shop/3317554|http://www.dianping.com/search/category/1/10/g34014
+下午茶|百乐门|sml-str45|305|￥675|静安寺|愚园路218号|7.5|8.0|7.7|http://www.dianping.com/shop/91647787|http://www.dianping.com/search/category/1/10/g34014
+下午茶|伊秀寿司(吴江路店)|sml-str45|13322|￥104|南京西路|吴江路269号湟普美食汇3楼|8.3|8.0|8.7|http://www.dianping.com/shop/4272562|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Calypso地中海餐厅|sml-str40|2710|￥354|静安寺|铜仁路近安义路，静安嘉里中心南区广场|7.8|9.1|8.1|http://www.dianping.com/shop/15878313|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Yasmine's 茉莉西餐厅(襄阳店)|sml-str45|536|￥181|音乐学院|襄阳北路93-94号|8.3|9.1|8.8|http://www.dianping.com/shop/27525052|http://www.dianping.com/search/category/1/10/g34014
+下午茶|阿根廷庄园OBELISCO|sml-str45|1038|￥245|北外滩|秦皇岛路32号|8.4|9.1|8.9|http://www.dianping.com/shop/5298733|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Odelice!欧膳(虹梅路店)|sml-str45|472|￥103|虹梅路|虹梅路3219号|8.8|8.4|9.0|http://www.dianping.com/shop/5503317|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Homeslice(158坊店)|sml-str45|273|￥53|淮海路|巨鹿路158号158坊B1层|9.0|8.7|8.5|http://www.dianping.com/shop/72649493|http://www.dianping.com/search/category/1/10/g34014
+下午茶|利苑(国金中心店)|sml-str40|3646|￥405|陆家嘴|世纪大道8号上海国金中心3楼L3-17&18|8.2|8.4|7.6|http://www.dianping.com/shop/4073998|http://www.dianping.com/search/category/1/10/g34014
+下午茶|唐宫(皇冠店)|sml-str40|4538|￥176|梅川路|金沙江路1699号皇冠假日酒店二楼|8.5|8.7|7.9|http://www.dianping.com/shop/18516914|http://www.dianping.com/search/category/1/10/g34014
+下午茶|宝燕海货工场二店港式茶点(宝燕商场店)|sml-str40|446|￥224|春申地区|春申路3333宝燕商城2楼|8.3|8.1|7.8|http://www.dianping.com/shop/67969168|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Pizza Marzano玛尚诺(协信星光店)|sml-str45|873|￥118|市北工业园/汶水路|江场路1228号协信星光广场北区1层14室|8.5|9.0|8.9|http://www.dianping.com/shop/65587294|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Mr. Glasses(虹桥天地店)|sml-str45|885|￥162|虹桥枢纽|虹桥天地•新天地B座L3-01|8.8|9.0|8.5|http://www.dianping.com/shop/46457708|http://www.dianping.com/search/category/1/10/g34014
+下午茶|DNA Café | Coffit(愚园路店)|sml-str40|192|￥86|静安寺|愚园路753号C棟|7.7|8.6|8.0|http://www.dianping.com/shop/91618937|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Pret A Manger(静安嘉里中心店)|sml-str45|965|￥56|静安寺|南京西路1515号静安嘉里中心北区B1层|8.3|8.7|8.5|http://www.dianping.com/shop/66362325|http://www.dianping.com/search/category/1/10/g34014
+下午茶|bluefrog蓝蛙(上海广场店)|sml-str45|1834|￥144|淮海路|淮海中路138号上海广场商场118室|8.4|8.7|8.3|http://www.dianping.com/shop/17227527|http://www.dianping.com/search/category/1/10/g34014
+下午茶|茶阁里的猫眼石(美罗城店)|sml-str40|2098|￥27|徐家汇|肇嘉浜路1111号美罗城A区5层|8.2|8.5|8.4|http://www.dianping.com/shop/68230761|http://www.dianping.com/search/category/1/10/g34014
+下午茶|BENSHUN－牧欢牛肉体验店|sml-str45|124|￥90|中山公园|延安西路957号一层|8.7|8.2|8.7|http://www.dianping.com/shop/91890949|http://www.dianping.com/search/category/1/10/g34014
+下午茶|高跟73小时(日月光中心广场店)|sml-str40|693|￥80|打浦桥|徐家汇路618号日月光中心广场泰康区1层|7.6|8.8|8.6|http://www.dianping.com/shop/67580163|http://www.dianping.com/search/category/1/10/g34014
+下午茶|OUTBACK澳拜客(合生汇店)|sml-str40|1871|￥206|五角场/大学区|翔殷路1099号合生汇2F|8.0|9.0|8.5|http://www.dianping.com/shop/66964097|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Larry and Friends Cafe & Lounge|sml-str45|69|￥35|南京西路|陕西北路155号|8.5|8.6|9.0|http://www.dianping.com/shop/92262344|http://www.dianping.com/search/category/1/10/g34014
+下午茶|NAPA(纳帕红酒主题法餐厅)|sml-str45|949|￥586|外滩|中山东二路外滩22号2楼|8.1|9.0|8.9|http://www.dianping.com/shop/2356825|http://www.dianping.com/search/category/1/10/g34014
+下午茶|bluefrog蓝蛙(百盛莘庄店)|sml-str45|1337|￥141|莘庄|莘庄都市路5001号百盛购物中心底商1层|8.3|8.7|8.5|http://www.dianping.com/shop/21731435|http://www.dianping.com/search/category/1/10/g34014
+下午茶|ALL THE LOVERS|sml-str40|2582|￥85|五角场/大学区|大学路211号|8.2|8.5|8.1|http://www.dianping.com/shop/21257441|http://www.dianping.com/search/category/1/10/g34014
+下午茶|HOOKED(158坊店)|sml-str40|436|￥197|淮海路|巨鹿路158号158坊B1层|8.2|8.3|8.2|http://www.dianping.com/shop/79272467|http://www.dianping.com/search/category/1/10/g34014
+下午茶|青云小镇(东书房路店)|sml-str45|106|￥54|浦东新区|东书房路90号|8.8|8.5|8.7|http://www.dianping.com/shop/72336744|http://www.dianping.com/search/category/1/10/g34014
+下午茶|穀屋 House of Flour(永新坊店)|sml-str45|285|￥71|徐家汇|天钥桥路131号永新坊1层|8.2|8.6|8.9|http://www.dianping.com/shop/90023548|http://www.dianping.com/search/category/1/10/g34014
+下午茶|拉亚汉堡经典餐厅(宜山路店)|sml-str45|17937|￥94|光启城|中山西路2006号|8.5|8.6|8.3|http://www.dianping.com/shop/6073901|http://www.dianping.com/search/category/1/10/g34014
+下午茶|啫8惠食佳|sml-str45|688|￥151|虹桥|虹梅路3887号|8.7|8.4|8.3|http://www.dianping.com/shop/65756223|http://www.dianping.com/search/category/1/10/g34014
+下午茶|何洪记(兴业太古汇店)|sml-str40|1012|￥104|南京西路|南京西路789号兴业太古汇L324|7.7|8.1|7.7|http://www.dianping.com/shop/91015781|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Casa Bizzar|sml-str50|118|￥85|五角场/大学区|政民路411-2号|8.7|8.9|9.0|http://www.dianping.com/shop/79233655|http://www.dianping.com/search/category/1/10/g34014
+下午茶|船屋THE BOATHOUSE|sml-str45|943|￥155|迪士尼|迪士尼小镇（湖畔）申迪西路255弄825号|8.2|9.1|8.6|http://www.dianping.com/shop/66853548|http://www.dianping.com/search/category/1/10/g34014
+下午茶|西堤厚牛排(上海日月光店)|sml-str45|4270|￥161|打浦桥|徐家汇路618号日月光中心广场徐家汇区4层11号|8.4|8.7|8.7|http://www.dianping.com/shop/22070975|http://www.dianping.com/search/category/1/10/g34014
+下午茶|唯尚欧陆厨房|sml-str50|272|￥173|源深体育中心|羽山路252号2楼|9.1|9.3|9.0|http://www.dianping.com/shop/90444171|http://www.dianping.com/search/category/1/10/g34014
+下午茶|PONY博尼工房(高岛屋百货店)|sml-str45|990|￥70|虹桥|虹桥路1438号B1|8.8|8.6|8.7|http://www.dianping.com/shop/19821841|http://www.dianping.com/search/category/1/10/g34014
+下午茶|甜问·香草甜品(96广场店)|sml-str45|395|￥35|八佰伴|东方路796号（近张杨路）96广场2楼|8.7|8.7|8.6|http://www.dianping.com/shop/68149878|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Extra Time 街角咖啡小馆子|sml-str45|120|￥75|同乐坊|常德路888号|8.9|8.7|8.8|http://www.dianping.com/shop/77444973|http://www.dianping.com/search/category/1/10/g34014
+下午茶|阿细融合粤菜|sml-str45|650|￥208|龙华|龙腾大道2879号201室|8.7|9.1|8.2|http://www.dianping.com/shop/57446197|http://www.dianping.com/search/category/1/10/g34014
+下午茶|查厘士(徐汇百联店)|sml-str40|22916|￥90|徐家汇|华山路2038号百联徐汇4楼|8.3|8.4|7.8|http://www.dianping.com/shop/18084636|http://www.dianping.com/search/category/1/10/g34014
+下午茶|家全七福(静安店)|sml-str40|921|￥517|静安寺|南京西路1515号嘉里中心一期二楼E2-03室|8.3|9.0|8.3|http://www.dianping.com/shop/14201979|http://www.dianping.com/search/category/1/10/g34014
+下午茶|诚喫CHENG CHI|sml-str45|323|￥16|人民广场|云南中路266号|8.7|8.6|9.1|http://www.dianping.com/shop/69304269|http://www.dianping.com/search/category/1/10/g34014
+下午茶|暖大叔沙拉煎饼(川沙百联店)|sml-str45|74|￥17|川沙|川沙路5398号百联川沙购物中心B1层|8.7|8.7|8.8|http://www.dianping.com/shop/91658762|http://www.dianping.com/search/category/1/10/g34014
+下午茶|西堤厚牛排(莘庄仲盛店)|sml-str45|5632|￥159|莘庄|莘庄都市路5001号仲盛购物中心5楼|8.3|9.0|8.8|http://www.dianping.com/shop/17871156|http://www.dianping.com/search/category/1/10/g34014
+下午茶|海蓝意大利餐厅|sml-str45|499|￥293|陆家嘴|陆家嘴环路1288号上海凯宾斯基大酒店2楼|8.2|9.1|9.1|http://www.dianping.com/shop/4049593|http://www.dianping.com/search/category/1/10/g34014
+下午茶|2nite.Bar​|sml-str50|414|￥115|临平路/和平公园|大连路1256号|8.9|9.0|9.1|http://www.dianping.com/shop/15910266|http://www.dianping.com/search/category/1/10/g34014
+下午茶|香港点心皇餐厅(仙霞路店)|sml-str45|3066|￥85|虹桥|仙霞路413号|8.4|7.1|7.4|http://www.dianping.com/shop/583617|http://www.dianping.com/search/category/1/10/g34014
+下午茶|东郊宾馆心悦自助餐厅|sml-str45|1525|￥218|张江|金科路1800号东郊宾馆东楼5楼|8.1|9.1|8.8|http://www.dianping.com/shop/2003431|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Mcake蛋糕(上海站)|sml-str40|5154|￥225|武宁地区|同普路1130弄3号楼|8.3|8.0|8.4|http://www.dianping.com/shop/6228222|http://www.dianping.com/search/category/1/10/g34014
+下午茶|鸿星荟(上海K11艺术中心店)|sml-str40|2861|￥372|淮海路|淮海中路300号上海K11购物艺术中心4层|8.2|8.8|8.6|http://www.dianping.com/shop/58766780|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Lu Cafe&more·麓|sml-str45|234|￥43|大悦城|蒙古路29-31号，大悦城二期对面光明地产一楼|8.1|8.7|8.6|http://www.dianping.com/shop/48227150|http://www.dianping.com/search/category/1/10/g34014
+下午茶|kisscake烘培|sml-str45|91|￥53|杨浦区|国权路43号财富国际广场银座812室|8.8|9.0|9.0|http://www.dianping.com/shop/92497872|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Pizza Marzano玛尚诺(虹桥天地店)|sml-str45|853|￥134|虹桥枢纽|申长路688号335-336虹桥天地B1层01室|8.9|9.0|8.6|http://www.dianping.com/shop/24705400|http://www.dianping.com/search/category/1/10/g34014
+下午茶|必胜客(吴泾宝龙Bistro店)|sml-str50|157|￥62|闵行区|剑川路438号吴泾宝龙广场一楼|9.3|9.3|9.2|http://www.dianping.com/shop/92895907|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Sizzling滋滋牛排屋(新邻天地店)|sml-str50|122|￥72|桃浦|武威路1285号新邻天地1层|9.1|8.9|9.1|http://www.dianping.com/shop/77278916|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Manner Coffee(东海广场店)|sml-str45|260|￥19|南京西路|愚园东路20号东海广场3号楼1楼P2创客中心大厅|8.8|7.7|8.7|http://www.dianping.com/shop/70384322|http://www.dianping.com/search/category/1/10/g34014
+下午茶|蔡嘉法式甜品(环贸iapm商场店)|sml-str40|3724|￥108|音乐学院|淮海中路999号环贸iapm商场5层|8.2|7.7|8.0|http://www.dianping.com/shop/13785529|http://www.dianping.com/search/category/1/10/g34014
+下午茶|peepo cafe|sml-str45|182|￥22|人民广场|九江路711号|8.5|8.6|9.0|http://www.dianping.com/shop/90972125|http://www.dianping.com/search/category/1/10/g34014
+下午茶|MERCADO DE WAIMA|sml-str50|74|￥385|黄浦区|外马路1028号幸福码头10号楼|9.1|8.3|9.0|http://www.dianping.com/shop/70002678|http://www.dianping.com/search/category/1/10/g34014
+下午茶|潮民冰室(虹桥天地店)|sml-str40|1352|￥90|虹桥枢纽|申长路688号虹桥天地B1层|8.3|8.5|8.5|http://www.dianping.com/shop/38225573|http://www.dianping.com/search/category/1/10/g34014
+下午茶|惠食佳(陆家嘴店)|sml-str40|1293|￥230|陆家嘴|陆家嘴东路161号招商局大厦3-4楼|8.3|8.5|7.4|http://www.dianping.com/shop/3688177|http://www.dianping.com/search/category/1/10/g34014
+下午茶|鹅夫人(莘庄仲盛店)|sml-str40|9320|￥126|莘庄|莘庄都市路5001号仲盛世界商城4层422号商铺|8.0|8.5|8.1|http://www.dianping.com/shop/23982023|http://www.dianping.com/search/category/1/10/g34014
+下午茶|新斗记(襄阳公园店)|sml-str40|9016|￥210|淮海路|新乐路47号|8.4|8.3|7.7|http://www.dianping.com/shop/6029378|http://www.dianping.com/search/category/1/10/g34014
+下午茶|花花卷卷(新世界大丸百货店)|sml-str45|575|￥92|南京东路|南京东路228号新世界大丸百货B2层|8.6|8.6|8.7|http://www.dianping.com/shop/22235754|http://www.dianping.com/search/category/1/10/g34014
+下午茶|The Blooming|sml-str45|171|￥55|复兴西路/丁香花园|五原路84弄13号|8.3|8.9|8.7|http://www.dianping.com/shop/73165217|http://www.dianping.com/search/category/1/10/g34014
+下午茶|鹰集咖啡S.Engine Coffee(新天地店)|sml-str40|1451|￥55|新天地|黄陂南路331号|7.9|8.6|8.0|http://www.dianping.com/shop/77218838|http://www.dianping.com/search/category/1/10/g34014
+下午茶|AmiMoi艾美|sml-str40|1027|￥77|肇嘉浜路沿线|嘉善路524号|8.2|8.7|8.4|http://www.dianping.com/shop/69727781|http://www.dianping.com/search/category/1/10/g34014
+下午茶|福记港式茶粥面(陕西南路店)|sml-str40|5488|￥84|静安寺|陕西南路11号|8.1|7.2|7.4|http://www.dianping.com/shop/4298506|http://www.dianping.com/search/category/1/10/g34014
+下午茶|金桂皇朝(南京西路店)|sml-str40|6470|￥167|静安寺|南京西路1618号久光百货8楼806-7号|7.8|7.5|7.4|http://www.dianping.com/shop/504225|http://www.dianping.com/search/category/1/10/g34014
+下午茶|lynncake手工蛋糕|sml-str50|280|￥371|杨行|莲花山路517弄|9.2|9.2|9.2|http://www.dianping.com/shop/18616000|http://www.dianping.com/search/category/1/10/g34014
+下午茶|利苑(IAPM店)|sml-str40|2414|￥369|音乐学院|淮海中路999号环贸广场L4-401|8.3|8.5|7.8|http://www.dianping.com/shop/13785570|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Pizza Marzano玛尚诺(合生汇店)|sml-str45|205|￥123|杨浦区|黄兴路2228号上海合生汇广场地上一层36、37号|8.8|8.6|8.8|http://www.dianping.com/shop/92093171|http://www.dianping.com/search/category/1/10/g34014
+下午茶|bbasasi彼萨喜牧场牛排(龙阳广场店)|sml-str45|74|￥74|世纪公园|龙阳广场2000号龙阳广场二楼乐无界|8.6|8.5|8.9|http://www.dianping.com/shop/91593340|http://www.dianping.com/search/category/1/10/g34014
+下午茶|九龙巴士(古北路店)|sml-str45|51|￥19|天山|古北路435号|8.8|8.5|9.0|http://www.dianping.com/shop/92692541|http://www.dianping.com/search/category/1/10/g34014
+下午茶|SIDEWAY|sml-str45|492|￥233|复兴西路/丁香花园|安福路160号|8.5|8.8|9.0|http://www.dianping.com/shop/15107597|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Chikalicious|sml-str40|2755|￥205|新天地|兴业路123弄5号新天地新里106单元205a号|8.0|8.1|7.9|http://www.dianping.com/shop/32564420|http://www.dianping.com/search/category/1/10/g34014
+下午茶|音昱听堂Thought for Food by The Living Room|sml-str40|432|￥274|肇嘉浜路沿线|建国西路357号|7.9|9.1|8.5|http://www.dianping.com/shop/21340089|http://www.dianping.com/search/category/1/10/g34014
+下午茶|德国三皇冠1308自酿啤酒坊餐厅|sml-str45|1794|￥196|北外滩|东大名路687号|8.6|9.0|8.7|http://www.dianping.com/shop/18044025|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Black Pepper黑辣椒土耳其餐厅|sml-str45|972|￥218|南京西路|泰兴路99号2楼|8.3|9.2|8.8|http://www.dianping.com/shop/17160385|http://www.dianping.com/search/category/1/10/g34014
+下午茶|ELEFANTE大象西班牙餐厅|sml-str45|2200|￥312|音乐学院|东湖路20号|8.0|8.7|8.0|http://www.dianping.com/shop/2481415|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Shaka Poke 夏威夷鱼生饭|sml-str45|213|￥48|光启城|宜山路455号光启城时尚购物中心B1层41号|8.5|8.5|8.7|http://www.dianping.com/shop/90872359|http://www.dianping.com/search/category/1/10/g34014
+下午茶|斯比特花园·意大利餐厅(东方商厦店)|sml-str45|372|￥119|徐汇区|漕溪北路8号徐汇东方商厦地下B1层|8.4|8.6|8.8|http://www.dianping.com/shop/73419666|http://www.dianping.com/search/category/1/10/g34014
+下午茶|Bella Napoli(长乐路店)|sml-str45|1787|￥182|静安寺|长乐路946弄4号|8.4|8.6|7.8|http://www.dianping.com/shop/4077178|http://www.dianping.com/search/category/1/10/g34014
+下午茶|柏玥轩(湖滨道店)|sml-str45|366|￥249|新天地|湖滨路150号湖滨道购物中心3层|8.5|8.7|8.6|http://www.dianping.com/shop/67199568|http://www.dianping.com/search/category/1/10/g34014
+下午茶|LELECHA乐乐茶(五角场万达广场店)|sml-str40|2829|￥34|五角场/大学区|淞沪路77号万达广场B1层|8.3|8.1|7.9|http://www.dianping.com/shop/72462753|http://www.dianping.com/search/category/1/10/g34014
+下午茶|芭芭露莎|sml-str40|5105|￥183|人民广场|南京西路231号人民公园内人工湖|7.5|8.7|7.5|http://www.dianping.com/shop/505573|http://www.dianping.com/search/category/1/10/g34014
+下午茶|DNA Café | Coffice(永嘉路会员店)|sml-str45|150|￥78|音乐学院|永嘉路480号|7.9|9.0|8.7|http://www.dianping.com/shop/67690634|http://www.dianping.com/search/category/1/10/g34014
+下午茶|幻品LA Fantasia chef art  studio(新天地店)|sml-str40|4948|￥100|新天地|新天地北里马当路159号103单元|8.0|8.4|8.1|http://www.dianping.com/shop/27008196|http://www.dianping.com/search/category/1/10/g34014
+下午茶|哈肯铺面包HOGAN BAKERY|sml-str40|1678|￥43|新天地|黄陂南路380号|8.2|8.5|8.2|http://www.dianping.com/shop/68004976|http://www.dianping.com/search/category/1/10/g34014

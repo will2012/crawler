@@ -1,0 +1,10 @@
+华东地区|浙江|衢州|http://www.dianping.com/quzhou|友好饭店|/shop/3523582|市区|步行至孔氏南宗家庙10分钟|四星级酒店&很干净&交通方便&位置好&服务好&性价比高&很安静&早餐很棒&房间大&家的感觉&睡眠舒适|￥198|sml-str40
+华东地区|浙江|衢州|http://www.dianping.com/quzhou|东方大酒店|/shop/18474245|开化县中心城区||高档型&房间奢华&风景不错&交通方便&位置好&服务好&很干净&很安静&房间大&设施新&家的感觉|￥296|sml-str45
+华东地区|浙江|衢州|http://www.dianping.com/quzhou|开化大酒店|/shop/2640292|开化县中心城区||经济型&很干净&交通方便|￥128|sml-str45
+华东地区|浙江|衢州|http://www.dianping.com/quzhou|江山金陵大酒店|/shop/21959787|江山市中心城区||豪华型&性价比高|￥579|sml-str50
+华东地区|浙江|衢州|http://www.dianping.com/quzhou|江山国际大酒店|/shop/4021756|江山市中心城区||四星级酒店&风景不错&位置好&很安静|￥538|sml-str40
+华东地区|浙江|衢州|http://www.dianping.com/quzhou|帝京大酒店|/shop/4510781|北区|步行至衢州城墙18分钟|四星级酒店&位置好&很干净&服务好&房间大&性价比高|￥329|sml-str40
+华东地区|浙江|衢州|http://www.dianping.com/quzhou|圣效大酒店|/shop/4097072|樟潭镇||四星级酒店&很干净|￥109|sml-str40
+华东地区|浙江|衢州|http://www.dianping.com/quzhou|开化国际大酒店|/shop/21992821|开化县其他||豪华型&服务好&很干净|￥631|sml-str50
+华东地区|浙江|衢州|http://www.dianping.com/quzhou|衢州国际大酒店|/shop/5193395|南区|步行至南瓜庄园19分钟|四星级酒店&早餐很棒&服务好&位置好&交通方便&很干净|￥298|sml-str40
+华东地区|浙江|衢州|http://www.dianping.com/quzhou|东方大酒店|/shop/13762693|常山县中心城区||高档型&很干净&房间大|￥298|sml-str40

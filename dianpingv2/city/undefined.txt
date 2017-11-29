@@ -1,0 +1,2 @@
+|undefined|undefined|||||||||Error: options.uri is a required argument
+|undefined|undefined|undefined|||||||||Error: Invalid URI "undefinedp1"

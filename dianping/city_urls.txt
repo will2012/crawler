@@ -1,0 +1,4 @@
+直辖市|直辖市|北京|http://www.dianping.com/kezuohouqi
+直辖市|直辖市|重庆|http://www.dianping.com/chongqing
+直辖市|直辖市|上海|http://www.dianping.com/shanghai
+直辖市|直辖市|天津|http://www.dianping.com/tianjin

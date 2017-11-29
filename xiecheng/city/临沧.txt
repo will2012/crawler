@@ -1,0 +1,6 @@
+中部西部|云南|临沧|http://www.dianping.com/linchang|三江半岛大酒店|/shop/12159501|云县其他||高档型|￥238|sml-str40
+中部西部|云南|临沧|http://www.dianping.com/linchang|临沧空港观光酒店|/shop/5174367|临翔区|步行至临沧清真寺7分钟|高档型|￥390|sml-str40
+中部西部|云南|临沧|http://www.dianping.com/linchang|临通大酒店|/shop/5152833|临翔区|步行至临沧清真寺9分钟|高档型|￥518|sml-str40
+中部西部|云南|临沧|http://www.dianping.com/linchang|君林酒店|/shop/20687915|耿马傣族佤族自治县其他||经济型||sml-str35
+中部西部|云南|临沧|http://www.dianping.com/linchang|水木年华温泉酒店|/shop/22533308|云县其他||经济型||sml-str0
+中部西部|云南|临沧|http://www.dianping.com/linchang|天利宾馆|/shop/12158699|耿马傣族佤族自治县其他|步行至耿马总佛寺16分钟|经济型||sml-str0

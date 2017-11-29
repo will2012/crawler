@@ -1,0 +1,15 @@
+华北东北|山西|晋城|http://www.dianping.com/jincheng|晋城国贸酒店|/shop/18208422|泽洲路||豪华型&很干净|￥269|sml-str40
+华北东北|山西|晋城|http://www.dianping.com/jincheng|环城凯斯顿酒店|/shop/11829128|阳城县其他||豪华型&很干净&睡眠舒适|￥198|sml-str50
+华北东北|山西|晋城|http://www.dianping.com/jincheng|阳光大酒店(晋城泽州路店)|/shop/13753616|泽洲路||四星级酒店&早餐很棒&服务好&很干净|￥116|sml-str40
+华北东北|山西|晋城|http://www.dianping.com/jincheng|九龙世纪会所酒店|/shop/19331414|高平市其他||舒适型|￥98|sml-str40
+华北东北|山西|晋城|http://www.dianping.com/jincheng|晋城大酒店|/shop/5181981|泽洲路||四星级酒店&位置好&服务好|￥108|sml-str35
+华北东北|山西|晋城|http://www.dianping.com/jincheng|竹林山大酒店|/shop/5181955|阳城县其他||四星级酒店|￥198|sml-str40
+华北东北|山西|晋城|http://www.dianping.com/jincheng|相府庄园酒店|/shop/16971480|阳城县其他||舒适型&服务好&很干净&房间大|￥338|sml-str35
+华北东北|山西|晋城|http://www.dianping.com/jincheng|高平澳林大酒店|/shop/13758847|高平市其他||高档型|￥298|sml-str40
+华北东北|山西|晋城|http://www.dianping.com/jincheng|煤海宾馆|/shop/4186118|泽洲路||三星级酒店&房间大&很干净|￥258|sml-str35
+华北东北|山西|晋城|http://www.dianping.com/jincheng|富景国际饭店|/shop/13753617|泽洲路||四星级酒店&很干净|￥69|sml-str35
+华北东北|山西|晋城|http://www.dianping.com/jincheng|晋城金缘商务酒店|/shop/6424349|白云社区||四星级酒店|￥128|sml-str35
+华北东北|山西|晋城|http://www.dianping.com/jincheng|晋城太平洋大酒店|/shop/8919992|白云社区||四星级酒店&交通方便|￥246|sml-str30
+华北东北|山西|晋城|http://www.dianping.com/jincheng|兰花大酒店|/shop/5181944|开发区||四星级酒店&房间大&很安静|￥278|sml-str35
+华北东北|山西|晋城|http://www.dianping.com/jincheng|缔景皇冠大酒店|/shop/11848874|城区||舒适型|￥198|sml-str35
+华北东北|山西|晋城|http://www.dianping.com/jincheng|凤城宾馆|/shop/10021502|城区||经济型&很干净|￥79|sml-str20

@@ -1,0 +1,16 @@
+华东地区|浙江|舟山|http://www.dianping.com/zhoushan|普陀山祥生大酒店|/shop/4280814|普陀山风景区|步行至普陀山慧济禅寺20分钟|豪华型&风景不错&高空滑索&游泳池赞&海景赞&一线海景&中式古典风&按摩浴缸&早餐很棒&性价比高&交通方便|￥1086|sml-str40
+华东地区|浙江|舟山|http://www.dianping.com/zhoushan|舟山朱家尖绿城威斯汀度假酒店|/shop/18318663|朱家尖风景区||豪华型&游泳池赞&风景不错&冲浪池&私家沙滩&别墅&一线海景&儿童乐园&早餐很棒&性价比高&设施新|￥1682|sml-str40
+华东地区|浙江|舟山|http://www.dianping.com/zhoushan|舟山喜来登绿城酒店|/shop/2447287|教育学院||五星级酒店&游泳池赞&人造沙滩&风景不错&中式古典风&早餐很棒&服务好&很干净&交通方便&位置好&设施新&性价比高|￥839|sml-str40
+华东地区|浙江|舟山|http://www.dianping.com/zhoushan|舟山希尔顿酒店|/shop/23125196|海州路||豪华型|￥1283|sml-str40
+华东地区|浙江|舟山|http://www.dianping.com/zhoushan|世茂大酒店|/shop/8855302|工农路||高档型|￥428|sml-str35
+华东地区|浙江|舟山|http://www.dianping.com/zhoushan|天悦湾度假酒店|/shop/6305292|嵊泗县其他|步行至灵音寺18分钟|高档型&私家沙滩&别墅&游泳池赞&私人泳池&风景不错&很干净&位置好&服务好&早餐很棒&很安静|￥1780|sml-str40
+华东地区|浙江|舟山|http://www.dianping.com/zhoushan|前景君廷温泉度假酒店|/shop/9318251|岱山县其他||高档型&很干净&很安静&房间大|￥500|sml-str45
+华东地区|浙江|舟山|http://www.dianping.com/zhoushan|新华侨饭店|/shop/2597434|中大街||高档型&很干净&服务好&早餐很棒&交通方便&很安静||sml-str40
+华东地区|浙江|舟山|http://www.dianping.com/zhoushan|沈家门中景酒店|/shop/20710894|沈家门||舒适型&老板人很好|￥308|sml-str35
+华东地区|浙江|舟山|http://www.dianping.com/zhoushan|格林豪泰贝壳酒店|/shop/15856108|东海中路||经济型&很干净&服务好|￥132|sml-str30
+华东地区|浙江|舟山|http://www.dianping.com/zhoushan|绿城朱家尖东沙度假村|/shop/18585389|普陀区||舒适型&很干净&房间大&服务好&位置好&很安静&性价比高&设施新&睡眠舒适||sml-str40
+华东地区|浙江|舟山|http://www.dianping.com/zhoushan|绿水明珠度假酒店|/shop/13677394|工农路||经济型&很干净&很安静|￥168|sml-str35
+华东地区|浙江|舟山|http://www.dianping.com/zhoushan|朱家尖淡风林度假村|/shop/4097402|朱家尖风景区|步行至朱家尖国际沙雕艺术广场3分钟|三星级酒店|￥5434|sml-str35
+华东地区|浙江|舟山|http://www.dianping.com/zhoushan|海之洲宾馆|/shop/13758448|嵊泗县其他|步行至嵊泗基湖沙滩10分钟|舒适型||sml-str35
+华东地区|浙江|舟山|http://www.dianping.com/zhoushan|怡景山庄|/shop/2717266|朱家尖风景区|步行至朱家尖国际沙雕艺术广场2分钟|舒适型||sml-str35
+华东地区|浙江|舟山|http://www.dianping.com/zhoushan|渔家傲山庄|/shop/13754175|岱山县中心城区||舒适型||sml-str30

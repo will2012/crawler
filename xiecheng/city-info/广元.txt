@@ -1,0 +1,5 @@
+中部西部|四川|广元|http://www.dianping.com/guangyuan|广元国际大酒店|/shop/5177140|市中区||四星级酒店&很干净&位置好&很安静|￥300|sml-str50|地址：东城开发区苴国路555号(近万达广场、广元湿地公园)|0839-3296222
+中部西部|四川|广元|http://www.dianping.com/guangyuan|广元天成大酒店|/shop/5616937|市中区|步行至皇泽寺19分钟|豪华型&位置好&交通方便&很干净&房间大|￥447|sml-str40|地址：利州西路财神街60号(近天成摩尔商业广场)|0839-3666888
+中部西部|四川|广元|http://www.dianping.com/guangyuan|苍溪国际大酒店|/shop/5364007|苍溪县其他||四星级酒店|￥288|sml-str45|Error: getaddrinfo ENOTFOUND www.dianping.com www.dianping.com:443
+中部西部|四川|广元|http://www.dianping.com/guangyuan|苍溪国际大酒店|/shop/5364007|苍溪县其他||四星级酒店|￥288|sml-str45|地址：滨江路328号(近县政府)|0839-6296666 0839-6295555
+中部西部|四川|广元|http://www.dianping.com/guangyuan|凤台宾馆|/shop/5310606|市中区|步行至嘉陵江畔17分钟|高档型&中式古典风&很干净&很安静&位置好&房间大|￥304|sml-str40|地址：滨河南路41号(南河湖心岛上)|0839-3333733
